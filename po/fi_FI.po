@@ -1,0 +1,1092 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "Yhteystiedot"
+
+msgid "addr_bd_browse"
+msgstr "Selaa"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Osoite"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Syntymäpäivä"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s -puhelu"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s -pikaviesti"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "Sähköposti"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Sijainti"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Matkapuhelin"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Puhelin"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "faksi"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "muut"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP-ääni"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP-video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Skype-puhelu"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "koti"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "työ"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s -videopuhelu"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Web-sivu"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopioi"
+
+msgid "addr_bd_delete_locally"
+msgstr "Poista kaikki yhteystiedot laitteesta"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Tuo yhteystietoja"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Tuo yhteystietoja uudelta tililtä"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Kopioi SIM-kortilta"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Synkronoi toisesta laitteesta"
+
+msgid "addr_bd_get_from_file"
+msgstr "Tuo yhteystietotiedosto"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Tuo yhteystietokansio"
+
+msgid "addr_bd_import"
+msgstr "Tuo"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Tuo Mail Exch. -yhteystiedot"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Lisää kenttä"
+
+msgid "addr_bd_newedit_address"
+msgstr "Osoite"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Alue"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Syntymäpäivä"
+
+msgid "addr_bd_newedit_email"
+msgstr "Sähköposti"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Sukupuoli"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Puhelin"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Matkapuhelin"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Poista kenttiä"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "Sähköposti"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Tekstiviesti"
+
+msgid "addr_bd_temporary_add"
+msgstr "Liitä yhteystietoon"
+
+msgid "addr_bd_temporary_call"
+msgstr "Puhelu"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Pikaviesti"
+
+msgid "addr_bd_temporary_new"
+msgstr "Uusi yhteystieto"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP-ääni"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP-video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype-puhelu"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype-pikaviesti"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Skype-puhelu"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Tekstiviesti"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Vastaajan numero"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Yritys"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Sukupuoli"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Lempinimi"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Muistiinpano"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Tehtävänimike"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Näytä SMS vain matkapuhelinnumeroille"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Näytä videopuheluvaihtoehto"
+
+msgid "addr_fi_displayname"
+msgstr "Nimien näyttäminen"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Kaikki yhteystiedot"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Vie:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Valitut yhteystiedot"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Vie kohteeseen:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Sijainti"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Kansion nimi"
+
+msgid "addr_fi_mecard_address"
+msgstr "Osoite"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Osoite (koti)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Osoite (työ)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Syntymäpäivä"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk -käyttäjänimi"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber-käyttäjänimi"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia-käyttäjänimi"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP-käyttäjänimi"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype-nimi"
+
+msgid "addr_fi_mecard_company"
+msgstr "Yritys"
+
+msgid "addr_fi_mecard_email"
+msgstr "Sähköposti"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "S-posti (koti)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "S-posti (työ)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Sukupuoli"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Matkapuhelin"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Matkapuhelin (koti)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Matkapuhelin (työ)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Nimi"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Lempinimi"
+
+msgid "addr_fi_mecard_note"
+msgstr "Muistiinpano"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Puhelin"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Faksi"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Puhelin (koti)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Puhelin (työ)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Tehtävänimike"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Web-sivu"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Kaupunki"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Lisätiedot"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Postilokero"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Postinumero"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Maakunta"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Katu"
+
+msgid "addr_fi_newedit_company"
+msgstr "Yritys"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Etunimi"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk -käyttäjänimi"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber-käyttäjänimi"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Sukunimi"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Lempinimi"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia-käyttäjänimi"
+
+msgid "addr_fi_newedit_note"
+msgstr "Muistiinpano"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP-käyttäjänimi"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype-nimi"
+
+msgid "addr_fi_newedit_title"
+msgstr "Tehtävänimike"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Web-sivu"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Etsi"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Syntymäpäivä"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Yritys"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Etunimi"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Sukupuoli"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Sukunimi"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Lempinimi"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Tehtävänimike"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Vastaaja"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Tämän ohjatun toiminnon avulla voit viedä yhteystietoja ja siirtää niitä "
+"toisiin sovelluksiin.\n"
+"Jatka valitsemalla Seuraava."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Yhteystietojen vienti epäonnistui.\n"
+"Yritä uudelleen valitsemalla Edellinen tai sulje ohjattu toiminto "
+"napauttamalla valintaikkunan ulkopuolella."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Yhteystietojen vienti on valmis.\n"
+"Yhteystiedot on viety kansioon %s.\n"
+"Poistu ohjatusta toiminnosta valitsemalla Valmis."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Yhteystietojen vienti epäonnistui.\n"
+"Muisti ei riitä.\n"
+"Yritä uudelleen valitsemalla Edellinen tai sulje ohjattu toiminto "
+"napauttamalla valintaikkunan ulkopuolella."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Yhteystietojen vienti epäonnistui.\n"
+"Kohdesijainnin muisti ei riitä.\n"
+"Yritä uudelleen valitsemalla Edellinen. Valitse toinen sijainti tai sulje "
+"ohjattu toiminto napauttamalla valintaikkunan ulkopuolella."
+
+msgid "addr_ia_no_contacts"
+msgstr "(ei yhteystietoja)"
+
+msgid "addr_ia_no_details"
+msgstr "(ei tietoja)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Haluatko, että %s näkee tavoitettavuutesi?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Yhteystietoja ei löytynyt"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Kuvaa ei voi avata. Se voi olla viallinen."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Yhteystietoja ei voi näyttää. Yhteystieto on voitu poistaa tai yhteystiedon "
+"pikaviestitili on voitu poistaa."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Ei voi soittaa. Henkilö on offline-tilassa."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Yhteystietoa ei voi valita.\n"
+"Toimintoa ei tueta."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"Toimintoa ei voi suorittaa.\n"
+"Laitteen muisti täynnä."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Uutta kenttää ei voi lisätä. Kenttiä on enimmäismäärä."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Kirjoita ensin tiedoston nimi"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d yhteystietoa tuotu. %d tuonti epäonnistui."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d yhteystietoa tuotu. 1 tuonti epäonnistui."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 yhteystieto tuotu. %d tuonti epäonnistui."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Yhteystieto tuotu"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Yhteystiedot tuotu"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Yhteystietoja ei löytynyt"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "VoIP-puhelua ei voi aloittaa. Käyttäjänimeä %s ei ole olemassa."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Pikaviestiä ei voi lähettää. Käyttäjänimeä %s ei ole olemassa."
+
+msgid "addr_ib_maps_failed"
+msgstr "Kartat-sovellusta ei voi avata. Osoite voi olla virheellinen."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Kartat-sovellusta ei voi avata. Palvelin ei vastaa."
+
+msgid "addr_ib_no_name_given"
+msgstr "Kirjoita yhteystiedon nimi"
+
+msgid "addr_ib_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"Toimintoa ei voi suorittaa\n"
+"Muisti ei riitä."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"Toimintoa ei voi suorittaa.\n"
+"Käyttö evätty."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Lähetetään tunnistuspyyntöviesti yhteystiedolle %s"
+
+msgid "addr_ib_searching"
+msgstr "Etsitään"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Linkki luotiin työpöydälle."
+
+msgid "addr_ib_system_error"
+msgstr ""
+"Toimintoa ei voi suorittaa\n"
+"Sisäinen virhe."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Ei voi tallentaa"
+
+msgid "addr_ib_undefined_error"
+msgstr "Määrittelemätön virhe"
+
+msgid "addr_ib_unknown_number"
+msgstr "Tuntematon numero. Yhteystietoja ei voi näyttää."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Ö"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZÅÄÖ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(ei yhteystietoja)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(ei kuvia)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Ei nimeä"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Tilit"
+
+msgid "addr_me_communication_history"
+msgstr "Viestintähistoria"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Kopioi yhteystietoihin"
+
+msgid "addr_me_create_shortcut"
+msgstr "Lisää työpöydälle"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Lisää yhteystietoihin"
+
+msgid "addr_me_edit_contact"
+msgstr "Muokkaa"
+
+msgid "addr_me_editmyinfo"
+msgstr "Muokkaa"
+
+msgid "addr_me_email"
+msgstr "Sähköposti"
+
+msgid "addr_me_export"
+msgstr "Vie yhteystiedot"
+
+msgid "addr_me_groups"
+msgstr "Ryhmät"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP- ja pikaviestitilit"
+
+msgid "addr_me_import"
+msgstr "Tuo yhteystiedot"
+
+msgid "addr_me_importall"
+msgstr "Kopioi kaikki yhteystiedot"
+
+msgid "addr_me_importsel"
+msgstr "Kopioi valitut yhteystiedot"
+
+msgid "addr_me_mecard"
+msgstr "Omat tiedot"
+
+msgid "addr_me_merge_contact"
+msgstr "Liitä yhteystietoon"
+
+msgid "addr_me_new_contact"
+msgstr "Uusi yhteystieto"
+
+msgid "addr_me_recent"
+msgstr "Loki"
+
+msgid "addr_me_remove_contact"
+msgstr "Poista yhteystieto"
+
+msgid "addr_me_remove_contacts"
+msgstr "Poista yhteystietoja"
+
+msgid "addr_me_request_author"
+msgstr "Tunnistuspyyntö"
+
+msgid "addr_me_send_card"
+msgstr "Lähetä käyntikortti"
+
+msgid "addr_me_send_detail"
+msgstr "Lähetä yhteystieto"
+
+msgid "addr_me_sendmycard"
+msgstr "Lähetä käyntikortti"
+
+msgid "addr_me_sendmydetail"
+msgstr "Lähetä yhteystieto "
+
+msgid "addr_me_settings"
+msgstr "Asetukset"
+
+msgid "addr_me_status"
+msgstr "Tila"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Poista kaikki yhteystiedot laitteesta?\n"
+"Pikaviestinnän yhteystietoja ei poisteta palvelimelta."
+
+msgid "addr_nc_delete_field"
+msgstr "Poistetaanko kenttä?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Poistetaanko kentät?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Poistetaanko pikaviestinnän käyttäjänimi?\n"
+"%s\n"
+"Kun pikaviestinnän käyttäjänimi poistetaan, se poistuu myös palvelusta %s."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Poistetaanko valitut pikaviestinnän käyttäjänimet?\n"
+"Kun pikaviestinnän käyttäjänimet poistetaan, ne poistuvat myös palvelusta %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Poistetaanko valitut pikaviestinnän käyttäjänimet?\n"
+"Kun pikaviestinnän käyttäjänimet poistetaan, ne poistuvat myös "
+"pikaviestipalvelusta."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Yhteystiedoista ei löydy yhteystietoja tälle palvelulle.\n"
+"Luodaanko uusi nimi?"
+
+msgid "addr_nc_notification15"
+msgstr "Tuodaanko yhteystietoihin?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Poistetaanko yhteystieto?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr ""
+"Palvelimen aikakatkaisu. Yhteystiedot on avattava uudelleen. Avataanko "
+"uudelleen?"
+
+msgid "addr_nc_notification7"
+msgstr "Poistetaanko valitut yhteystiedot?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Poistetaanko yhteystieto?\n"
+"%s\n"
+"Kun yhteystieto poistetaan, se poistuu myös palvelusta %s."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Poistetaanko valitut yhteystiedot?\n"
+"Kun yhteystieto poistetaan, se poistuu myös palvelusta %s."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Poistetaanko valitut yhteystiedot?\n"
+"Kun yhteystieto poistetaan, se poistuu myös pikaviestipalvelusta."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Poistetaanko yhteystieto?\n"
+"%s\n"
+"Kun yhteystieto poistetaan, se poistuu myös pikaviestipalvelusta."
+
+msgid "addr_nc_send_avatar"
+msgstr "Haluatko lähettää myös avatarin?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Tuonti epäonnistui"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Tuonti epäonnistui.\n"
+"Tunnistamaton muoto."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Tuonti epäonnistui.\n"
+"Muisti ei riitä."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Tuonti epäonnistui.\n"
+"Tiedosto liian suuri."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Sisäinen virhe.\n"
+"Yhteystiedot on käynnistettävä uudelleen."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Viedään yhteystietoja"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Tuodaan yhteystietoja"
+
+msgid "addr_pb_load_contacts"
+msgstr "Ladataan yhteystietoja"
+
+msgid "addr_pb_notification13"
+msgstr "Tuodaan yhteystietoja"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Etsitään yhteystietoja"
+
+msgid "addr_ti_add_field_title"
+msgstr "Uusi kenttä"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Valitse oma tilisi"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Valitse tili, jota käytetään tämän käyttäjän kanssa"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Valitse tili, jota käytetään tämän käyttäjän kanssa"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Rajaa avatar"
+
+msgid "addr_ti_delete_field"
+msgstr "Poista kenttiä"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Valitse yhteystiedot"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Vie yhteystietoja 1/5: Tervetuloa"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Vie yhteystietoja 2/5: Vietävät yhteystiedot"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Vie yhteystietoja 3/5: Tiedostomuoto"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Vie yhteystietoja 4/5: Kansio ja sijainti"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Vie yhteystietoja 5/5: Valmis"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Vie yhteystietoja vaihe 5/5: Epäonnistui"
+
+msgid "addr_ti_get_contacts"
+msgstr "Tuo yhteystiedot"
+
+msgid "addr_ti_groups_title"
+msgstr "Ryhmät"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Tuo yhteystietokansio"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Tuo yhteystietotiedosto"
+
+msgid "addr_ti_import_contacts"
+msgstr "Tuo yhteystietoja"
+
+msgid "addr_ti_main_view"
+msgstr "Kaikki yhteystiedot (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Kaikki yhteystiedot"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Yhteystietoloki"
+
+msgid "addr_ti_mecard_title"
+msgstr "Omat tiedot"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Lisää omat tiedot"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Liitä yhteystietoon"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Muokkaa omia tietoja"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Muokkaa yhteystietoa"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Uusi yhteystieto"
+
+msgid "addr_ti_request_author"
+msgstr "%s -tunnistuspyyntö"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Etsi Mail Exch. -yhteystietoja"
+
+msgid "addr_ti_sel_contact"
+msgstr "Valitse nimi"
+
+msgid "addr_ti_select_avatar"
+msgstr "Valitse kuva"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Lähetä yhteystieto"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Valitse kuva"
+
+msgid "addr_ti_send_card"
+msgstr "Käyntikortin lähetystapa"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Yhteystiedon lähetystapa"
+
+msgid "addr_ti_settings2"
+msgstr "Asetukset"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Selvitä yhteystietojen ristiriidat"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Valitse yhteystiedot"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Vastaaja"
+
+msgid "addr_va_add_field_address"
+msgstr "Osoite"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Osoite (koti)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Osoite (työ)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Syntymäpäivä"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk -käyttäjänimi"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber-käyttäjänimi"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia-käyttäjänimi"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP-käyttäjänimi"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype-nimi"
+
+msgid "addr_va_add_field_company"
+msgstr "Yritys"
+
+msgid "addr_va_add_field_email"
+msgstr "Sähköposti"
+
+msgid "addr_va_add_field_email_home"
+msgstr "Sähköposti (koti)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "Sähköposti (työ)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Sukupuoli"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Matkapuhelin"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Matkapuhelin (koti)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Matkapuhelin (työ)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Lempinimi"
+
+msgid "addr_va_add_field_note"
+msgstr "Muistiinpano"
+
+msgid "addr_va_add_field_phone"
+msgstr "Puhelin"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Faksi"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Puhelin (koti)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Puhelin (työ)"
+
+msgid "addr_va_add_field_title"
+msgstr "Tehtävänimike"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Web-sivu"
+
+msgid "addr_va_emergency_number"
+msgstr "Hätänumero"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Viedyt yhteystiedot"
+
+msgid "addr_va_firstname"
+msgstr "Etunimi Sukunimi"
+
+msgid "addr_va_general_female"
+msgstr "Nainen"
+
+msgid "addr_va_general_male"
+msgstr "Mies"
+
+msgid "addr_va_general_undefined"
+msgstr "Ei määritetty"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM-kortin yhteystiedot"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Sukunimi Etunimi"
+
+msgid "addr_va_lastname_comma"
+msgstr "Sukunimi, Etunimi"
+
+msgid "addr_va_newedit_address_general"
+msgstr "yleistä"
+
+msgid "addr_va_newedit_address_home"
+msgstr "koti"
+
+msgid "addr_va_newedit_address_work"
+msgstr "työ"
+
+msgid "addr_va_newedit_email_general"
+msgstr "yleistä"
+
+msgid "addr_va_newedit_email_home"
+msgstr "koti"
+
+msgid "addr_va_newedit_email_work"
+msgstr "työ"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "koti"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "työ"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "faksi"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "yleinen"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "koti"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "ei tuetut"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "työ"
+
+msgid "addr_va_nickname"
+msgstr "Lempinimi"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Määritä syntymäpäivä"

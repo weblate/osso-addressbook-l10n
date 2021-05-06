@@ -1,0 +1,1095 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "Kontakte"
+
+msgid "addr_bd_browse"
+msgstr "Durchs."
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adresse"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Geburtstag"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s Anruf"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s Chat"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-Mail"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Speicherort"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Handy"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "Fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "Andere"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP-Audio"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP-Video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Anruf über Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "Privat"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "Arbeit"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s Videoanruf"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Internetseite"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopieren"
+
+msgid "addr_bd_delete_locally"
+msgstr "Alle Kontakte von Gerät löschen"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Kontakte importieren"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Kontakte von neuem Konto importieren"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Von SIM-Karte kopieren"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Über anderes Gerät synchronisieren"
+
+msgid "addr_bd_get_from_file"
+msgstr "Kontaktdatei importieren"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Kontaktordner importieren"
+
+msgid "addr_bd_import"
+msgstr "Importieren"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Mail Exch.-Kontakte importieren"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Feld hinzufügen"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adresse"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Region"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Geburtstag"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-Mail"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Geschlecht"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Handy"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Felder löschen"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-Mail"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Textmitteilung"
+
+msgid "addr_bd_temporary_add"
+msgstr "Zusammenführen mit Kontakt"
+
+msgid "addr_bd_temporary_call"
+msgstr "Anruf"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Chat"
+
+msgid "addr_bd_temporary_new"
+msgstr "Neuer Kontakt"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP-Audio"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP-Video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype-Anruf"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype-Chat"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Anruf über Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Textmitteilung"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Voicemail-Nummer"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Firma"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Geschlecht"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Nickname"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Notiz"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Beruf"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "SMS nur für Handynummern anzeigen"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Videoanrufoptionen anzeigen"
+
+msgid "addr_fi_displayname"
+msgstr "Namen anzeigen"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Alle Kontakte"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exportieren:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Ausgew. Kontakte"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exportieren nach:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Speicherort"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Ordnername"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adresse"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Adresse (privat)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Adresse (Arbeit)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Geburtstag"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google-Talk-Benutzername"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber-Benutzername"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia-Benutzername"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP-Benutzername"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype-Name"
+
+msgid "addr_fi_mecard_company"
+msgstr "Firma"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-Mail"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-Mail (privat)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-Mail (Arbeit)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Geschlecht"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Handy"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Handy (privat)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Handy (Arbeit)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Name"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Nickname"
+
+msgid "addr_fi_mecard_note"
+msgstr "Notiz"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefon"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefon (privat)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefon (Arbeit)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Beruf"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Internetseite"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Ort"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Zusatz"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Postfach"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Postleitzahl"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Land/Provinz"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Straße"
+
+msgid "addr_fi_newedit_company"
+msgstr "Firma"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Vorname"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google-Talk-Benutzername"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber-Benutzername"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Nachname"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Nickname"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia-Benutzername"
+
+msgid "addr_fi_newedit_note"
+msgstr "Notiz"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP-Benutzername"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype-Name"
+
+msgid "addr_fi_newedit_title"
+msgstr "Beruf"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Internetseite"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Suche"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Geburtstag"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Firma"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Vorname"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Geschlecht"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Nachname"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Nickname"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Beruf"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Voicemail"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Mit dem Assistenten 'Kontakte exportieren' können Sie Ihre Kontakte für eine "
+"Verwendung in anderen Programmen exportieren.\n"
+"Zum Fortfahren auf 'Weiter' tippen."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Exportieren der Kontakte fehlgeschlagen.\n"
+"Tippen Sie auf 'Zurück', um es erneut zu versuchen, oder neben den Dialog, "
+"um den Assistenten zu schließen."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Der Kontaktexport ist abgeschlossen.\n"
+"Kontakte wurden in Ordner '%s' exportiert.\n"
+"Assistent mit 'Fertig stellen' beenden."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Exportieren der Kontakte fehlgeschlagen.\n"
+"Nicht genug Speicherplatz.\n"
+"Tippen Sie auf 'Zurück', um es erneut zu versuchen, oder neben den Dialog, "
+"um den Assistenten zu schließen."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Exportieren der Kontakte fehlgeschlagen.\n"
+"Speicherplatz des Zielspeicherorts reicht nicht aus.\n"
+"Tippen Sie auf 'Zurück' und wählen Sie einen anderen Speicherort aus, um es "
+"erneut zu versuchen. Tippen Sie anderenfalls neben den Dialog, um den "
+"Assistenten zu schließen."
+
+msgid "addr_ia_no_contacts"
+msgstr "(Keine Kontakte)"
+
+msgid "addr_ia_no_details"
+msgstr "(Keine Details)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "%s dazu autorisieren, Ihre Verfügbarkeit zu sehen?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Keine Kontakte gefunden"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Bild kann nicht geöffnet werden. Es könnte beschädigt sein."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Kontaktinformationen können nicht angezeigt werden. Kontakt wurde "
+"möglicherweise gelöscht oder IM-Konto mit Kontakt wurde entfernt."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Anruf nicht möglich. Kontakt offline."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Auswählen des Kontakts nicht möglich.\n"
+"Kontext nicht unterstützt."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"Vorgang kann nicht ausgeführt werden.\n"
+"Gerätespeicher voll."
+
+msgid "addr_ib_field_amount_limited"
+msgstr ""
+"Hinzufügen eines neuen Feldes nicht möglich. Maximale Felderanzahl erreicht."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Dateinamen zuerst eingeben"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d Kontakte importiert. %d fehlgeschlagen."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d Kontakte importiert. 1 fehlgeschlagen."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 Kontakt importiert. %d fehlgeschlagen."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Kontakt importiert"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Kontakte importiert"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Keine Kontakte gefunden"
+
+msgid "addr_ib_invalid_username_call"
+msgstr ""
+"Starten des VoIP-Anrufs nicht möglich. Benutzername '%s' existiert nicht."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr ""
+"Starten der Sofortnachricht nicht möglich. Benutzername '%s' existiert nicht."
+
+msgid "addr_ib_maps_failed"
+msgstr "Öffnen der Karten nicht möglich. Adresse möglicherweise ungültig."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Öffnen der Karten nicht möglich. Server antwortet nicht."
+
+msgid "addr_ib_no_name_given"
+msgstr "Name für den Kontakt eingeben"
+
+msgid "addr_ib_not_available"
+msgstr "Nicht verfügbar"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"Vorgang kann nicht ausgeführt werden.\n"
+"Nicht genügend Speicher."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"Befehl kann nicht ausgeführt werden.\n"
+"Erlaubnis verweigert."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Autorisierungsanfrage an %s senden"
+
+msgid "addr_ib_searching"
+msgstr "Suche läuft"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Shortcut auf Desktop erstellt."
+
+msgid "addr_ib_system_error"
+msgstr ""
+"Vorgang kann nicht ausgeführt werden.\n"
+"Interner Fehler."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Speichern nicht möglich"
+
+msgid "addr_ib_undefined_error"
+msgstr "Nicht definierter Fehler"
+
+msgid "addr_ib_unknown_number"
+msgstr "Unbekannte Nummer. Kontaktinformationen können nicht angezeigt werden."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(Keine Kontakte)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(Keine Bilder)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Kein Name"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Konten"
+
+msgid "addr_me_communication_history"
+msgstr "Kommunikationsverlauf"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "In Kontakte kopieren"
+
+msgid "addr_me_create_shortcut"
+msgstr "Shortcut erstellen"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Zu Kontakten hinzufügen"
+
+msgid "addr_me_edit_contact"
+msgstr "Bearbeiten"
+
+msgid "addr_me_editmyinfo"
+msgstr "Bearbeiten"
+
+msgid "addr_me_email"
+msgstr "E-Mail"
+
+msgid "addr_me_export"
+msgstr "Exportieren"
+
+msgid "addr_me_groups"
+msgstr "Gruppen"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP- und Chat-Konten"
+
+msgid "addr_me_import"
+msgstr "Kontakte beziehen"
+
+msgid "addr_me_importall"
+msgstr "Alle Kontakte kopieren"
+
+msgid "addr_me_importsel"
+msgstr "Ausgew. Kontakte kopieren"
+
+msgid "addr_me_mecard"
+msgstr "Meine Daten"
+
+msgid "addr_me_merge_contact"
+msgstr "Kontakt zusammenführen"
+
+msgid "addr_me_new_contact"
+msgstr "Neuer Kontakt"
+
+msgid "addr_me_recent"
+msgstr "Letzte"
+
+msgid "addr_me_remove_contact"
+msgstr "Kontakt löschen"
+
+msgid "addr_me_remove_contacts"
+msgstr "Kontakte löschen"
+
+msgid "addr_me_request_author"
+msgstr "Autorisierungsanforderung"
+
+msgid "addr_me_send_card"
+msgstr "Visitenkarte senden"
+
+msgid "addr_me_send_detail"
+msgstr "Kontaktdetail senden"
+
+msgid "addr_me_sendmycard"
+msgstr "Visitenkarte senden"
+
+msgid "addr_me_sendmydetail"
+msgstr "Kontaktdetail senden "
+
+msgid "addr_me_settings"
+msgstr "Einstellungen"
+
+msgid "addr_me_status"
+msgstr "Status"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Alle Kontakte von Gerät löschen?\n"
+"Chat-Kontakte werden nicht vom Server gelöscht."
+
+msgid "addr_nc_delete_field"
+msgstr "Feld löschen?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Felder löschen?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Chat-Benutzernamen löschen?\n"
+"%s\n"
+"Dabei wird der Chat-Benutzername auch von %s entfernt."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Ausgewählte Chat-Benutzernamen löschen?\n"
+"Dabei werden die Chat-Benutzernamen auch von %s entfernt."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Ausgewählte Chat-Benutzernamen löschen?\n"
+"Dabei werden die Chat-Benutzernamen auch von den Chat-Dienstens entfernt."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Für diesen Dienst wurden in den Kontakten keine Kontakte gefunden.\n"
+"Jetzt neuen Kontakt erstellen?"
+
+msgid "addr_nc_notification15"
+msgstr "In Kontakte importieren?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Kontakt löschen?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr ""
+"Zeitüberschreitung für Server. Kontakte müssen neu gestartet werden. Jetzt "
+"neu starten?"
+
+msgid "addr_nc_notification7"
+msgstr "Ausgewählte Kontakte löschen?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Kontakt löschen?\n"
+"%s\n"
+" Dabei wird der Kontakt auch von %s entfernt."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Ausgewählte Kontakte löschen?\n"
+"Dabei werden die Kontakte auch von %s entfernt."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Ausgewählte Kontakte löschen?\n"
+"Dabei werden die Kontakte auch von den Chat-Diensten entfernt."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Kontakt löschen?\n"
+"%s\n"
+"Dabei wird der Kontakt auch von den Chat-Diensten entfernt."
+
+msgid "addr_nc_send_avatar"
+msgstr "Möchten Sie auch den Avatar senden?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Import fehlgeschlagen"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Import fehlgeschlagen.\n"
+"Format nicht erkannt."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Import fehlgeschlagen.\n"
+"Nicht genug Speicherplatz."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Import fehlgeschlagen.\n"
+"Datei zu groß."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Interner Fehler.\n"
+"Kontakte muss neu gestartet werden."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Kontakte werden exportiert"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Kontakte werden importiert"
+
+msgid "addr_pb_load_contacts"
+msgstr "Kontakte werden geladen"
+
+msgid "addr_pb_notification13"
+msgstr "Kontakte werden importiert"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Kontakte-Suche läuft"
+
+msgid "addr_ti_add_field_title"
+msgstr "Neues Feld"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Eigenes Konto auswählen"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Konto zur Verwendung mit diesem Kontakt auswählen"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Konto zur Verwendung mit diesem Kontakt auswählen"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Avatar-Bild zuschneiden"
+
+msgid "addr_ti_delete_field"
+msgstr "Felder löschen"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Kontakte auswählen"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Kontakte exportieren 1/5: Willkommen"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Kontakte exportieren 2/5: Kontakte für Export"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Kontakte exportieren 3/5: Dateiformat"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Kontakte export. 4/5: Ordner und Speicherort"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Kontakte exportieren 5/5: Abgeschlossen"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Kontakte export., Schritt 5/5: Fehlgeschlagen"
+
+msgid "addr_ti_get_contacts"
+msgstr "Kontakte beziehen"
+
+msgid "addr_ti_groups_title"
+msgstr "Gruppen"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Kontaktordner importieren"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Kontaktdatei importieren"
+
+msgid "addr_ti_import_contacts"
+msgstr "Kontakte importieren"
+
+msgid "addr_ti_main_view"
+msgstr "Alle Kontakte (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Alle Kontakte"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Zuletzt verwendete Kontakte"
+
+msgid "addr_ti_mecard_title"
+msgstr "Meine Daten"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Meine Daten hinzufügen"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Zusammenführen mit Kontakt"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Meine Daten bearbeiten"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Kontakt bearbeiten"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Neuer Kontakt"
+
+msgid "addr_ti_request_author"
+msgstr "%s Autorisierungsanforderung"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Mail Exch.-Kontakte suchen"
+
+msgid "addr_ti_sel_contact"
+msgstr "Eintrag auswählen"
+
+msgid "addr_ti_select_avatar"
+msgstr "Bild auswählen"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Kontaktdetail senden"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Bild auswählen"
+
+msgid "addr_ti_send_card"
+msgstr "Visitenkarte senden über"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Kontaktdetail senden über"
+
+msgid "addr_ti_settings2"
+msgstr "Einstellungen"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Konflikte bei Zusammenführung lösen"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Kontakte auswählen"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Voicemail"
+
+msgid "addr_va_add_field_address"
+msgstr "Adresse"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adresse (privat)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adresse (Arbeit)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Geburtstag"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google-Talk-Benutzername"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber-Benutzername"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia-Benutzername"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP-Benutzername"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype-Name"
+
+msgid "addr_va_add_field_company"
+msgstr "Firma"
+
+msgid "addr_va_add_field_email"
+msgstr "E-Mail"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-Mail (privat)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-Mail (Arbeit)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Geschlecht"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Handy"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Handy (privat)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Handy (Arbeit)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Nickname"
+
+msgid "addr_va_add_field_note"
+msgstr "Notiz"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefon (privat)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefon (Arbeit)"
+
+msgid "addr_va_add_field_title"
+msgstr "Beruf"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Internetseite"
+
+msgid "addr_va_emergency_number"
+msgstr "Notrufnummer"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Exportierte Kontakte"
+
+msgid "addr_va_firstname"
+msgstr "Vorname Nachname"
+
+msgid "addr_va_general_female"
+msgstr "Weiblich"
+
+msgid "addr_va_general_male"
+msgstr "Männlich"
+
+msgid "addr_va_general_undefined"
+msgstr "Nicht definiert"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Kontakte auf SIM-Karte"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Nachname Vorname"
+
+msgid "addr_va_lastname_comma"
+msgstr "Nachname, Vorname"
+
+msgid "addr_va_newedit_address_general"
+msgstr "Allgemein"
+
+msgid "addr_va_newedit_address_home"
+msgstr "Privat"
+
+msgid "addr_va_newedit_address_work"
+msgstr "Arbeit"
+
+msgid "addr_va_newedit_email_general"
+msgstr "Allgemein"
+
+msgid "addr_va_newedit_email_home"
+msgstr "Privat"
+
+msgid "addr_va_newedit_email_work"
+msgstr "Arbeit"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "Privat"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "Arbeit"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "Allgemein"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "Privat"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "nicht unterstützt"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "Arbeit"
+
+msgid "addr_va_nickname"
+msgstr "Nickname"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Geburtstag eingeben"

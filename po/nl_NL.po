@@ -1,0 +1,1098 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "Contacten"
+
+msgid "addr_bd_browse"
+msgstr "Bladeren"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adres"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Verjaardag"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s oproep"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "Chat %s"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-mail"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Locatie"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mobiel"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefoon"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "overige"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP-audio"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP-video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Bellen met Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "Sms"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "thuis"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "werk"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "Videogesprek %s"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Webpagina"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopiëren"
+
+msgid "addr_bd_delete_locally"
+msgstr "Alle contactpersonen van apparaat verwijderen"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Contactpersonen importeren"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Contactpersonen vanuit nieuwe account importeren"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Vanaf SIM-kaart kopiëren"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Synchroniseren met ander apparaat"
+
+msgid "addr_bd_get_from_file"
+msgstr "Bestand met contactpersonen importeren"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Map met contactpersonen importeren"
+
+msgid "addr_bd_import"
+msgstr "Importeren"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Contactpersonen Mail Exch. importeren"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Veld toevoegen"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adres"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Regio"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Verjaardag"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-mail"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Geslacht"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefoon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mobiel"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Velden verwijderen"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-mail"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Tekstbericht"
+
+msgid "addr_bd_temporary_add"
+msgstr "Samenvoegen met contact"
+
+msgid "addr_bd_temporary_call"
+msgstr "Oproep"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Chat"
+
+msgid "addr_bd_temporary_new"
+msgstr "Nieuw contact"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP-audio"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP-video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype-oproep"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype-chat"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Bellen met Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Tekstbericht"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Nummer van voicemail"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Bedrijf"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Geslacht"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Bijnaam"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Notitie"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Functie"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Sms alleen weergeven bij mobiele nummers"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Optie voor videogesprekken weergeven"
+
+msgid "addr_fi_displayname"
+msgstr "Namen weergeven"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Alle contactpersonen"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exporteren:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Geselecteerd"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exporteren naar:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Locatie"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Mapnaam"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adres"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Adres (thuis)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Adres (werk)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Verjaardag"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Gebruikersnaam voor Google Talk"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Gebruikersnaam voor Jabber"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Gebruikersnaam voor Nokia"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "Gebruikersnaam voor SIP"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype-naam"
+
+msgid "addr_fi_mecard_company"
+msgstr "Bedrijf"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-mail"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-mail (thuis)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-mail (werk)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Geslacht"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mobiel"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mobiel (thuis)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mobiel (werk)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Naam"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Bijnaam"
+
+msgid "addr_fi_mecard_note"
+msgstr "Notitie"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefoon"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefoon (thuis)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefoon (werk)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Functie"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Webpagina"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Plaats"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Toevoeging"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Postbus"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Postcode"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Staat/Provincie"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Straat"
+
+msgid "addr_fi_newedit_company"
+msgstr "Bedrijf"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Voornaam"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Gebruikersnaam voor Google Talk"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Gebruikersnaam voor Jabber"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Achternaam"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Bijnaam"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Gebruikersnaam voor Nokia"
+
+msgid "addr_fi_newedit_note"
+msgstr "Notitie"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "Gebruikersnaam voor SIP"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype-naam"
+
+msgid "addr_fi_newedit_title"
+msgstr "Functie"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Webpagina"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Zoeken"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Verjaardag"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Bedrijf"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Voornaam"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Geslacht"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Achternaam"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Bijnaam"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Functie"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Voicemail"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Met de wizard Contactpersonen exporteren kunt u uw contactpersonen "
+"exporteren en overbrengen naar andere toepassingen.\n"
+"Tik op 'Volgende' om door te gaan."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Het exporteren van contactpersonen is mislukt.\n"
+"Tik op 'Vorige' om het nogmaals te proberen of tik naast het dialoogvenster "
+"om de wizard te sluiten."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Het exporteren van contactpersonen is voltooid.\n"
+"Contactpersonen zijn geëxporteerd naar de map %s.\n"
+"Tik op 'Voltooien' om de wizard af te sluiten."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Het exporteren van contactpersonen is mislukt.\n"
+"Onvoldoende geheugen.\n"
+"Tik op 'Vorige' om het nogmaals te proberen of tik naast het dialoogvenster "
+"om de wizard te sluiten."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Het exporteren van contactpersonen is mislukt.\n"
+"Onvoldoende geheugen in doellocatie.\n"
+"Tik op 'Vorige' en selecteer een andere locatie om het nogmaals te proberen "
+"of tik naast het dialoogvenster om de wizard te sluiten."
+
+msgid "addr_ia_no_contacts"
+msgstr "(geen contactpersonen)"
+
+msgid "addr_ia_no_details"
+msgstr "(geen details)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "%s toestaan uw beschikbaarheid te zien?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Geen contactpersonen gevonden"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Kan afbeelding niet openen. Afbeelding is mogelijk beschadigd."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Kan geen contactinformatie weergeven. Contactpersoon of chataccount van "
+"contact is mogelijk verwijderd."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Kan niet bellen. Contactpersoon offline."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Kan contactpersoon niet selecteren.\n"
+"Context niet ondersteund."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"Kan de bewerking niet uitvoeren.\n"
+"Opslaggeheugen van apparaat vol."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Kan geen nieuw veld toevoegen. Maximaal aantal velden bereikt."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Voer eerst de bestandsnaam in"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d contactpersonen geïmporteerd. %d mislukt."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d contactpersonen geïmporteerd. 1 mislukt."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 contactpersoon geïmporteerd. %d mislukt."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Contactpersoon geïmporteerd"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Contactpersonen geïmporteerd"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Geen contactpersonen gevonden"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Kan VoIP-oproep niet starten. Gebruikersnaam %s bestaat niet."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Kan chatbericht niet starten. Gebruikersnaam %s bestaat niet."
+
+msgid "addr_ib_maps_failed"
+msgstr "Kan Kaarten niet openen. Adres is mogelijk ongeldig."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Kan Kaarten niet openen. Server reageert niet."
+
+msgid "addr_ib_no_name_given"
+msgstr "Voer naam voor contactpersoon in"
+
+msgid "addr_ib_not_available"
+msgstr "Niet beschikbaar"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"Kan de bewerking niet uitvoeren.\n"
+"Onvoldoende geheugen."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"Kan bewerking niet uitvoeren.\n"
+"Toestemming geweigerd."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Bezig met verzenden van autorisatieverzoek naar %s"
+
+msgid "addr_ib_searching"
+msgstr "Bezig met zoeken"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Snelkoppeling gemaakt op bureaublad."
+
+msgid "addr_ib_system_error"
+msgstr ""
+"Kan bewerking niet uitvoeren.\n"
+"Interne fout."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Kan niet opslaan"
+
+msgid "addr_ib_undefined_error"
+msgstr "Ongedefinieerde fout"
+
+msgid "addr_ib_unknown_number"
+msgstr "Onbekend nummer. Kan geen contactinformatie weergeven."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(geen contactpersonen)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(geen afbeeldingen)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Geen naam"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Accounts"
+
+msgid "addr_me_communication_history"
+msgstr "Communicatiegeschiedenis"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Naar contacten kopiëren"
+
+msgid "addr_me_create_shortcut"
+msgstr "Snelkoppeling maken"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Aan Contactpersonen toevoegen"
+
+msgid "addr_me_edit_contact"
+msgstr "Bewerken"
+
+msgid "addr_me_editmyinfo"
+msgstr "Bewerken"
+
+msgid "addr_me_email"
+msgstr "E-mail"
+
+msgid "addr_me_export"
+msgstr "Exporteren"
+
+msgid "addr_me_groups"
+msgstr "Groepen"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP- en chataccounts"
+
+msgid "addr_me_import"
+msgstr "Contactpersonen ophalen"
+
+msgid "addr_me_importall"
+msgstr "Alle contacten kopiëren"
+
+msgid "addr_me_importsel"
+msgstr "Geselect. contacten kopiëren"
+
+msgid "addr_me_mecard"
+msgstr "Mijn gegevens"
+
+msgid "addr_me_merge_contact"
+msgstr "Contact samenvoegen"
+
+msgid "addr_me_new_contact"
+msgstr "Nieuw contact"
+
+msgid "addr_me_recent"
+msgstr "Recent"
+
+msgid "addr_me_remove_contact"
+msgstr "Contactpersoon verwijderen"
+
+msgid "addr_me_remove_contacts"
+msgstr "Verwijder contactpersonen"
+
+msgid "addr_me_request_author"
+msgstr "Autorisatieverzoek"
+
+msgid "addr_me_send_card"
+msgstr "Contactkaart verzenden"
+
+msgid "addr_me_send_detail"
+msgstr "Contactgegevens verzenden"
+
+msgid "addr_me_sendmycard"
+msgstr "Contactkaart verzenden"
+
+msgid "addr_me_sendmydetail"
+msgstr "Contactgegevens verzenden "
+
+msgid "addr_me_settings"
+msgstr "Instellingen"
+
+msgid "addr_me_status"
+msgstr "Beschikbaar"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Alle contactpersonen van apparaat verwijderen?\n"
+"Chatcontactpersonen worden niet van de server verwijderd."
+
+msgid "addr_nc_delete_field"
+msgstr "Veld verwijderen?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Velden verwijderen?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Chatgebruikersnaam verwijderen?\n"
+"%s\n"
+"Wanneer u deze chatgebruikersnaam verwijdert, zal deze ook van %s worden "
+"verwijderd."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Geselecteerde chatgebruikersnamen verwijderen?\n"
+"Wanneer u chatgebruikersnamen verwijdert, zullen deze ook van %s worden "
+"verwijderd."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Geselecteerde chatgebruikersnamen verwijderen?\n"
+"Wanneer u chatgebruikersnamen verwijdert, zullen deze ook van de chatdienst "
+"worden verwijderd."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Geen contactpersonen voor deze service gevonden in Contactpersonen.\n"
+"Nu nieuwe contactpersoon maken?"
+
+msgid "addr_nc_notification15"
+msgstr "Naar Contactpersonen importeren?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Contactpersoon verwijderen?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr ""
+"Time-out server. Contactpersonen moet opnieuw worden opgestart. Nu opnieuw "
+"opstarten?"
+
+msgid "addr_nc_notification7"
+msgstr "Geselecteerde contactpersonen verwijderen?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Contactpersoon verwijderen?\n"
+"%s\n"
+" Wanneer u deze contactpersoon verwijdert, zal deze ook van %s worden "
+"verwijderd."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Geselecteerde contactpersonen verwijderen?\n"
+"Wanneer u contactpersonen verwijdert, zullen deze ook van %s worden "
+"verwijderd."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Geselecteerde contactpersonen verwijderen?\n"
+"Wanneer u contactpersonen verwijdert, zullen deze ook van de chatdiensten "
+"worden verwijderd."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Contactpersoon verwijderen?\n"
+"%s\n"
+"Wanneer u deze contactpersoon verwijdert, zal deze ook van de chatdiensten "
+"worden verwijderd."
+
+msgid "addr_nc_send_avatar"
+msgstr "Wilt u ook de avatar verzenden?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Importeren mislukt"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Importeren mislukt.\n"
+"Indeling wordt niet herkend."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Importeren mislukt.\n"
+"Onvoldoende geheugen."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Importeren mislukt.\n"
+"Bestand is te groot."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Interne fout.\n"
+"Contactpersonen moet opnieuw worden gestart."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Bezig met exporteren van contactpersonen"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Contactpersonen importeren"
+
+msgid "addr_pb_load_contacts"
+msgstr "Bezig met laden van contactpersonen"
+
+msgid "addr_pb_notification13"
+msgstr "Contactpersonen importeren"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Bezig met zoeken naar contactpersonen"
+
+msgid "addr_ti_add_field_title"
+msgstr "Nieuw veld"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Selecteer uw eigen account"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Selecteer een account om voor deze contactpersoon te gebruiken"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Selecteer een account om voor deze contactpersoon te gebruiken"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Avatar bijsnijden"
+
+msgid "addr_ti_delete_field"
+msgstr "Velden verwijderen"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Contactpersonen selecteren"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Contactpersonen exporteren 1/5: Welkom"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Contactpersonen exporteren 2/5: Contactpersonen"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Contactpersonen exporteren 3/5: Bestandsindeling"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Contactpersonen exporteren 4/5: Map en locatie"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Contactpersonen exporteren 5/5: Voltooid"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Contactpersonen exporteren stap 5/5: Mislukt"
+
+msgid "addr_ti_get_contacts"
+msgstr "Contactpersonen ophalen"
+
+msgid "addr_ti_groups_title"
+msgstr "Groepen"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Map met contactpersonen importeren"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Bestand met contactpersonen importeren"
+
+msgid "addr_ti_import_contacts"
+msgstr "Contactpersonen importeren"
+
+msgid "addr_ti_main_view"
+msgstr "Alle contactpersonen (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Alle contactpersonen"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Recente contactpersonen"
+
+msgid "addr_ti_mecard_title"
+msgstr "Mijn gegevens"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Mijn gegevens toevoegen"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Samenvoegen met contact"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Mijn gegevens bewerken"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Contactpersoon bewerken"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Nieuw contact"
+
+msgid "addr_ti_request_author"
+msgstr "Autorisatieverzoek %s"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Contactpersonen Mail Exch. zoeken"
+
+msgid "addr_ti_sel_contact"
+msgstr "Selecteer contact"
+
+msgid "addr_ti_select_avatar"
+msgstr "Afbeelding selecteren"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Contactgegevens verzenden"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Afbeelding selecteren"
+
+msgid "addr_ti_send_card"
+msgstr "Contactkaart verzenden via"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Contactgegevens verzenden via"
+
+msgid "addr_ti_settings2"
+msgstr "Instellingen"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Samenvoegproblemen oplossen"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Contactpersonen selecteren"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Voicemail"
+
+msgid "addr_va_add_field_address"
+msgstr "Adres"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adres (thuis)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adres (werk)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Verjaardag"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Gebruikersnaam voor Google Talk"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Gebruikersnaam voor Jabber"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Gebruikersnaam voor Nokia"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "Gebruikersnaam voor SIP"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype-naam"
+
+msgid "addr_va_add_field_company"
+msgstr "Bedrijf"
+
+msgid "addr_va_add_field_email"
+msgstr "E-mail"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-mail (thuis)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-mail (werk)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Geslacht"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mobiel"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mobiel (thuis)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mobiel (werk)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Bijnaam"
+
+msgid "addr_va_add_field_note"
+msgstr "Notitie"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefoon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefoon (thuis)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefoon (werk)"
+
+msgid "addr_va_add_field_title"
+msgstr "Functie"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Webpagina"
+
+msgid "addr_va_emergency_number"
+msgstr "Alarmnummer"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Geëxporteerde contactpersonen"
+
+msgid "addr_va_firstname"
+msgstr "Voornaam Achternaam"
+
+msgid "addr_va_general_female"
+msgstr "Vrouw"
+
+msgid "addr_va_general_male"
+msgstr "Man"
+
+msgid "addr_va_general_undefined"
+msgstr "Ongedefinieerd"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Contactpersonen op SIM-kaart"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Achternaam Voornaam"
+
+msgid "addr_va_lastname_comma"
+msgstr "Achternaam, Voornaam"
+
+msgid "addr_va_newedit_address_general"
+msgstr "algemeen"
+
+msgid "addr_va_newedit_address_home"
+msgstr "thuis"
+
+msgid "addr_va_newedit_address_work"
+msgstr "werk"
+
+msgid "addr_va_newedit_email_general"
+msgstr "algemeen"
+
+msgid "addr_va_newedit_email_home"
+msgstr "thuis"
+
+msgid "addr_va_newedit_email_work"
+msgstr "werk"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "thuis"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "werk"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "algemeen"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "thuis"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "niet ondersteund"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "werk"
+
+msgid "addr_va_nickname"
+msgstr "Bijnaam"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Verjaardag invoeren"

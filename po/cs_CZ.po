@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "addr_ap_address_book"
+msgstr "Kontakty"
+
+msgid "addr_bd_browse"
+msgstr "Procházet"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adresa"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Narozeniny"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "Hovor %s"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "Chat %s"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-mail"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Umístění"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "ostatní"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "Protokol SIP audio"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "Protokol SIP video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Volat pomocí Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "domů"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "práce"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s videohovor"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Webová stránka"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopírovat"
+
+msgid "addr_bd_delete_locally"
+msgstr "Odstranit všechny kontakty z přístroje"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Importovat kontakty"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Importovat kontakty z nového účtu"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Kopírovat ze SIM karty"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Synchronizovat z jiného zařízení"
+
+msgid "addr_bd_get_from_file"
+msgstr "Importovat soubor kontaktů"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Importovat složku kontaktů"
+
+msgid "addr_bd_import"
+msgstr "Importovat"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Importovat kontakty Mail Exch."
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Přidat pole"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adresa"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Region"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Narozeniny"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-mail"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Pohlaví"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Odstranit pole"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-mail"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Zpráva SMS"
+
+msgid "addr_bd_temporary_add"
+msgstr "Sloučit s kontaktem"
+
+msgid "addr_bd_temporary_call"
+msgstr "Hovor"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Chat"
+
+msgid "addr_bd_temporary_new"
+msgstr "Nový kontakt"
+
+msgid "addr_bd_temporary_sip"
+msgstr "Protokol SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "Protokol SIP audio"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "Protokol SIP video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Hovor Skype"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Chat Skype"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Volat pomocí Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Zpráva SMS"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Číslo hlasové schránky"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Společnost"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Pohlaví"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Přezdívka"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Poznámka"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Funkce"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Zobrazit SMS pouze pro mobilní čísla"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Zobrazit možnost video hovorů"
+
+msgid "addr_fi_displayname"
+msgstr "Zobrazení jmen"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Všechny kontakty"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exportovat:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Vybrané kontakty"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exportovat do:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Umístění"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Název složky"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adresa"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Adresa (domů)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Adresa (práce)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Narozeniny"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Uživatelské jméno pro službu Google Talk"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Uživatelské jméno pro protokol Jabber"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Uživatelské jméno pro společnost Nokia"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "Uživatelské jméno pro protokol SIP"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype jméno"
+
+msgid "addr_fi_mecard_company"
+msgstr "Společnost"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-mail"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-mail (domů)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-mail (práce)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Pohlaví"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mobil"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mobil (domů)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mobil (práce)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Jméno"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Přezdívka"
+
+msgid "addr_fi_mecard_note"
+msgstr "Poznámka"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefon"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefon (domů)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefon (práce)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Funkce"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Webová stránka"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Město"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Rozšířená"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "P. O. Box"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "PSČ"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Stát/kraj"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Ulice"
+
+msgid "addr_fi_newedit_company"
+msgstr "Společnost"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Jméno"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Uživatelské jméno pro službu Google Talk"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Uživatelské jméno pro protokol Jabber"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Příjmení"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Přezdívka"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Uživatelské jméno pro společnost Nokia"
+
+msgid "addr_fi_newedit_note"
+msgstr "Poznámka"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "Uživatelské jméno pro protokol SIP"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype jméno"
+
+msgid "addr_fi_newedit_title"
+msgstr "Funkce"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Web. stránka"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Hledat"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Narozeniny"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Společnost"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Jméno"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Pohlaví"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Příjmení"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Přezdívka"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Funkce"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Hlasová pošta"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Průvodce exportem kontaktů vám umožní exportovat kontakty, abyste je mohli "
+"přenášet do jiných aplikací.\n"
+"Pokračujte klepnutím na tlačítko „Další“."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Export kontaktů se nezdařil.\n"
+"Klepnutím na možnost „Předchozí“ zkuste zopakovat nebo klepnutím mimo dialog "
+"ukončete průvodce."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Nastavení exportu kontaktů dokončeno.\n"
+"Kontakty byly exportovány do složky %s.\n"
+"Klepnutím na možnost „Dokončit“ ukončíte prů-\n"
+"vodce."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Export kontaktů se nezdařil.\n"
+"Nedostatek paměti.\n"
+"Klepnutím na možnost „Předchozí“ zkuste zopakovat nebo klepnutím mimo dialog "
+"ukončete průvodce."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Export kontaktů se nezdařil.\n"
+"Nedostatek paměti v cílovém umístění.\n"
+"Klepnutím na možnost „Předchozí“ vyberte jiné umístění a zkuste zopakovat "
+"nebo klepnutím mimo dialog ukončete průvodce."
+
+msgid "addr_ia_no_contacts"
+msgstr "(žádné kontakty)"
+
+msgid "addr_ia_no_details"
+msgstr "(žádné podrobnosti)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Chcete, aby se uživateli %s zobrazovala vaše dostupnost?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Nenalezeny žádné kontakty"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Nelze otevřít obrázek. Může být poškozen."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Nelze zobrazit informace kontaktu. Kontakt byl pravděpodobně odstraněn nebo "
+"byl odstraněn účet aplikace IM s kontaktem."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Volání nelze uskutečnit. Kontakt off-line."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Nelze zvolit kontakt.\n"
+"Nepodporovaný kontext."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"Nelze provést operaci.\n"
+"Paměť přístroje je plná."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Nelze přidat nové pole. Dosažen maximální počet polí."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Nejprve vložte název souboru"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "Importovány kontakty: %d. %d neúspěšně."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "Importovány kontakty: %d. 1 neúspěšně."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 kontakt importován. %d neúspěšně."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Kontakt importován"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Kontakty importovány"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Nenalezeny žádné kontakty"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Nelze zahájit hovor VoIP. Uživatelské jméno %s neexistuje."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Nelze zahájit Rychlé zasílání zpráv. Uživatelské jméno %s neexistuje."
+
+msgid "addr_ib_maps_failed"
+msgstr "Nelze otevřít aplikaci Mapy. Adresa může být neplatná."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Nelze otevřít aplikaci Mapy. Server neodpovídá."
+
+msgid "addr_ib_no_name_given"
+msgstr "Vložte jméno pro kontakt"
+
+msgid "addr_ib_not_available"
+msgstr "Není dostupné"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"Nelze provést operaci.\n"
+"Nedostatek paměti."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"Operaci nelze provést.\n"
+"Přístup odmítnut."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Odesílání požadavku autorizace na %s"
+
+msgid "addr_ib_searching"
+msgstr "Hledání"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Zástupce byl úspěšně vytvořen"
+
+msgid "addr_ib_system_error"
+msgstr ""
+"Operaci nelze provést.\n"
+"Vnitřní chyba."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Nelze uložit"
+
+msgid "addr_ib_undefined_error"
+msgstr "Neurčená chyba"
+
+msgid "addr_ib_unknown_number"
+msgstr "Neznámé číslo. Nelze zobrazit informace o kontaktu."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(žádné kontakty)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(žádné obrázky)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Žádné jméno"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Účty"
+
+msgid "addr_me_communication_history"
+msgstr "Historie komunikace"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Kopírovat do kontaktů"
+
+msgid "addr_me_create_shortcut"
+msgstr "Vytvořit zástupce"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Přidat do kontaktů"
+
+msgid "addr_me_edit_contact"
+msgstr "Upravit"
+
+msgid "addr_me_editmyinfo"
+msgstr "Upravit"
+
+msgid "addr_me_email"
+msgstr "E-mail"
+
+msgid "addr_me_export"
+msgstr "Exportovat"
+
+msgid "addr_me_groups"
+msgstr "Skupiny"
+
+msgid "addr_me_imaccounts"
+msgstr "Aktualizace účtů VoIP a IM"
+
+msgid "addr_me_import"
+msgstr "Získat kontakty"
+
+msgid "addr_me_importall"
+msgstr "Kopírovat všechny kontakty"
+
+msgid "addr_me_importsel"
+msgstr "Kopírovat vybrané kontakty"
+
+msgid "addr_me_mecard"
+msgstr "Moje informace"
+
+msgid "addr_me_merge_contact"
+msgstr "Sloučit kontakt"
+
+msgid "addr_me_new_contact"
+msgstr "Nový kontakt"
+
+msgid "addr_me_recent"
+msgstr "Nedávné"
+
+msgid "addr_me_remove_contact"
+msgstr "Odstranit kontakt"
+
+msgid "addr_me_remove_contacts"
+msgstr "Odstranit kontakty"
+
+msgid "addr_me_request_author"
+msgstr "Požadavek autorizace"
+
+msgid "addr_me_send_card"
+msgstr "Poslat vizitku"
+
+msgid "addr_me_send_detail"
+msgstr "Poslat detail kontaktu"
+
+msgid "addr_me_sendmycard"
+msgstr "Poslat vizitku"
+
+msgid "addr_me_sendmydetail"
+msgstr "Poslat detail kontaktu "
+
+msgid "addr_me_settings"
+msgstr "Nastavení"
+
+msgid "addr_me_status"
+msgstr "Dostupnost"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Odstranit všechny kontakty z přístroje?\n"
+"Kontakty IM nebudou odstraněny ze serveru."
+
+msgid "addr_nc_delete_field"
+msgstr "Odstranit pole?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Odstranit pole?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Odstranit uživatelský účet IM?\n"
+"%s\n"
+"Účet bude odstraněn také z %s."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Odstranit vybrané uživatelské účty IM?\n"
+"Uživatelské účty budou odstraněny také z %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Odstranit vybrané uživatelské účty IM?\n"
+"Uživatelské účty budou odstraněny také ze služby IM."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Pro tuto službu nenalezeny žádné kontakty ve složce Kontakty.\n"
+"Vytvořit nový kontakt?"
+
+msgid "addr_nc_notification15"
+msgstr "Importovat do kontaktů?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Odstranit kontakt?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr ""
+"Časový limit serveru vypršel. Kontakty je třeba restartovat. Restartovat?"
+
+msgid "addr_nc_notification7"
+msgstr "Odstranit vybrané kontakty?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Odstranit kontakt?\n"
+"%s\n"
+" Odstraněním kontaktu jej odstraníte také z %s."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Odstranit vybrané kontakty?\n"
+"Kontakty budou odstraněny také z %s."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Odstranit vybrané kontakty?\n"
+"Kontakty budou odstraněny také ze služeb IM."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Odstranit kontakt?\n"
+"%s\n"
+"Odstraněním kontaktu jej odstraníte také ze služeb IM."
+
+msgid "addr_nc_send_avatar"
+msgstr "Chcete odeslat rovněž ikonu?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Import se nezdařil"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Import se nezdařil.\n"
+"Formát nebyl rozpoznán."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Import se nezdařil.\n"
+"Nedostatek paměti."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Import se nezdařil.\n"
+"Soubor příliš velký."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Vnitřní chyba.\n"
+"Kontakty je nutné restartovat."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Exportování kontaktů"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Import kontaktů"
+
+msgid "addr_pb_load_contacts"
+msgstr "Načítání kontaktů"
+
+msgid "addr_pb_notification13"
+msgstr "Importování kontaktů"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Hledání kontaktů"
+
+msgid "addr_ti_add_field_title"
+msgstr "Nové pole"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Zvolte svůj vlastní účet"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Zvolte účet, který má být k tomuto kontaktu přiřazen"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Zvolte účet, který má být k tomuto kontaktu přiřazen"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Oříznout ikonu"
+
+msgid "addr_ti_delete_field"
+msgstr "Odstranit pole"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Vybrat kontakty"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Export kontaktů 1/5: Vítejte"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Export kontaktů 2/5: Kontakty pro export"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Export kontaktů 3/5: Formát souboru"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Export kontaktů 4/5: Složka a umístění"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Export kontaktů 5/5: Dokončení"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Export kontaktů krok 5/5: Neúspěšný"
+
+msgid "addr_ti_get_contacts"
+msgstr "Získat kontakty"
+
+msgid "addr_ti_groups_title"
+msgstr "Skupiny"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Importovat složku kontaktů"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Importovat soubor kontaktů"
+
+msgid "addr_ti_import_contacts"
+msgstr "Importovat kontakty"
+
+msgid "addr_ti_main_view"
+msgstr "Všechny kontakty (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Všechny kontakty"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Nedávno použité kontakty"
+
+msgid "addr_ti_mecard_title"
+msgstr "Moje informace"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Přidat moje informace"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Sloučit s kontaktem"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Upravit Moje informace"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Upravit kontakt"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Nový kontakt"
+
+msgid "addr_ti_request_author"
+msgstr "Požadavek autorizace: %s"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Hledat kontakty Mail Exch."
+
+msgid "addr_ti_sel_contact"
+msgstr "Zvolte kontakt"
+
+msgid "addr_ti_select_avatar"
+msgstr "Zvolit obrázek"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Poslat detail kontaktu"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Zvolit obrázek"
+
+msgid "addr_ti_send_card"
+msgstr "Poslat vizitku prostřednictvím"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Poslat detail kontaktu prostřednictvím"
+
+msgid "addr_ti_settings2"
+msgstr "Nastavení"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Vyřešit konflikty slučování"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Vybrat kontakty"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Hlasová pošta"
+
+msgid "addr_va_add_field_address"
+msgstr "Adresa"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adresa (domů)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adresa (práce)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Narozeniny"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Uživatelské jméno pro službu Google Talk"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Uživatelské jméno pro protokol Jabber"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Uživatelské jméno pro společnost Nokia"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "Uživatelské jméno pro protokol SIP"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype jméno"
+
+msgid "addr_va_add_field_company"
+msgstr "Společnost"
+
+msgid "addr_va_add_field_email"
+msgstr "E-mail"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-mail (domů)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-mail (práce)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Pohlaví"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mobil"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mobil (domů)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mobil (práce)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Přezdívka"
+
+msgid "addr_va_add_field_note"
+msgstr "Poznámka"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefon (domů)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefon (práce)"
+
+msgid "addr_va_add_field_title"
+msgstr "Funkce"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Webová stránka"
+
+msgid "addr_va_emergency_number"
+msgstr "Číslo tísňového volání"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Exportované kontakty"
+
+msgid "addr_va_firstname"
+msgstr "Jméno Příjmení"
+
+msgid "addr_va_general_female"
+msgstr "Žena"
+
+msgid "addr_va_general_male"
+msgstr "Muž"
+
+msgid "addr_va_general_undefined"
+msgstr "Nedefinováno"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Kontakty na SIM kartě"
+
+msgid "addr_va_groups_sip"
+msgstr "Protokol SIP"
+
+msgid "addr_va_lastname"
+msgstr "Příjmení Jméno"
+
+msgid "addr_va_lastname_comma"
+msgstr "Příjmení, Jméno"
+
+msgid "addr_va_newedit_address_general"
+msgstr "obecné"
+
+msgid "addr_va_newedit_address_home"
+msgstr "domů"
+
+msgid "addr_va_newedit_address_work"
+msgstr "práce"
+
+msgid "addr_va_newedit_email_general"
+msgstr "obecné"
+
+msgid "addr_va_newedit_email_home"
+msgstr "domů"
+
+msgid "addr_va_newedit_email_work"
+msgstr "práce"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "domů"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "práce"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "obecné"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "domů"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "nepodporované"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "práce"
+
+msgid "addr_va_nickname"
+msgstr "Přezdívka"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Vložte narozeniny"

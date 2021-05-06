@@ -1,0 +1,1095 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "Kontakter"
+
+msgid "addr_bd_browse"
+msgstr "Bläddra"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adress"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Födelsedag"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s samtal"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s snabbmeddelanden"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-post"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Plats"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "annan"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP-ljud"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP-video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Ring med Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "hem"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "arbete"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s videosamtal"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Webbsida"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopiera"
+
+msgid "addr_bd_delete_locally"
+msgstr "Ta bort alla kontakter från enheten"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Importera kontakter"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Importera kontakter från nytt konto"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Kopiera från SIM-kort"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Synkronisera från annan enhet"
+
+msgid "addr_bd_get_from_file"
+msgstr "Importera kontaktfil"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Importera kontaktmapp"
+
+msgid "addr_bd_import"
+msgstr "Importera"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Importera Mail Exch.-kontakter"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Lägg till fält"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adress"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Region"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Födelsedag"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-post"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Kön"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Ta bort fält"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-post"
+
+msgid "addr_bd_send_card_sms"
+msgstr "SMS"
+
+msgid "addr_bd_temporary_add"
+msgstr "Sammanfoga med kontakt"
+
+msgid "addr_bd_temporary_call"
+msgstr "Samtal"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Chatt"
+
+msgid "addr_bd_temporary_new"
+msgstr "Ny kontakt"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP-ljud"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP-video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype-samtal"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype-chatt"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Ring med Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "SMS"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Nummer till röstbrevlåda"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Företag"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Kön"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Kortnamn"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Anteckning"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Jobbtitel"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Visa endast SMS för mobilnummer"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Visa alternativ för videosamtal"
+
+msgid "addr_fi_displayname"
+msgstr "Visa namn"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Alla kontakter"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exportera:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Valda kontakter"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exportera till:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Plats"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Mappnamn"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adress"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Adress (hem)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Adress (arbete)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Födelsedag"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk-användarnamn"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber-användarnamn"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia-användarnamn"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP-användarnamn"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype-namn"
+
+msgid "addr_fi_mecard_company"
+msgstr "Företag"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-post"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-post (hem)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-post (arbete)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Kön"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mobil"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mobil (hem)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mobil (arbete)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Namn"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Kortnamn"
+
+msgid "addr_fi_mecard_note"
+msgstr "Anteckning"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefon"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefon (hem)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefon (arbete)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Jobbtitel"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Webbsida"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Stad"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Landskod"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Box"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Postnummer"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Region"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Gata"
+
+msgid "addr_fi_newedit_company"
+msgstr "Företag"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Förnamn"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk-användarnamn"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber-användarnamn"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Efternamn"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Kortnamn"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia-användarnamn"
+
+msgid "addr_fi_newedit_note"
+msgstr "Anteckning"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP-användarnamn"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype-namn"
+
+msgid "addr_fi_newedit_title"
+msgstr "Jobbtitel"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Webbsida"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Sök"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Födelsedag"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Företag"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Förnamn"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Kön"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Efternamn"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Kortnamn"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Jobbtitel"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Röstbrevlåda"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Med hjälp av guiden Exportera kontakter kan du överföra dina kontakter till "
+"andra program.\n"
+"Fortsätt genom att peka på Nästa."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Det gick inte att exportera kontakter.\n"
+"Peka på Föregående om du vill försöka igen eller utanför dialogrutan om du "
+"vill stänga guiden."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Inställningen av Exportera kontakter är klar.\n"
+"Kontakterna har exporterats till mappen %s.\n"
+"Stäng guiden genom att peka på Slutför."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Det gick inte att exportera kontakter.\n"
+"Inte tillräckligt med minne. \n"
+"Peka på Föregående om du vill försöka igen eller utanför dialogrutan om du "
+"vill stänga guiden."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Det gick inte att exportera kontakter.\n"
+"Inte tillräckligt med minne på målplatsen.\n"
+"Peka på Föregående och välj en annan plats eller på Avbryt om du vill stänga "
+"guiden."
+
+msgid "addr_ia_no_contacts"
+msgstr "(inga kontakter)"
+
+msgid "addr_ia_no_details"
+msgstr "(ingen information)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Vill du ge %s behörighet att se din tillgänglighet?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Inga kontakter hittades"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Det gick inte att öppna bilden. Den kan vara skadad."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Det gick inte att visa kontaktinformation. Kontakten kan ha raderats eller "
+"IM-kontot med kontakten kan ha tagits bort."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Det gick inte att ringa. Kontakten är offline."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Det gick inte att välja kontakt.\n"
+"Sammanhanget stöds inte."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"Det gick inte att utföra åtgärden.\n"
+"Enhetens lagring är full."
+
+msgid "addr_ib_field_amount_limited"
+msgstr ""
+"Det gick inte att lägga till ett nytt fält. Högsta antalet fält har nåtts."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Ange filnamnet först"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d kontakter importerade. %d misslyckades."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d kontakter importerade. 1 misslyckades."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 kontakt importerad. %d misslyckades."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Kontakt importerad"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Kontakter importerade"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Inga kontakter hittades"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Det gick inte att initiera VoIP-samtal. Användarnamnet %s finns inte."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr ""
+"Det gick inte att initiera snabbmeddelande. Användarnamnet %s finns inte."
+
+msgid "addr_ib_maps_failed"
+msgstr "Det gick inte att öppna Kartor. Adressen kan vara ogiltig."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Det gick inte att öppna Kartor. Servern svarar inte."
+
+msgid "addr_ib_no_name_given"
+msgstr "Ange namn på kontakt"
+
+msgid "addr_ib_not_available"
+msgstr "Ej tillgängligt"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"Det gick inte att utföra åtgärden.\n"
+"Minnesbrist."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"Det gick inte att utföra åtgärden.\n"
+"Tillstånd nekades."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Skickar begäran om godkännande till %s"
+
+msgid "addr_ib_searching"
+msgstr "Söker"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Genväg skapad på skrivbordet."
+
+msgid "addr_ib_system_error"
+msgstr ""
+"Det gick inte att utföra åtgärden.\n"
+"Internt fel."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Det gick inte att spara"
+
+msgid "addr_ib_undefined_error"
+msgstr "Odefinierat fel"
+
+msgid "addr_ib_unknown_number"
+msgstr "Okänt nummer. Det gick inte att visa kontaktinformationen."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(inga kontakter)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(inga bilder)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Inget namn"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Konton"
+
+msgid "addr_me_communication_history"
+msgstr "Kommunikationshistorik"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Kopiera till Kontakter"
+
+msgid "addr_me_create_shortcut"
+msgstr "Skapa genväg"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Lägg till i Kontakter"
+
+msgid "addr_me_edit_contact"
+msgstr "Redigera"
+
+msgid "addr_me_editmyinfo"
+msgstr "Redigera"
+
+msgid "addr_me_email"
+msgstr "E-post"
+
+msgid "addr_me_export"
+msgstr "Exportera"
+
+msgid "addr_me_groups"
+msgstr "Grupper"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP- och IM-konton"
+
+msgid "addr_me_import"
+msgstr "Hämta kontakter"
+
+msgid "addr_me_importall"
+msgstr "Kopiera alla kontakter"
+
+msgid "addr_me_importsel"
+msgstr "Kopiera valda kontakter"
+
+msgid "addr_me_mecard"
+msgstr "Min information"
+
+msgid "addr_me_merge_contact"
+msgstr "Sammanfoga kontakt"
+
+msgid "addr_me_new_contact"
+msgstr "Ny kontakt"
+
+msgid "addr_me_recent"
+msgstr "Senaste"
+
+msgid "addr_me_remove_contact"
+msgstr "Ta bort kontakt"
+
+msgid "addr_me_remove_contacts"
+msgstr "Ta bort kontakter"
+
+msgid "addr_me_request_author"
+msgstr "Begär godkännande"
+
+msgid "addr_me_send_card"
+msgstr "Skicka visitkort"
+
+msgid "addr_me_send_detail"
+msgstr "Skicka kontaktinfo"
+
+msgid "addr_me_sendmycard"
+msgstr "Skicka visitkort"
+
+msgid "addr_me_sendmydetail"
+msgstr "Skicka kontaktinfo "
+
+msgid "addr_me_settings"
+msgstr "Inställningar"
+
+msgid "addr_me_status"
+msgstr "Status"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Vill du ta bort alla kontakter från enheten?\n"
+"Kontakter för snabbmeddelanden tas inte bort från servern."
+
+msgid "addr_nc_delete_field"
+msgstr "Vill du ta bort fältet?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Vill du ta bort fälten?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Vill du ta bort användarnamnet för snabbmeddelanden?\n"
+"%s\n"
+"Om du tar bort användarnamnet för snabbmeddelanden tas det också bort från "
+"%s."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Vill du ta bort de valda användarnamnen för snabbmeddelanden?\n"
+"Om du tar bort användarnamnen för snabbmeddelanden tas de också bort från %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Vill du ta bort de valda användarnamnen för snabbmeddelanden?\n"
+"Om du tar bort användarnamnen för snabbmeddelanden tas de också bort från "
+"snabbmeddelandetjänsten."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Det gick inte att hitta några kontakter för den här tjänsten i Kontakter.\n"
+"Vill du skapa en ny kontakt nu?"
+
+msgid "addr_nc_notification15"
+msgstr "Importera till Kontakter?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Vill du ta bort kontakten?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr ""
+"Tidsgränsen för server nådd. Du bör starta om programmet. Vill du starta om "
+"nu?"
+
+msgid "addr_nc_notification7"
+msgstr "Vill du ta bort de valda kontakterna?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Vill du ta bort kontakten?\n"
+"%s\n"
+" Om du tar bort kontakten tas den även bort från %s."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Vill du ta bort de valda kontakterna?\n"
+"Om du tar bort kontakterna tas de också bort från %s."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Vill du ta bort de valda kontakterna?\n"
+"Om du tar bort kontakterna tas de också bort från snabbmeddelandetjänsterna."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Vill du ta bort kontakten?\n"
+"%s\n"
+"Om du tar bort kontakten tas den även bort från snabbmeddelandetjänsterna."
+
+msgid "addr_nc_send_avatar"
+msgstr "Vill du också skicka avatarbilden?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Det gick inte att importera"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Det gick inte att importera.\n"
+"Okänt format."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Det gick inte att importera.\n"
+"Inte tillräckligt med minne."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Det gick inte att importera.\n"
+"Filen är för stor."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Internt fel.\n"
+"Du bör starta om Kontakter."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Exporterar kontakter"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Importerar kontakter"
+
+msgid "addr_pb_load_contacts"
+msgstr "Hämtar kontakter"
+
+msgid "addr_pb_notification13"
+msgstr "Importerar kontakter"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Söker kontakter"
+
+msgid "addr_ti_add_field_title"
+msgstr "Nytt fält"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Välj ditt eget konto"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Välj ett konto som ska användas med den här kontakten"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Välj ett konto som ska användas med den här kontakten"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Beskär avatar"
+
+msgid "addr_ti_delete_field"
+msgstr "Ta bort fält"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Välj kontakter"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Exportera kontakter 1/5: Välkommen"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Exportera kontakter 2/5: Val av kontakter "
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Exportera kontakter 3/5: Filformat"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Exportera kontakter 4/5: Mapp och plats"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Exportera kontakter 5/5: Klart"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Exportera kontakter, steg 5/5: Misslyckades"
+
+msgid "addr_ti_get_contacts"
+msgstr "Hämta kontakter"
+
+msgid "addr_ti_groups_title"
+msgstr "Grupper"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Importera kontaktmapp"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Importera kontaktfil"
+
+msgid "addr_ti_import_contacts"
+msgstr "Importera kontakter"
+
+msgid "addr_ti_main_view"
+msgstr "Alla kontakter (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Alla kontakter"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Senaste kontakter"
+
+msgid "addr_ti_mecard_title"
+msgstr "Min information"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Lägg till min information"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Sammanfoga med kontakt"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Redigera Min information"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Redigera kontakt"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Ny kontakt"
+
+msgid "addr_ti_request_author"
+msgstr "Begäran om godkännande till %s"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Sök Mail Exch.-kontakter"
+
+msgid "addr_ti_sel_contact"
+msgstr "Välj kontakt"
+
+msgid "addr_ti_select_avatar"
+msgstr "Välj bild"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Skicka kontaktinfo"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Välj bild"
+
+msgid "addr_ti_send_card"
+msgstr "Skicka visitkort via"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Skicka kontaktinfo via"
+
+msgid "addr_ti_settings2"
+msgstr "Inställningar"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Lös sammanfogningskonflikter"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Välj kontakter"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Röstbrevlåda"
+
+msgid "addr_va_add_field_address"
+msgstr "Adress"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adress (hem)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adress (arbete)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Födelsedag"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk-användarnamn"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber-användarnamn"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia-användarnamn"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP-användarnamn"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype-namn"
+
+msgid "addr_va_add_field_company"
+msgstr "Företag"
+
+msgid "addr_va_add_field_email"
+msgstr "E-post"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-post (hem)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-post (arbete)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Kön"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mobil"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mobil (hem)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mobil (arbete)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Kortnamn"
+
+msgid "addr_va_add_field_note"
+msgstr "Anteckning"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefon (hem)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefon (arbete)"
+
+msgid "addr_va_add_field_title"
+msgstr "Jobbtitel"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Webbsida"
+
+msgid "addr_va_emergency_number"
+msgstr "Nödnummer"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Exporterade kontakter"
+
+msgid "addr_va_firstname"
+msgstr "Förnamn, efternamn"
+
+msgid "addr_va_general_female"
+msgstr "Kvinna"
+
+msgid "addr_va_general_male"
+msgstr "Man"
+
+msgid "addr_va_general_undefined"
+msgstr "Odefinierat"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM-kortskontakter"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Efternamn förnamn"
+
+msgid "addr_va_lastname_comma"
+msgstr "Efternamn, förnamn"
+
+msgid "addr_va_newedit_address_general"
+msgstr "allmänt"
+
+msgid "addr_va_newedit_address_home"
+msgstr "hem"
+
+msgid "addr_va_newedit_address_work"
+msgstr "arbete"
+
+msgid "addr_va_newedit_email_general"
+msgstr "allmänt"
+
+msgid "addr_va_newedit_email_home"
+msgstr "hem"
+
+msgid "addr_va_newedit_email_work"
+msgstr "arbete"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "hem"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "arbete"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "allmänt"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "hem"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "stöds inte"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "arbete"
+
+msgid "addr_va_nickname"
+msgstr "Kortnamn"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Ange födelsedag"
