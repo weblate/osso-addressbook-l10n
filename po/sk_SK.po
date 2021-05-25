@@ -1,0 +1,1094 @@
+#
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010-05-02 17:08+0200\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "addr_ap_address_book"
+msgstr "Kontakty"
+
+msgid "addr_bd_browse"
+msgstr "Prehliadať"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adresa"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Narodeniny"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "Hovor %s"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "Chat %s"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-mail"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Umiestnenie"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefón"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "ostatný"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "Protokol SIP audio"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "Protokol SIP video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Volať pomocou Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "domov"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "práca"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s videohovor"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Webová stránka"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopírovať"
+
+msgid "addr_bd_delete_locally"
+msgstr "Odstrániť všetky kontakty z prístroja"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Importovať kontakty"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Importovať kontakty z nového účtu"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Kopírovať zo SIM karty"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Synchronizovať z iného zariadenia"
+
+msgid "addr_bd_get_from_file"
+msgstr "Importovať súbor kontaktov"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Importovať zložku kontaktov"
+
+msgid "addr_bd_import"
+msgstr "Importovať"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Importovať kontakty Mail Exch."
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Pridať pole"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adresa"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Región"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Narodeniny"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-mail"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Pohlavie"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefón"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Odstrániť pole"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-mail"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Správa SMS"
+
+msgid "addr_bd_temporary_add"
+msgstr "Zlúčiť s kontaktom"
+
+msgid "addr_bd_temporary_call"
+msgstr "Hovor"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Chat"
+
+msgid "addr_bd_temporary_new"
+msgstr "Nový kontakt"
+
+msgid "addr_bd_temporary_sip"
+msgstr "Protokol SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "Protokol SIP audio"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "Protokol SIP video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Hovor Skype"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Chat Skype"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Volať pomocou Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Správa SMS"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Číslo hlasovej pošty"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Firma"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Pohlavie"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Prezývka"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Poznámka"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Titul"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Zobraziť SMS len pre mobilné čísla"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Zobraziť možnosť video hovorov"
+
+msgid "addr_fi_displayname"
+msgstr "Zobrazenie mien"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Všetky kontakty"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exportovať:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Vybrané kontakty"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exportovať do:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Umiestnenie"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Názov zložky"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adresa"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Adresa (domov)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Adresa (práca)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Narodeniny"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Užívateľské meno pre službu Google Talk"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Užívateľské meno pre protokol Jabber"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Užívateľské meno pre spoločnosť Nokia"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "Užívateľské meno pre protokol SIP"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype meno"
+
+msgid "addr_fi_mecard_company"
+msgstr "Firma"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-mail"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-mail (domov)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-mail (práca)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Pohlavie"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mobil"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mobil (domov)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mobil (práca)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Meno"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Prezývka"
+
+msgid "addr_fi_mecard_note"
+msgstr "Poznámka"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefón"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefón (domov)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefón (práca)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Titul"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Webová stránka"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Mesto"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Rozšírená"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "P. O. Box"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "PSČ"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Štát/kraj"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Ulica"
+
+msgid "addr_fi_newedit_company"
+msgstr "Firma"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Krstné meno"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Užívateľské meno pre službu Google Talk"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Užívateľské meno pre protokol Jabber"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Priezvisko"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Prezývka"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Užívateľské meno pre spoločnosť Nokia"
+
+msgid "addr_fi_newedit_note"
+msgstr "Poznámka"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "Užívateľské meno pre protokol SIP"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype meno"
+
+msgid "addr_fi_newedit_title"
+msgstr "Titul"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Web. stránka"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Hľadať"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Narodeniny"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Firma"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Krstné meno"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Pohlavie"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Priezvisko"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Prezývka"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Titul"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Hlasová pošta"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Sprievodca exportom kontaktov vám umožní exportovať kontakty, aby ste ich "
+"mohli prenášať do iných aplikácií.\n"
+"Pokračujte klepnutím na tlačidlo „Nasledujúci“."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Export kontaktov sa nepodaril.\n"
+"Klepnutím na možnosť „Predchádzajúci“ skúste zopakovať alebo klepnutím mimo "
+"dialóg ukončite sprievodcu."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Nastavenie exportu kontaktov ukončené.\n"
+"Kontakty boli exportované do zložky %s.\n"
+"Klepnutím na možnosť „Dokončiť“ ukončíte sprievodcu."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Export kontaktov sa nepodaril.\n"
+"Nedostatok pamäte.\n"
+"Klepnutím na možnosť „Predchádzajúci“ skúste zopakovať alebo klepnutím mimo "
+"dialóg ukončite sprievodcu."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Export kontaktov sa nepodaril.\n"
+"Nedostatok pamäte v cieľovom umiestení.\n"
+"Klepnutím na možnosť „Predchádzajúci“ vyberte iné umiestnenie a skúste "
+"zopakovať alebo klepnutím mimo dialóg ukončite sprievodcu."
+
+msgid "addr_ia_no_contacts"
+msgstr "(žiadne kontakty)"
+
+msgid "addr_ia_no_details"
+msgstr "(žiadne podrobnosti)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Chcete, aby sa užívateľovi %s zobrazovala vaša dostupnosť?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Nenájdené žiadne kontakty"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Nemožno otvoriť obrázok. Môže byť poškodený."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Nemožno zobraziť informácie kontakte. Kontakt bol pravdepodobne odstránený "
+"alebo bol odstránený účet aplikácie IM s kontaktom."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Volanie nemožno uskutočniť. Kontakt off-line."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Nemožno zvoliť kontakt.\n"
+"Nepodporovaný kontext."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"Nemožno vykonať operáciu.\n"
+"Pamäť prístroja je plná."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Nemožno pridať nové pole. Počet polí pre kontakt je obmedzený."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Najskôr vložte názov súboru"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "Importované kontakty: %d. %d neúspešne."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "Importované kontakty: %d. 1 neúspešne."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 kontakt importovaný. %d neúspešne."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Kontakt importovaný"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Kontakty importované"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Nenájdené žiadne kontakty"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Nemožno zahájiť hovor VoIP. Užívateľské meno %s neexistuje."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr ""
+"Nemožno zahájiť Rýchle zasielanie sprav. Užívateľské meno %s neexistuje."
+
+msgid "addr_ib_maps_failed"
+msgstr "Nemožno otvoriť aplikáciu Mapy. Adresa môže byť neplatná."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Nemožno otvoriť aplikáciu Mapy. Server neodpovedá."
+
+msgid "addr_ib_no_name_given"
+msgstr "Vložte meno pre kontakt"
+
+msgid "addr_ib_not_available"
+msgstr "Nie je dostupné"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"Nemožno vykonať operáciu.\n"
+"Nedostatok pamäte."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"Operáciu nemožno vykonať.\n"
+"Prístup odmietnutý."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Odosielanie požiadavky autorizácie na %s"
+
+msgid "addr_ib_searching"
+msgstr "Hľadanie"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Zástupca bol úspešne vytvorený"
+
+msgid "addr_ib_system_error"
+msgstr ""
+"Operáciu nemožno vykonať.\n"
+"Vnútorná chyba."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Nemožno uložiť"
+
+msgid "addr_ib_undefined_error"
+msgstr "Neurčená chyba"
+
+msgid "addr_ib_unknown_number"
+msgstr "Neznáme číslo. Nemožno zobraziť informácie o kontakte."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(žiadne kontakty)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(žiadne obrázky)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Žiadne meno"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Účty"
+
+msgid "addr_me_communication_history"
+msgstr "História komunikácie"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Kopírovať medzi kontakty"
+
+msgid "addr_me_create_shortcut"
+msgstr "Vytvoriť zástupcu"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Pridať medzi kontakty"
+
+msgid "addr_me_edit_contact"
+msgstr "Upraviť"
+
+msgid "addr_me_editmyinfo"
+msgstr "Upraviť"
+
+msgid "addr_me_email"
+msgstr "E-mail"
+
+msgid "addr_me_export"
+msgstr "Exportovať"
+
+msgid "addr_me_groups"
+msgstr "Skupiny"
+
+msgid "addr_me_imaccounts"
+msgstr "Aktualizácia účtov VoIP a IM"
+
+msgid "addr_me_import"
+msgstr "Získať kontakty"
+
+msgid "addr_me_importall"
+msgstr "Kopírovať všetky kontakty"
+
+msgid "addr_me_importsel"
+msgstr "Kopírovať vybrané kontakty"
+
+msgid "addr_me_mecard"
+msgstr "Moje informácie"
+
+msgid "addr_me_merge_contact"
+msgstr "Zlúčiť kontakt"
+
+msgid "addr_me_new_contact"
+msgstr "Nový kontakt"
+
+msgid "addr_me_recent"
+msgstr "Nedávne"
+
+msgid "addr_me_remove_contact"
+msgstr "Odstrániť kontakt"
+
+msgid "addr_me_remove_contacts"
+msgstr "Odstrániť kontakty"
+
+msgid "addr_me_request_author"
+msgstr "Požiadavka autorizácie"
+
+msgid "addr_me_send_card"
+msgstr "Poslať vizitku"
+
+msgid "addr_me_send_detail"
+msgstr "Poslať detail kontaktu"
+
+msgid "addr_me_sendmycard"
+msgstr "Poslať vizitku"
+
+msgid "addr_me_sendmydetail"
+msgstr "Poslať detail kontaktu "
+
+msgid "addr_me_settings"
+msgstr "Nastavenie"
+
+msgid "addr_me_status"
+msgstr "Dostupnosť"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Odstrániť všetky kontakty z prístroja?\n"
+"Kontakty IM nebudú odstránené zo servera."
+
+msgid "addr_nc_delete_field"
+msgstr "Odstrániť pole?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Odstrániť pole?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Odstrániť užívateľský účet IM?\n"
+"%s\n"
+"Účet bude odstránený taktiež z %s."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Odstrániť vybrané užívateľské účty IM?\n"
+"Užívateľské účty budú odstránené taktiež z %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Odstrániť vybrané užívateľské účty IM?\n"
+"Užívateľské účty budú odstránené taktiež zo služby IM."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Pre túto službu nenájdené žiadne kontakty v zložke Kontakty.\n"
+"Vytvoriť nový kontakt?"
+
+msgid "addr_nc_notification15"
+msgstr "Importovať medzi kontakty?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Odstrániť kontakt?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr ""
+"Časový limit servera vypršal. Kontakty je treba reštartovať. Reštartovať?"
+
+msgid "addr_nc_notification7"
+msgstr "Odstrániť vybrané kontakty?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Odstrániť kontakt?\n"
+"%s\n"
+"Odstránením kontaktu ho odstránite taktiež zo %s."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Odstrániť vybrané kontakty?\n"
+"Kontakty budú odstránené taktiež zo %s."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Odstrániť vybrané kontakty?\n"
+"Kontakty budú odstránené taktiež zo služieb IM."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Odstrániť kontakt?\n"
+"%s\n"
+"Odstránením kontaktu ho odstránite taktiež zo služieb IM."
+
+msgid "addr_nc_send_avatar"
+msgstr "Chcete taktiež odoslať ikonu?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Import sa nepodaril"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Import sa nepodaril.\n"
+"Formát nebol rozpoznaný."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Import sa nepodaril.\n"
+"Nedostatok pamäte."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Import sa nedaril.\n"
+"Súbor príliš veľký."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Vnútorná chyba.\n"
+"Kontakty je nutné reštartovať."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Exportovanie kontaktov"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Importovanie kontaktov"
+
+msgid "addr_pb_load_contacts"
+msgstr "Načítavanie kontaktov"
+
+msgid "addr_pb_notification13"
+msgstr "Importovanie kontaktov"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Hľadanie kontaktov"
+
+msgid "addr_ti_add_field_title"
+msgstr "Nové pole"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Zvolte svoj vlastný účet"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Zvolte účet, ktorý má byť k tomuto kontaktu priradený"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Zvolte účet, ktorý má byť k tomuto kontaktu priradený"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Orezať ikonu"
+
+msgid "addr_ti_delete_field"
+msgstr "Odstrániť pole"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Vybrať kontakty"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Export kontaktov 1/5: Vítajte"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Export kontaktov 2/5: Kontakty pre export"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Export kontaktov 3/5: Formát súboru"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Export kontaktov 4/5: Zložka a umiestenie"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Export kontaktov 5/5: Dokončenie"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Export kontaktov krok 5/5: Neúspešný"
+
+msgid "addr_ti_get_contacts"
+msgstr "Získať kontakty"
+
+msgid "addr_ti_groups_title"
+msgstr "Skupiny"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Importovať zložku kontaktov"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Importovať súbor kontaktov"
+
+msgid "addr_ti_import_contacts"
+msgstr "Importovať kontakty"
+
+msgid "addr_ti_main_view"
+msgstr "Všetky kontakty (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Všetky kontakty"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Nedávno použité kontakty"
+
+msgid "addr_ti_mecard_title"
+msgstr "Moje informácie"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Pridať moje informácie"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Zlúčiť s kontaktom"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Upraviť Moje informácie"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Upraviť kontakt"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Nový kontakt"
+
+msgid "addr_ti_request_author"
+msgstr "Požiadavka autorizácie: %s"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Hľadať kontakty Mail Exch."
+
+msgid "addr_ti_sel_contact"
+msgstr "Zvolte kontakt"
+
+msgid "addr_ti_select_avatar"
+msgstr "Zvoliť obrázok"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Poslať detail kontaktu"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Zvoliť obrázok"
+
+msgid "addr_ti_send_card"
+msgstr "Poslať vizitku prostredníctvom"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Poslať detail kontaktu prostredníctvom"
+
+msgid "addr_ti_settings2"
+msgstr "Nastavenie"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Vyriešiť konflikty zlučovania"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Vybrať kontakty"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Hlasová pošta"
+
+msgid "addr_va_add_field_address"
+msgstr "Adresa"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adresa (domov)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adresa (práca)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Narodeniny"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Užívateľské meno pre službu Google Talk"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Užívateľské meno pre protokol Jabber"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Užívateľské meno pre spoločnosť Nokia"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "Užívateľské meno pre protokol SIP"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype meno"
+
+msgid "addr_va_add_field_company"
+msgstr "Firma"
+
+msgid "addr_va_add_field_email"
+msgstr "E-mail"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-mail (domov)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-mail (práca)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Pohlavie"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mobil"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mobil (domov)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mobil (práca)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Prezývka"
+
+msgid "addr_va_add_field_note"
+msgstr "Poznámka"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefón"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefón (domov)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefón (práca)"
+
+msgid "addr_va_add_field_title"
+msgstr "Titul"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Webová stránka"
+
+msgid "addr_va_emergency_number"
+msgstr "Číslo tiesňového volania"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Exportované kontakty"
+
+msgid "addr_va_firstname"
+msgstr "Meno Priezvisko"
+
+msgid "addr_va_general_female"
+msgstr "Žena"
+
+msgid "addr_va_general_male"
+msgstr "Muž"
+
+msgid "addr_va_general_undefined"
+msgstr "Nedefinované"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Kontakty na SIM karte"
+
+msgid "addr_va_groups_sip"
+msgstr "Protokol SIP"
+
+msgid "addr_va_lastname"
+msgstr "Priezvisko Meno"
+
+msgid "addr_va_lastname_comma"
+msgstr "Priezvisko, Meno"
+
+msgid "addr_va_newedit_address_general"
+msgstr "všeobecné"
+
+msgid "addr_va_newedit_address_home"
+msgstr "domov"
+
+msgid "addr_va_newedit_address_work"
+msgstr "práca"
+
+msgid "addr_va_newedit_email_general"
+msgstr "všeobecné"
+
+msgid "addr_va_newedit_email_home"
+msgstr "domov"
+
+msgid "addr_va_newedit_email_work"
+msgstr "práca"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "domov"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "práca"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "všeobecné"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "domov"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "ostatné"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "práca"
+
+msgid "addr_va_nickname"
+msgstr "Prezývka"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Vložte narodeniny"
