@@ -1,0 +1,1027 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-04-28 02:34+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "الأسماء"
+
+msgid "addr_bd_browse"
+msgstr "المتصفح"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "العنوان"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "البيت"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "العمل"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "الميلاد"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s الأتصال"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s التراسل الفورى"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "البريد الإلكتروني"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "البيت"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "العمل"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "المنطقة"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "أتصال"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "البيت"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "العمل"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "الهاتف"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "البيت"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "غير مدعوم"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "العمل"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP صوت"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP فيديو"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Skype الأتصال عبر"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "رسالة نصية"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "البيت"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "العمل"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s مكالمة فيديو"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "صفحة الأنترنت"
+
+msgid "addr_bd_copy_sim"
+msgstr "نسخ"
+
+msgid "addr_bd_delete_locally"
+msgstr "مسح جميع الأسماء من الجهاز"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "إستيراد الأسماء"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "أستيراد الأسماء من حساب جديد"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "SIM النسخ من بطاقة"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "التزامن مع جهاز آخر"
+
+msgid "addr_bd_get_from_file"
+msgstr "الأستيراد من ملف أسماء"
+
+msgid "addr_bd_get_from_folder"
+msgstr "الأستيراد من مجلد أسماء"
+
+msgid "addr_bd_import"
+msgstr "أستيراد"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "أستيراد الأسماء عبر التبادل الإلكتروني"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "إضافة حقل"
+
+msgid "addr_bd_newedit_address"
+msgstr "عنوان"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "مدينة"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "ميلاد"
+
+msgid "addr_bd_newedit_email"
+msgstr "البريد الإلكتروني"
+
+msgid "addr_bd_newedit_gender"
+msgstr "النوع"
+
+msgid "addr_bd_newedit_phone"
+msgstr "الهاتف"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "الأتصال"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "حذف حقل"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "البريد الإلكتروني"
+
+msgid "addr_bd_send_card_sms"
+msgstr "رسالة نصية"
+
+msgid "addr_bd_temporary_add"
+msgstr "الدمج مع الأسم"
+
+msgid "addr_bd_temporary_call"
+msgstr "إتصال"
+
+msgid "addr_bd_temporary_chat"
+msgstr "محادثة"
+
+msgid "addr_bd_temporary_new"
+msgstr "اسم جديد"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP صوت"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP فيديو"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype مكالمة"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype محادثة"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Skype الأتصال عبر"
+
+msgid "addr_bd_temporary_sms"
+msgstr "رسالة نصية"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "رقم البريد الصوتي"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "الشركة"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "النوع"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "اللقب"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "ملاحظة"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "الوظيفة"
+
+msgid "addr_fi_displayname"
+msgstr "أظهار الأسم"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "جميع الأسماء"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "تصدير:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "أختيار الأسم"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "تصدير إلى:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "الموقع"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "أسم المجلد"
+
+msgid "addr_fi_mecard_address"
+msgstr "العنوان"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "عنوان البيت"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "عنوان العمل"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "الميلاد"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk أسم المستخدم ل"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber أسم المستخدم ل"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia أسم المستخدم ل"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP أسم المستخدم ل"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype أسم"
+
+msgid "addr_fi_mecard_company"
+msgstr "شركة"
+
+msgid "addr_fi_mecard_email"
+msgstr "البريد الإلكتروني"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "البريد الإلكتروني للبيت"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "البريد الإلكتروني للعمل"
+
+msgid "addr_fi_mecard_gender"
+msgstr "النوع"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "الأتصال"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "الأتصال بالبيت"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "الأتصال بالعمل"
+
+msgid "addr_fi_mecard_name"
+msgstr "الأسم"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "أسم المستخدم"
+
+msgid "addr_fi_mecard_note"
+msgstr "ملاحظة"
+
+msgid "addr_fi_mecard_phone"
+msgstr "الهاتف"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "الهاتف العمل"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "الهاتف المنزل"
+
+msgid "addr_fi_mecard_title"
+msgstr "الوظيفة"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "صفحة الأنترنت"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "المدينة"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "تمديد"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "صندوق البريد"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "رمز المنطقة"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "الدولة/المنطقة"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "الشارع"
+
+msgid "addr_fi_newedit_company"
+msgstr "الشركة"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "الأسم الأول"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk أسم المستخدم"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber أسم المستخدم"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "الأسم الأخير"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "أسم المستخدم"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia أسم المستخدم"
+
+msgid "addr_fi_newedit_note"
+msgstr "ملاحظة"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP أسم المستخدم"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype أسم"
+
+msgid "addr_fi_newedit_title"
+msgstr "الوظيفة"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "صفحة الأنترنت"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "البحث"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "الميلاد"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "الشركة"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "الأسم الأول"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "النوع"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "الأسم الأخير"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "اللقب"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "الوظيفة"
+
+msgid "addr_fi_voicemailbox"
+msgstr "البريد الصوتي"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"معالج تصدير الأسماء يسمح لك بتصدير الأسماء الخاصة بك حتي تتمكن من نقلها إلى تطبيقات أخرى.\n"
+"أضغط التالى' للمتابعة."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"فشل بتصدير الأسماء.\n"
+"أضغط 'السابق' للمحاولة مر أخرى أو أضغط خروج لأغلاق المعالج."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"إعدادات تصدير الأسماء تمت بنجاح.\n"
+"تم تصدير الأسماء إلى %s مجلد.\n"
+"أضغط انهاء لأغلاق المعالج."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"فشل بتصدير الأسماء .\n"
+"لاتوجد ذاكره كافية.\n"
+"أضغط السابق للمحاولة مره اخرى او خروج لأنهاء المعالج."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"فشل بتصدير الأسماء.\n"
+"لايوجد ذاكره كافية بالمكان الهدف.\n"
+"أضغط السابق لأختيار موقع جديد أو أضغط على خروج لأنهاء المعالج."
+
+msgid "addr_ia_no_contacts"
+msgstr "(لايوجد أسماء)"
+
+msgid "addr_ia_no_details"
+msgstr "(لايوجد تفاصيل)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "السماح %s لمشاهدة المتوفرين؟"
+
+msgid "addr_ia_search_not_found"
+msgstr "لا يوجد أسماء متوفرة"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "غير قادر على فتح الصورة. يمكن أن يكون تالف."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "غير قادر على أستعراض معلومات الأسم. قد يكون حذف الأسم أو حساب الدردشة مع الأسم قد حذف."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "غير قادر على الأتصال. الأسم غير متصل."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"غير قادر على تحديد الأسم.\n"
+"الصيغة غير مدعومة."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"غير قادر على أجراء العملية.\n"
+"ذاكرة الجهاز ممتلئة."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "غير قادر على إضافة حقل جديد. تم الوصول إلى الحد الأقصي من الحقول."
+
+msgid "addr_ib_file_name_empty"
+msgstr "أدخل أسم المستخدم اولا"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d أستيراد الأسماء. %d فشل."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d أستيراد الأسماء. 1 فشل."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 أسم لم يتم أستيراده. %d فشل."
+
+msgid "addr_ib_imported_successfully"
+msgstr "تم أستيراد الأسم"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "تم أستيراد الأسماء"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "غير قادر على أجراء محادثة عبر بروتوكول الصوت. أسم المستخدم %s غير موجود."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "غير قادر على بدأ الدردشة الفورية. أسم المستخدم %s غير موجود."
+
+msgid "addr_ib_maps_failed"
+msgstr "غير قادر على فتح الخريطة. قد يكون العنوان غير صالح."
+
+msgid "addr_ib_no_name_given"
+msgstr "ادخل الأسم"
+
+msgid "addr_ib_not_available"
+msgstr "غير متوفر"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"غير قادر على أجراء العملية.\n"
+"لاتوجد ذاكرة كافية."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"غير قادر على أجراء العملية.\n"
+"أنتهت المهلة."
+
+msgid "addr_ib_request_author_resend"
+msgstr "إرسال طلب الترخيص إلى %s"
+
+msgid "addr_ib_searching"
+msgstr "جارى البحث"
+
+msgid "addr_ib_shortcut_created"
+msgstr "أنشاء إختصار لسطح المكتب."
+
+msgid "addr_ib_system_error"
+msgstr ""
+"غير قادر على أجراء العملية.\n"
+"خطأ داخلى."
+
+msgid "addr_ib_unable_to_save"
+msgstr "غير قادر على الحفظ"
+
+msgid "addr_ib_undefined_error"
+msgstr "خطأ غير معروف"
+
+msgid "addr_ib_unknown_number"
+msgstr "الرقم غير معروف. غير قادر على أظهار معلومات الأسم."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "أ ب ت ث"
+
+msgid "addr_li_alpha_11"
+msgstr "أ ب ت ث"
+
+msgid "addr_li_alpha_2"
+msgstr "ج ح خ"
+
+msgid "addr_li_alpha_22"
+msgstr "ج ح خ"
+
+msgid "addr_li_alpha_3"
+msgstr "د ذ ر ز"
+
+msgid "addr_li_alpha_33"
+msgstr "د ذ ر ز"
+
+msgid "addr_li_alpha_4"
+msgstr "س ش ص ض"
+
+msgid "addr_li_alpha_44"
+msgstr "س ش ص ض"
+
+msgid "addr_li_alpha_5"
+msgstr "ط ظ ع غ"
+
+msgid "addr_li_alpha_55"
+msgstr "ط ظ ع غ"
+
+msgid "addr_li_alpha_6"
+msgstr "ف ق ك"
+
+msgid "addr_li_alpha_66"
+msgstr "ف ق ك"
+
+msgid "addr_li_alpha_7"
+msgstr "ل م ن"
+
+msgid "addr_li_alpha_77"
+msgstr "ل م ن"
+
+msgid "addr_li_alpha_8"
+msgstr "ه و ي"
+
+msgid "addr_li_alpha_88"
+msgstr "ه و ي"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(لايوجد أسماء)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(لايوجد صور)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "لايوجد أسم"
+
+msgid "addr_me_abc"
+msgstr "أ ب ت"
+
+msgid "addr_me_accounts"
+msgstr "حساب"
+
+msgid "addr_me_communication_history"
+msgstr "سجل الأتصالات"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "نسخ إلى الأسماء"
+
+msgid "addr_me_create_shortcut"
+msgstr "أنشاء أختصار"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "إضافة إلى الأسماء"
+
+msgid "addr_me_edit_contact"
+msgstr "تحرير"
+
+msgid "addr_me_editmyinfo"
+msgstr "تحرير"
+
+msgid "addr_me_email"
+msgstr "البريد الإلكتروني"
+
+msgid "addr_me_export"
+msgstr "تصدير"
+
+msgid "addr_me_groups"
+msgstr "مجموعات"
+
+msgid "addr_me_imaccounts"
+msgstr "الصوت عبر بروتوكول الأنترنت وحسابات الدردشة"
+
+msgid "addr_me_import"
+msgstr "جلب الأسماء"
+
+msgid "addr_me_importall"
+msgstr "نسخ جميع الأسماء"
+
+msgid "addr_me_importsel"
+msgstr "نسخ الأسم المحدد"
+
+msgid "addr_me_mecard"
+msgstr "معلوماتي"
+
+msgid "addr_me_merge_contact"
+msgstr "دمج الأسم"
+
+msgid "addr_me_new_contact"
+msgstr "اسم جديد"
+
+msgid "addr_me_recent"
+msgstr "الأحدث"
+
+msgid "addr_me_remove_contact"
+msgstr "حذف الأسم"
+
+msgid "addr_me_remove_contacts"
+msgstr "حذف الأسماء"
+
+msgid "addr_me_request_author"
+msgstr "طلب الترخيص"
+
+msgid "addr_me_send_card"
+msgstr "أرسال بطاقة الأعمال"
+
+msgid "addr_me_send_detail"
+msgstr "أرسال تفاصيل الأسم"
+
+msgid "addr_me_sendmycard"
+msgstr "أرسال بطاقة الأعمال"
+
+msgid "addr_me_sendmydetail"
+msgstr "أرسال تفاصيل الأسم"
+
+msgid "addr_me_settings"
+msgstr "الإعدادات"
+
+msgid "addr_me_status"
+msgstr "الموجودون"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"مسح جميع الأسماء من الجهاز؟\n"
+"أسماء الدردشة الفورية لم يتم حذفها من الخادم."
+
+msgid "addr_nc_delete_field"
+msgstr "حذف الحقل؟"
+
+msgid "addr_nc_delete_fields"
+msgstr "حذف الحقول؟"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"حذف أسم المستخدم الخاص بدردشة؟\n"
+"%s\n"
+"وسوف يتم حذفه من الخادم أيضا."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"لم يتم العثور على الأسماء في خادم الأسماء.\n"
+"إنشاء حساب جديد الآن؟"
+
+msgid "addr_nc_notification15"
+msgstr "أستيراد أسماء؟"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"حذف الأسم؟\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr "أنتهت مهلة الخادم. يجب إعادة الأسم. الأعادة الآن؟"
+
+msgid "addr_nc_notification7"
+msgstr "مسح الأسماء المحدد؟"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"حذف الأسماء؟\n"
+"%s\n"
+"حذف الأسماء سوف يحذف الأسماء من الخادم أيضا."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"حذف الأسماء المحدد؟\n"
+"حذف الأسماء المحدد سوف يحذف الأسماء من الخادم أيضا."
+
+msgid "addr_nc_send_avatar"
+msgstr "هل تريد أيضا أرسال الرمز؟"
+
+msgid "addr_ni_importing_fail"
+msgstr "فشل الأستيراد"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"فشل الأستيراد.\n"
+"الشكل غير معروف."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"فشل الأستيراد.\n"
+"لايوجد ذاكرة كافية."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"فشل الأستيراد.\n"
+"الأسم كبير جدا."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"خطأ داخلى.\n"
+"يجب إعادة الأسم."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "تصدير الأسماء"
+
+msgid "addr_pb_importing_contacts"
+msgstr "تصدير الأسماء"
+
+msgid "addr_pb_load_contacts"
+msgstr "تحميل الأسماء"
+
+msgid "addr_pb_notification13"
+msgstr "تصدير الأسماء"
+
+msgid "addr_pb_searching_contacts"
+msgstr "البحث في الأسماء"
+
+msgid "addr_ti_add_field_title"
+msgstr "حقل جديد"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "حدد حسابك الخاص"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "حدد حساب لأستخدامه مع الأسم"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "حدد حساب لأستخدامه مع الأسم"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "تحرير الرمز"
+
+msgid "addr_ti_delete_field"
+msgstr "مسح الحقل"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "أختيار الأسماء"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "تصدير الأسم 1/5: مرحبا"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "أستيراد الأسم 2/5: أختيار الأسماء المصدره"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "أستيراد الأسماء 3/5: صيغة الملف"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "أستيراد الأسماء 4/5: المجلد والموقع"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "أستيراد الأسماء 5/5: أكتمل"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "أستيراد الأسماء 5/5: فشل"
+
+msgid "addr_ti_get_contacts"
+msgstr "جلب الأسماء"
+
+msgid "addr_ti_groups_title"
+msgstr "مجموعات"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "أستيراد الأسماء من مجلد"
+
+msgid "addr_ti_import_contact_title"
+msgstr "أستيراد الأسماء من ملف"
+
+msgid "addr_ti_import_contacts"
+msgstr "أستيراد الأسماء"
+
+msgid "addr_ti_main_view"
+msgstr "جميع الأسماء (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "جميع الأسماء"
+
+msgid "addr_ti_main_view_recent"
+msgstr "أحدث الأسماء"
+
+msgid "addr_ti_mecard_title"
+msgstr "معلوماتي"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "إضافة إلى معلوماتي"
+
+msgid "addr_ti_merge_contacts"
+msgstr "دمج مع الأسم"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "تحرير معلوماتي"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "تحرير الأسم"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "اسم جديد"
+
+msgid "addr_ti_request_author"
+msgstr "%s طلب الأذن"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "البحث بالتبادل الإلكتروني. الأسماء"
+
+msgid "addr_ti_sel_contact"
+msgstr "أختيار الأسم"
+
+msgid "addr_ti_select_avatar"
+msgstr "أختيار الصورة"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "أرسال تفاصيل الأسم"
+
+msgid "addr_ti_select_picture_title"
+msgstr "تحديد الصورة"
+
+msgid "addr_ti_send_card"
+msgstr "أرسال بطاقة الأعمال بواسطة"
+
+msgid "addr_ti_send_card_detail"
+msgstr "أرسال تفاصيل الأسم بواسطة"
+
+msgid "addr_ti_settings2"
+msgstr "الإعدادات"
+
+msgid "addr_ti_solve_conflict"
+msgstr "حل لمشكلة الدمج"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "أختيار الأسماء"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "البريد الصوتي"
+
+msgid "addr_va_add_field_address"
+msgstr "عنوان"
+
+msgid "addr_va_add_field_address_home"
+msgstr "عنوان البيت"
+
+msgid "addr_va_add_field_address_work"
+msgstr "عنوان العمل"
+
+msgid "addr_va_add_field_birthday"
+msgstr "الميلاد"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk أسم مستخدم"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber أسم مستخدم"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia أسم مستخدم"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP أسم مستخدم"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype الأسم"
+
+msgid "addr_va_add_field_company"
+msgstr "الشركة"
+
+msgid "addr_va_add_field_email"
+msgstr "البريد الإلكتروني"
+
+msgid "addr_va_add_field_email_home"
+msgstr "البريد الإلكتروني للبيت"
+
+msgid "addr_va_add_field_email_work"
+msgstr "البريد الإلكتروني للعمل"
+
+msgid "addr_va_add_field_gender"
+msgstr "نوع"
+
+msgid "addr_va_add_field_mobile"
+msgstr "مكالمة"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "مكالمة للبيت"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "مكالمة للعمل"
+
+msgid "addr_va_add_field_nickname"
+msgstr "اللقب"
+
+msgid "addr_va_add_field_note"
+msgstr "ملاحظة"
+
+msgid "addr_va_add_field_phone"
+msgstr "الهاتف"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "هاتف البيت"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "هاتف العمل"
+
+msgid "addr_va_add_field_title"
+msgstr "الوظيفة"
+
+msgid "addr_va_add_field_webpage"
+msgstr "صفحت الأنترنت"
+
+msgid "addr_va_emergency_number"
+msgstr "أرقام الطوارئ"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "تصدير الأسماء"
+
+msgid "addr_va_firstname"
+msgstr "الأسم الأول الأسم الأخير"
+
+msgid "addr_va_general_female"
+msgstr "العائلة"
+
+msgid "addr_va_general_male"
+msgstr "رجل"
+
+msgid "addr_va_general_undefined"
+msgstr "غير محدد"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM أرقام بطاقة"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "الأسم الأخير الأسم الأول"
+
+msgid "addr_va_lastname_comma"
+msgstr "الأسم الأخير,الأسم الأول"
+
+msgid "addr_va_newedit_address_general"
+msgstr "النوع"
+
+msgid "addr_va_newedit_address_home"
+msgstr "البيت"
+
+msgid "addr_va_newedit_address_work"
+msgstr "العمل"
+
+msgid "addr_va_newedit_email_general"
+msgstr "العام"
+
+msgid "addr_va_newedit_email_home"
+msgstr "البيت"
+
+msgid "addr_va_newedit_email_work"
+msgstr "العمل"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "البيت"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "العمل"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "العام"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "البيت"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "غير محدد"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "العمل"
+
+msgid "addr_va_nickname"
+msgstr "اللقب"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "أدخل الميلاد"
+
