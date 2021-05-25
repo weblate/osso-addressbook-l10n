@@ -1,0 +1,1085 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2010-02-07 17:08+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "Kişiler"
+
+msgid "addr_bd_browse"
+msgstr "Gözat"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adres"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Doğumgünü"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s arama"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s IM"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-posta"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Konum"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "faks"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "diğer"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP ses"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP video"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Skype ile Ara"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "ev"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "iş"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s video araması"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Web sayfası"
+
+msgid "addr_bd_copy_sim"
+msgstr "Kopyala"
+
+msgid "addr_bd_delete_locally"
+msgstr "Cihazdaki tüm kişileri sil"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Kişi dosyasını al"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Yeni hesaptan kişileri al"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "SIM karttan kopyala"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Başka cihazdan senkronize et"
+
+msgid "addr_bd_get_from_file"
+msgstr "Dosyadan kişi al"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Kişi klasörünü al"
+
+msgid "addr_bd_import"
+msgstr "İçe aktar"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Mail Exch. kişilerini al"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Alan ekle"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adres"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Ülke"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Doğumgünü"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-posta"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Cinsiyet"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Alanları sil"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-posta"
+
+msgid "addr_bd_send_card_sms"
+msgstr "SMS"
+
+msgid "addr_bd_temporary_add"
+msgstr "Kişiyle birleştir"
+
+msgid "addr_bd_temporary_call"
+msgstr "Arama"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Anlık mesaj"
+
+msgid "addr_bd_temporary_new"
+msgstr "Yeni kişi"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP ses"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP video"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype araması"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype sohbeti"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Skype ile Ara"
+
+msgid "addr_bd_temporary_sms"
+msgstr "SMS"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Seslimesaj numarası"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Şirket"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Cinsiyet"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Lakap"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Not"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "İş ünvanı"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "SMS sadece Hücresel için gösterilsin"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Video araması seçeneği gösterilsin"
+
+msgid "addr_fi_displayname"
+msgstr "İsimleri göster"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Tüm kişiler"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Çıkart:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Seçilen kişiler"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Şuraya çıkart:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Konum"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Klasör adı"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adres"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Adres (ev)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Adres (iş)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Doğumgünü"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk kullanıcı adı"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber kullanıcı adı"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia kullanıcı adı"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP kullanıcı adı"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype Adı"
+
+msgid "addr_fi_mecard_company"
+msgstr "Şirket"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-posta"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-posta (ev)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-posta (iş)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Cinsiyet"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mobil"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mobil (ev)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mobil (iş)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Adı"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Lakap"
+
+msgid "addr_fi_mecard_note"
+msgstr "Not"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefon"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Faks"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefon (ev)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefon (iş)"
+
+msgid "addr_fi_mecard_title"
+msgstr "İş ünvanı"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Web sayfası"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Şehir"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Uzantı"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "PO Kutusu"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Postakodu"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Bölge"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Sokak"
+
+msgid "addr_fi_newedit_company"
+msgstr "Şirket"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "İlk ad"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk kullanıcı adı"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber kullanıcı adı"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Son ad"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Lakap"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia kullanıcı adı"
+
+msgid "addr_fi_newedit_note"
+msgstr "Not"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP kullanıcı adı"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype Adı"
+
+msgid "addr_fi_newedit_title"
+msgstr "İş ünvanı"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Web sayfası"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Ara"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Doğumgünü"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Şirket"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "İlk ad"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Cinsiyet"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Son ad"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Lakap"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "İş ünvanı"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Seslimesaj"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Kişi çıkarma sihirbazı kişilerinizi diğer uygulamalara transfer edebilmeniz için kişileri çıkarır.\n"
+"Devam etmek için 'Sonraki' butonuna dokunun."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Kişilerin çıkarılması başarısız oldu.\n"
+"'Önceki' butonuna dokunarak veya bu diyalogun dışına dokunarak sihirbazı kapatın."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"Kişilerin çıkarılması işlemi tamamlandı.\n"
+"Kişiler %s klasörüne çıkarıldı.\n"
+"'Bitir' butonuna basarak çıkın."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Kişilerin çıkarılması başarısız oldu.\n"
+"Bellek yetersiz.\n"
+"'Önceki' butonuna veya diyalogun dışına basarak sihirbazı kapatın."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Kişilerin çıkarılması başarısız oldu.\n"
+"Hedef konumda  bellek yetersiz.\n"
+"'Önceki' butonuna veya diyalogun dışına basarak sihirbazı kapatın."
+
+msgid "addr_ia_no_contacts"
+msgstr "(kişi yok)"
+
+msgid "addr_ia_no_details"
+msgstr "(detay yok)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "%s müsatlik durumunuzu görebilsin mi?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Hiç kişi bulunamadı"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Resim açılamıyor. Hasarlı olabilir."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+"Kişi bilgisi gösterilemiyor. Kişi veya bu kişiyi barındıran IM "
+"hesabı silinmiş olabilir."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Aranamıyor. Kişi çevrimdışı."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Kişi seçilemiyor.\n"
+"Bağlam desteklenmiyor."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"İşlem yapılamıyor.\n"
+"Cihaz hafızası dolu."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Yeni alan eklenemiyor. Maksimum alan sayısına ulaşıldı."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Önce dosya adını girin"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d kişi alındı. %d başarısız oldu."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d kişi alındı. 1 başarısız oldu."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 kişi alındı. %d başarısız oldu."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Kişi başarıyla alındı"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Kişiler başarıyla alındı"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Hiç kişi bulunamadı"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "VoIP araması başlatılamıyor. %s kullanıcı adı mevcut değil."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Anlık mesajlaşma başlatılamıyor. %s kullanıcı adı mevcut değil."
+
+msgid "addr_ib_maps_failed"
+msgstr "Haritalar açılamıyor. Adres geçersiz olabilir."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Haritalar açılamıyor. Sunucu cevap vermiyor."
+
+msgid "addr_ib_no_name_given"
+msgstr "Kişi için isim girin"
+
+msgid "addr_ib_not_available"
+msgstr "Uygun değil"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"İşlem gerçekleştirilemiyor.\n"
+"Bellek yetersiz."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"İşlem gerçekleştirilemiyor.\n"
+"İzin verilmedi."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Yetki isteği gönderiliyor %s"
+
+msgid "addr_ib_searching"
+msgstr "Arıyor"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Masaüstünde kısayol oluşturuldu"
+
+msgid "addr_ib_system_error"
+msgstr ""
+"İşlem gerçekleştirilemiyor.\n"
+"İçsel hata."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Kaydedilemiyor"
+
+msgid "addr_ib_undefined_error"
+msgstr "Tanımlanmamış hata"
+
+msgid "addr_ib_unknown_number"
+msgstr "Bilinmeyen numara. Kişi bilgisi gösterilemiyor."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(kişi yok)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(resim yok)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Adsız"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Hesaplar"
+
+msgid "addr_me_communication_history"
+msgstr "İletişim geçmişi"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Kişilere kopyala"
+
+msgid "addr_me_create_shortcut"
+msgstr "Kısayol oluştur"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Kişilere ekle"
+
+msgid "addr_me_edit_contact"
+msgstr "Düzenle"
+
+msgid "addr_me_editmyinfo"
+msgstr "Düzenle"
+
+msgid "addr_me_email"
+msgstr "E-posta"
+
+msgid "addr_me_export"
+msgstr "Aktar"
+
+msgid "addr_me_groups"
+msgstr "Gruplar"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP ve IM hesapları"
+
+msgid "addr_me_import"
+msgstr "Kişileri getir"
+
+msgid "addr_me_importall"
+msgstr "Tüm kişileri kopyala"
+
+msgid "addr_me_importsel"
+msgstr "Seçilen kişileri kopyala"
+
+msgid "addr_me_mecard"
+msgstr "Bilgilerim"
+
+msgid "addr_me_merge_contact"
+msgstr "Kişi birleştir"
+
+msgid "addr_me_new_contact"
+msgstr "Yeni kişi"
+
+msgid "addr_me_recent"
+msgstr "En son"
+
+msgid "addr_me_remove_contact"
+msgstr "Kişi sil"
+
+msgid "addr_me_remove_contacts"
+msgstr "Kişileri sil"
+
+msgid "addr_me_request_author"
+msgstr "Yetki isteği"
+
+msgid "addr_me_send_card"
+msgstr "Kişi kartı gönder"
+
+msgid "addr_me_send_detail"
+msgstr "Kişi detayı gönder"
+
+msgid "addr_me_sendmycard"
+msgstr "Kişi kartı gönder"
+
+msgid "addr_me_sendmydetail"
+msgstr "Kişi detayı gönder"
+
+msgid "addr_me_settings"
+msgstr "Ayarlar"
+
+msgid "addr_me_status"
+msgstr "Durum"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Cihazdan tüm kişiler silinsin mi?\n"
+"Sunucudaki IM kişileri silinmeyecektir."
+
+msgid "addr_nc_delete_field"
+msgstr "Alanı sil?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Alanları sil?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"IM kullanıcı ad(lar)ını sil?\n"
+"%s\n"
+"Bu onları sunucudan da silecektir."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+"Seçili  IM kullanıcı adlarını sil?\n"
+"IM kullanıcı adlarını silmek onları %s üzerinden de siler."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+"Seçili IM kullanıcı adlarını sil?\n"
+"IM kullanıcı adlarını silmek onları IM servisinden de siler."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Kişilerde bu servis için hiç kişi bulunamadı.\n"
+"Şimdi yeni kişi oluştur?"
+
+msgid "addr_nc_notification15"
+msgstr "Kişilere içeri al?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Kişiyi sil?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr "Sunucu zaman-aşımı. Kişiler yeniden başlatılmalı. Başlatılsın mı?"
+
+msgid "addr_nc_notification7"
+msgstr "Seçilen kişileri sil?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Kişiyi sil?\n"
+"%s\n"
+"Bir kişiyi silmek onu sunucudan da kaldıracak."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Seçilen kişileri sil?\n"
+"Kişileri silmek onları sunucudan da kaldıracak."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+"Seçilen kişileri sil?\n"
+"Kişileri silmek onları IM servislerinden de siler."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+"Kişiyi sil?\n"
+"%s\n"
+"Bu kişi silmek onu IM servisinden de siler."
+
+msgid "addr_nc_send_avatar"
+msgstr "Kişi resmini de göndermek istiyor musunuz?"
+
+msgid "addr_ni_importing_fail"
+msgstr "İçeri aktarma başarısız"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"İçeri aktarma başarısız.\n"
+"Biçim desteklenmiyor."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"İçeri aktarma başarısız.\n"
+"Bellek yetersiz."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"İçeri aktarma başarısız.\n"
+"Dosya çok büyük."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"İçsel hata.\n"
+"Kişiler yeniden başlatılmalı."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Kişiler dışarı aktarılıyor"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Kişiler içeri aktarılıyor"
+
+msgid "addr_pb_load_contacts"
+msgstr "Kişiler yükleniyor"
+
+msgid "addr_pb_notification13"
+msgstr "Kişiler içeri aktarılıyor"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Kişiler aranıyor"
+
+msgid "addr_ti_add_field_title"
+msgstr "Yeni alan"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Kendi hesabınızı seçin"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Bu kişiyle kullanmak için bir hesap seçin"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Bu kişiyle kullanmak için bir hesap seçin"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Resmi kırp"
+
+msgid "addr_ti_delete_field"
+msgstr "Alanları sil"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Kişileri seç"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Kişileri dışarı aktar 1/5: Hoşgeldiniz"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Kişileri dışarı aktar 2/5: Aktarılacak kişiler"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Kişileri dışarı aktar 3/5: Dosya biçimi"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Kişileri dışarı aktar 4/5: Klasör ve konum"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Kişileri dışarı aktar 5/5: Tamamlanma"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Kişileri dışarı aktar 5/5: Başarısız"
+
+msgid "addr_ti_get_contacts"
+msgstr "Kişileri getir"
+
+msgid "addr_ti_groups_title"
+msgstr "Gruplar"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Kişi klasörünü içe al"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Kişiler dosyasını içeri al"
+
+msgid "addr_ti_import_contacts"
+msgstr "Kişileri içe al"
+
+msgid "addr_ti_main_view"
+msgstr "Tüm kişiler (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Tüm kişiler"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Son kişiler"
+
+msgid "addr_ti_mecard_title"
+msgstr "Bilgilerim"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Bilgimi ekle"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Kişiyle birleştir"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Bilgilerimi düzenle"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Kişi düzenle"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Yeni kişi"
+
+msgid "addr_ti_request_author"
+msgstr "%s Yetki isteği"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Mail Exch. kişilerini ara"
+
+msgid "addr_ti_sel_contact"
+msgstr "Kişi seç"
+
+msgid "addr_ti_select_avatar"
+msgstr "Resim seç"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Kişi detayı gönder"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Resim seç"
+
+msgid "addr_ti_send_card"
+msgstr "Kişi kartını bu yolla gönder"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Kişi detayını bu yolla gönder"
+
+msgid "addr_ti_settings2"
+msgstr "Ayarlar"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Birleştirme çelişkilerini çöz"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Kişileri seç"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Seslimesaj"
+
+msgid "addr_va_add_field_address"
+msgstr "Adres"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adres (ev)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adres (iş)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Doğumgünü"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk kullanıcı adı"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber kullanıcı adı"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia kullanıcı adı"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP kullanıcı adı"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype Adı"
+
+msgid "addr_va_add_field_company"
+msgstr "Şirket"
+
+msgid "addr_va_add_field_email"
+msgstr "E-posta"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-posta (ev)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-posta (iş)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Cinsiyet"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mobil"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mobil (ev)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mobil (iş)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Lakap"
+
+msgid "addr_va_add_field_note"
+msgstr "Not"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Faks"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefon (ev)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefon (iş)"
+
+msgid "addr_va_add_field_title"
+msgstr "İş ünvanı"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Web sayfası"
+
+msgid "addr_va_emergency_number"
+msgstr "Acil durum numarası"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Aktarılan kişiler"
+
+msgid "addr_va_firstname"
+msgstr "İlk adı Son adı"
+
+msgid "addr_va_general_female"
+msgstr "Kadın"
+
+msgid "addr_va_general_male"
+msgstr "Erkek"
+
+msgid "addr_va_general_undefined"
+msgstr "Tanımlanmamış"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM kart kişileri"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Son adı İlk adı"
+
+msgid "addr_va_lastname_comma"
+msgstr "Son adı, İlk adı"
+
+msgid "addr_va_newedit_address_general"
+msgstr "genel"
+
+msgid "addr_va_newedit_address_home"
+msgstr "ev"
+
+msgid "addr_va_newedit_address_work"
+msgstr "iş"
+
+msgid "addr_va_newedit_email_general"
+msgstr "genel"
+
+msgid "addr_va_newedit_email_home"
+msgstr "ev"
+
+msgid "addr_va_newedit_email_work"
+msgstr "iş"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "ev"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "iş"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "faks"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "genel"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "ev"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "diğer"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "iş"
+
+msgid "addr_va_nickname"
+msgstr "Lakap"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Doğumgünü girin"
