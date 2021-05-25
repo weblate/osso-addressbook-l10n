@@ -1,0 +1,1036 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20091102095704\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-03-05 16:57+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "addr_ap_address_book"
+msgstr "Névjegyzék"
+
+msgid "addr_bd_browse"
+msgstr "Tallózás"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Cím"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "otthon"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "munkahely"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Születésnap"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s hívás"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s IM"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-mail"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "otthon"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "munkahely"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Hely"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "otthon"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "munkahely"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "otthon"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "nem támogatott"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "munkahely"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP hang"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP videó"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Hívás Skype-on"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "otthon"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "munkahely"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s videó hívás"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Weblap"
+
+msgid "addr_bd_copy_sim"
+msgstr "Másolás"
+
+msgid "addr_bd_delete_locally"
+msgstr "Az összes névjegy törlése az eszközről"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Névjegyek importálása"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Névjegyek importálása VoIP vagy IM fiókból"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Másolás SIM-ről"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Szinkronizálás más eszközzel"
+
+msgid "addr_bd_get_from_file"
+msgstr "Névjegy fájl importálása"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Névjegy mappa importálása"
+
+msgid "addr_bd_import"
+msgstr "Importálás"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Mail Exch. névjegyek importálása"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Új mező"
+
+msgid "addr_bd_newedit_address"
+msgstr "Cím"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Ország"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Születésnap"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-mail"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Neme"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telefon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mobil"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Mezők törlése"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-mail"
+
+msgid "addr_bd_send_card_sms"
+msgstr "SMS"
+
+msgid "addr_bd_temporary_add"
+msgstr "Névjegy egyesítése"
+
+msgid "addr_bd_temporary_call"
+msgstr "Hívás"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Azonnali üzenet (IM)"
+
+msgid "addr_bd_temporary_new"
+msgstr "Új névjegy"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP hang"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP videó"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Skype hívás"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype chat"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Hívás Skype-on"
+
+msgid "addr_bd_temporary_sms"
+msgstr "SMS"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Hangposta száma"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Cég"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Neme"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Becenév"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Megjegyzés"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Beosztás"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "SMS csak Mobile számokra"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Videóhívás opció megjelenítése"
+
+msgid "addr_fi_displayname"
+msgstr "Nevek megjelenítése"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Minden névjegy"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exportálás:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Kijelölt névjegyek"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exportálás ide:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Hely"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Mappa neve"
+
+msgid "addr_fi_mecard_address"
+msgstr "Cím"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Cím (otthon)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Cím (munkahely)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Születésnap"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk felhasználónév"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber felhasználónév"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia felhasználónév"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP felhasználónév"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype Név"
+
+msgid "addr_fi_mecard_company"
+msgstr "Cég"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-mail"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-mail (otthon)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-mail (munkahely)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Neme"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mobil"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mobil (otthon)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mobil (munkahely)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Név"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Becenév"
+
+msgid "addr_fi_mecard_note"
+msgstr "Megjegyzés"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telefon"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telefon (otthon)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telefon (munkahely)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Beosztás"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Weblap"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Város"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Mellék"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Postafiók"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Irányítószám"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Régió"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Utca"
+
+msgid "addr_fi_newedit_company"
+msgstr "Cég"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Keresztnév"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk felhasználónév"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber felhasználónév"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Vezetéknév"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Becenév"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia felhasználónév"
+
+msgid "addr_fi_newedit_note"
+msgstr "Megjegyzés"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP felhasználónév"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype Név"
+
+msgid "addr_fi_newedit_title"
+msgstr "Beosztás"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Weblap"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Keresés"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Születésnap"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Cég"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Keresztnév"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Neme"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Vezetéknév"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Becenév"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Beosztás"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Hangüzenet"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+"Ez a varázsló segítséget nyújt névjegyeid exportálásában, hogy azok más alkalmazások számára is elérhetők legyenek.\n"
+"Kattints a 'Következő'-re a folytatáshoz."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+"Névjegyek exportálása sikertelen.\n"
+"Kattints az 'Előző'-re, hogy újra megpróbáld vagy a párbeszédablakon kívülre a Varázsló bezárásához."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+"A Varázsló munkája befejeződött.\n"
+"Az exportált névjegyek a következő mappába kerülnek: %s.\n"
+"Kattints a 'Befejezés'-re a Varázsló bezárásához."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+"Névjegyek exportálása sikertelen.\n"
+"Kevés a memória.\n"
+"Kattints a 'Előző'-re, hogy újra megpróbáld vagy a párbeszédeablakon kívülre a Varázsló bezárásához."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+"Névjegyek exportálása sikertelen.\n"
+"Nincs elég memória a kiválasztott helyen.\n"
+"Kattints az 'Előző'-re és válassz másik helyet, hogy újra megpróbáld vagy kattints a párbeszédablakon kívülre a Varázsló bezárásához."
+
+msgid "addr_ia_no_contacts"
+msgstr "(nincs névjegy)"
+
+msgid "addr_ia_no_details"
+msgstr "(nincs adat)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Engedélyezed neki: %s, hogy lássa az állapotodat?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Nem található névjegy"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "A kép nem nyitható meg. Talán sérült."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "Névjegy információk nem jeleníthetők meg. A névjegyet törölték vagy az IM fiókot eltávolították."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Hívás sikertelen. Partner nem elérhető."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+"Névjegy kijelölése sikertelen.\n"
+"A környezet nem támogatott."
+
+msgid "addr_ib_disc_full"
+msgstr ""
+"A műveletet nem lehet végrehajtani.\n"
+"Az eszköz tárolója megtelt."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Új mező hozzáadása sikertelen. Elérted a mezők maximális számát."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Először a fájl nevét add meg"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d névjegy importálva. %d sikertelen."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d névjegy importálva. 1 sikertelen."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 névjegy importálva. %d sikertelen."
+
+msgid "addr_ib_imported_successfully"
+msgstr "A névjegy importálása sikeres volt"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "A névjegyek importálása sikeres volt."
+
+msgid "addr_ib_invalid_username_call"
+msgstr "VoIP hívás nem kezdeményezhető. A felhasználónév (%s) nem létezik."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Azonnali üzenet (IM) nem küldhető. A felhasználónév (%s) nem létezik."
+
+msgid "addr_ib_maps_failed"
+msgstr "A térkép nem nyitható meg. Lehet, hogy a cím érvénytelen."
+
+msgid "addr_ib_no_name_given"
+msgstr "Add meg a nevet a névjegyhez"
+
+msgid "addr_ib_not_available"
+msgstr "Nem elérhető"
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+"A művelet nem hajtható végre.\n"
+"Kevés a memória."
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+"A művelet nem hajtható végre.\n"
+"Az engedély megtagadva."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Engedélykérés küldése neki: %s"
+
+msgid "addr_ib_searching"
+msgstr "Keresés"
+
+msgid "addr_ib_shortcut_created"
+msgstr "A parancsikon létrehozva az asztalon."
+
+msgid "addr_ib_system_error"
+msgstr ""
+"A művelet nem hajtható végre.\n"
+"Belső hiba."
+
+msgid "addr_ib_unable_to_save"
+msgstr "A mentés sikertelen"
+
+msgid "addr_ib_undefined_error"
+msgstr "Meghatározatlan hiba"
+
+msgid "addr_ib_unknown_number"
+msgstr "Ismeretlen szám. A névjegy információ nem jeleníthető meg."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(nincsenek névjegyek)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(nincsenek képek)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Nincs név"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Fiókok"
+
+msgid "addr_me_communication_history"
+msgstr "Előzmények"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Másolás Partnerek közé"
+
+msgid "addr_me_create_shortcut"
+msgstr "Parancsikon létrehozása"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Partnerekhez adás"
+
+msgid "addr_me_edit_contact"
+msgstr "Szerkesztés"
+
+msgid "addr_me_editmyinfo"
+msgstr "Szerkesztés"
+
+msgid "addr_me_email"
+msgstr "E-mail"
+
+msgid "addr_me_export"
+msgstr "Exportálás"
+
+msgid "addr_me_groups"
+msgstr "Csoportok"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP és IM fiókok"
+
+msgid "addr_me_import"
+msgstr "Névjegyek importálása"
+
+msgid "addr_me_importall"
+msgstr "Minden névjegy másolása"
+
+msgid "addr_me_importsel"
+msgstr "A kiválasztott névjegyek másolása"
+
+msgid "addr_me_mecard"
+msgstr "Saját információk"
+
+msgid "addr_me_merge_contact"
+msgstr "Névjegy egyesítése"
+
+msgid "addr_me_new_contact"
+msgstr "Új névjegy"
+
+msgid "addr_me_recent"
+msgstr "Használt"
+
+msgid "addr_me_remove_contact"
+msgstr "Névjegy törlése"
+
+msgid "addr_me_remove_contacts"
+msgstr "Névjegyek törlése"
+
+msgid "addr_me_request_author"
+msgstr "Engedély kérése"
+
+msgid "addr_me_send_card"
+msgstr "Névjegykártya küldése"
+
+msgid "addr_me_send_detail"
+msgstr "Névjegy adat küldése"
+
+msgid "addr_me_sendmycard"
+msgstr "Névjegykártya küldése"
+
+msgid "addr_me_sendmydetail"
+msgstr "Névjegy adat küldése"
+
+msgid "addr_me_settings"
+msgstr "Beállítások"
+
+msgid "addr_me_status"
+msgstr "Állapot"
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+"Az összes névjegyet törlése az eszközről?\n"
+"Az IM névjegyek nem törlődnek a szerverről."
+
+msgid "addr_nc_delete_field"
+msgstr "Törlöd a mezőket?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Törlöd a mezőket?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+"Törlöd az IM felhasználónevet (neveket)?\n"
+"%s\n"
+"Az adatok a szerverről is törlődni fognak."
+
+msgid "addr_nc_notification14"
+msgstr ""
+"Nincsenek névjegyek a Névjegyzékben ehhez a szolgáltatáshoz.\n"
+"Létrehozol egy új fiókot?"
+
+msgid "addr_nc_notification15"
+msgstr "Importálod a Névjegyzékbe?"
+
+msgid "addr_nc_notification16"
+msgstr ""
+"Törlöd a névjegyett?\n"
+"%s"
+
+msgid "addr_nc_notification19"
+msgstr "Szerver időtúllépés. A Névjegyzéket újra kell indítani. Újraindítod most?"
+
+msgid "addr_nc_notification7"
+msgstr "Törlöd a kijelölt névjegyeket?"
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+"Törlöd a névjegyet?\n"
+"%s\n"
+"A névjegy törléskor a szerverről is törlődni fog."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+"Törlöd a kijelölt névjegyeket?\n"
+"A névjegyek törléskor a szerverről is törlődni fognak."
+
+msgid "addr_nc_send_avatar"
+msgstr "Az avatart is küldeni akarod?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Importálás sikertelen"
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+"Importálás sikertelen.\n"
+"A formátum nem azonosítható."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+"Importálás sikertelen.\n"
+"Kevés a memória."
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+"Importálás sikertelen.\n"
+"A fájl túl nagy."
+
+msgid "addr_ni_internal_error"
+msgstr ""
+"Belső hiba.\n"
+"A Névjegyzéket újra kell indítani."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Névjegyek exportálása"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Névjegyek importálása"
+
+msgid "addr_pb_load_contacts"
+msgstr "Névjegyek betöltése"
+
+msgid "addr_pb_notification13"
+msgstr "Importing contacts"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Névjegyek keresése"
+
+msgid "addr_ti_add_field_title"
+msgstr "Új mező"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Válaszd ki a saját fiókot"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Válassz egy fiókot ehhez a névjegyhez"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Válassz egy fiókot ehhez a névjegyhez"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Avatar formázása"
+
+msgid "addr_ti_delete_field"
+msgstr "Mezők törlése"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Névjegyek kijelölése"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Névjegyek exportálása 1/5: Üdvözlés"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Névjegyek exportálása 2/5: Exportálandó névjegyek"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Névjegyek exportálása 3/5: Fájl formátum"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Névjegyek exportálása: 4/5: Mappa és hely"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Névjegyek exportálása 5/5: Befejezés"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Névjegyek exportálása 5/5: Sikertelen"
+
+msgid "addr_ti_get_contacts"
+msgstr "Névjegyek importálása"
+
+msgid "addr_ti_groups_title"
+msgstr "Csoportok"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Névjegy mappa importálása"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Névjegy fájl importálása"
+
+msgid "addr_ti_import_contacts"
+msgstr "Névjegyek importálása"
+
+msgid "addr_ti_main_view"
+msgstr "Minden névjegy (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Összes névjegy"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Mostanában használt"
+
+msgid "addr_ti_mecard_title"
+msgstr "Saját információk"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Saját információk megadása"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Egyesítés névjeggyel"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Saját információk szerkesztése"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Névjegy szerkesztése"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Új névjegy"
+
+msgid "addr_ti_request_author"
+msgstr "%s Engedély kérése"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Mail Exch. névjegy keresése"
+
+msgid "addr_ti_sel_contact"
+msgstr "Névjegy kiválasztása"
+
+msgid "addr_ti_select_avatar"
+msgstr "Kép kiválasztása"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Névjegy adat küldése"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Kép kiválasztása"
+
+msgid "addr_ti_send_card"
+msgstr "Névjegykártya küldése a következőn"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Névjegy adat küldése a következőn"
+
+msgid "addr_ti_settings2"
+msgstr "Beállítások"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Egyesítési ütközés feloldása"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Névjegyek kiválasztása"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Hangposta"
+
+msgid "addr_va_add_field_address"
+msgstr "Cím"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Cím (otthon)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Cím (munkahely)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Születésnap"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk felhasználónév"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber felhasználónév"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia felhasználónév"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP felhasználónév"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype Név"
+
+msgid "addr_va_add_field_company"
+msgstr "Cég"
+
+msgid "addr_va_add_field_email"
+msgstr "E-mail"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-mail (otthon)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-mail (munkahely)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Neme"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mobil"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mobil (otthon)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mobil (munkahely)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Becenév"
+
+msgid "addr_va_add_field_note"
+msgstr "Megjegyzés"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telefon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telefon (otthon)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telefon (munkahely)"
+
+msgid "addr_va_add_field_title"
+msgstr "Beosztás"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Weblap"
+
+msgid "addr_va_emergency_number"
+msgstr "Segélyhívó szám"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Exportált névjegyek"
+
+msgid "addr_va_firstname"
+msgstr "Keresztnév Vezetéknév"
+
+msgid "addr_va_general_female"
+msgstr "Nő"
+
+msgid "addr_va_general_male"
+msgstr "Férfi"
+
+msgid "addr_va_general_undefined"
+msgstr "Nem meghatározható"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM névjegyek"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Vezetéknév Keresztnév"
+
+msgid "addr_va_lastname_comma"
+msgstr "Vezetéknév, Keresztnév"
+
+msgid "addr_va_newedit_address_general"
+msgstr "általános"
+
+msgid "addr_va_newedit_address_home"
+msgstr "otthon"
+
+msgid "addr_va_newedit_address_work"
+msgstr "munkahely"
+
+msgid "addr_va_newedit_email_general"
+msgstr "általános"
+
+msgid "addr_va_newedit_email_home"
+msgstr "otthon"
+
+msgid "addr_va_newedit_email_work"
+msgstr "munkahely"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "otthon"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "munkahely"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "általános"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "otthon"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "nem támogatott"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "munkahely"
+
+msgid "addr_va_nickname"
+msgstr "Becenév"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Add meg a születésnapot"
+
