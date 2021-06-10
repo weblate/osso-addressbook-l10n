@@ -1,0 +1,1033 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "addr_ap_address_book"
+msgstr "Contactes"
+
+msgid "addr_bd_browse"
+msgstr "Navega"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Adreça"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Aniversari"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "Truca amb %s"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "MI amb %s"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "Adreça electrònica"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Ubicació"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Mòbil"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Telèfon"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "altres"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP àudio"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP vídeo"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Truca amb Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "casa"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "feina"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "Vídeo-trucada amb %s"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Pàgina web"
+
+msgid "addr_bd_copy_sim"
+msgstr "Copia"
+
+msgid "addr_bd_delete_locally"
+msgstr "Esborra tots els contactes del dispositiu"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Importa contactes"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Importa contactes d'un compte nou"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Copia de targeta SIM"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Sincronitza d'un altre dispositiu"
+
+msgid "addr_bd_get_from_file"
+msgstr "Importa contactes de fitxer"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Importa directori de contactes"
+
+msgid "addr_bd_import"
+msgstr "Importa"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Importa contactes d'Exchange"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Afegeix camp"
+
+msgid "addr_bd_newedit_address"
+msgstr "Adreça física"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "País"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Aniversari"
+
+msgid "addr_bd_newedit_email"
+msgstr "Correu electrònic"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Gènere"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Telèfon"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Mòbil"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Esborra camps"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "Adreça electrònica"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Missatge de text"
+
+msgid "addr_bd_temporary_add"
+msgstr "Fusiona amb contacte"
+
+msgid "addr_bd_temporary_call"
+msgstr "Truca"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Xat"
+
+msgid "addr_bd_temporary_new"
+msgstr "Nou contacte"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP àudio"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP vídeo"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Trucada Skype"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Xat Skype"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Truca amb Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Missatge de text"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Número de correu de veu"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Companyia"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Génere"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Sobrenom"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Nota"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Feina"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Mostra SMS només per a números mòbils"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Mostra opció de vídeo-trucada"
+
+msgid "addr_fi_displayname"
+msgstr "Visualització dels noms"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Tots els contactes"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Exporta:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Contactes seleccionats"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Exporta a:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Ubicació"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Nom del directori"
+
+msgid "addr_fi_mecard_address"
+msgstr "Adreça"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Addreça (casa)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Addreça (feina)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Aniversari"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Nom d'usuari Jabber"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nom d'usuari Nokia"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "Nom d'usuari SIP"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Nom d'usuari Skype"
+
+msgid "addr_fi_mecard_company"
+msgstr "Companyia"
+
+msgid "addr_fi_mecard_email"
+msgstr "a/e"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "a/e (casa)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "a/e (feina)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Génere"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Mòbil"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Mòbil (casa)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Mòbil (feina)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Nom"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Malnom"
+
+msgid "addr_fi_mecard_note"
+msgstr "Nota"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Telèfon"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Telèfon (casa)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Telèfon (feina)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Feina"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Pàgina web"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Ciutat"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Extensió"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Apartat de correu"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Codi postal"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Província"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Carrer"
+
+msgid "addr_fi_newedit_company"
+msgstr "Companyia"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Nom"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Nom d'usuari Google Talk"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Nom d'usuari Jabber"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Cognom"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Sobrenom"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nom d'usuari Nokia"
+
+msgid "addr_fi_newedit_note"
+msgstr "Nota"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "Nom d'usuari SIP"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Nom d'usuari Skype"
+
+msgid "addr_fi_newedit_title"
+msgstr "Feina"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Pàgina web"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Cerca"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Aniversari"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Companyia"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Nom"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Gènere"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Cognom"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Sobrenom"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Feina"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Bústia de veu"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr "L'auxiliar d'exportació de contactes us permet exportar els vostres contactes per tal que pugueu transferir-los a altres aplicacions.\nToqueu 'Següent' per continuar."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr "No s'han exportat els contactes.\nFeu un toc a 'Anterior' per reintentar-ho o toqueu fora del diàleg per tancar l'assistent."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr "Ha finalitzat l'exportació de contactes.\n S'han exportat al directori %s.\nToqueu 'Finalitza' per sortir de l'assistent"
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr "No s'han exportat els contactes.\nNo hi ha prou memòria disponible.\nToqueu 'Anterior' per reintentar-ho o toqueu fora del diàleg per a tancar l'assistent."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr "No s'han exportat els contactes.\nNo hi ha prou memòria disponible.\nToqueu 'Anterior' per reintentar-ho o toqueu fora del diàleg per a tancar l'assistent."
+
+msgid "addr_ia_no_contacts"
+msgstr "(no hi ha contactes)"
+
+msgid "addr_ia_no_details"
+msgstr "(sense detalls)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Autoritzeu %s a poder veure la vostre disponibilitat?"
+
+msgid "addr_ia_search_not_found"
+msgstr "No s'han trobat contactes"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "No es pot obrir la imatge. Pot estar malmesa."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "No es pot mostrar la informació del contacte. El contacte pot haver estat esborrat."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "No es pot trucar. Contacte desconnectat."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr "No es pot seleccionar el contacte.\nContext no permès."
+
+msgid "addr_ib_disc_full"
+msgstr "No s'ha pogut realitzar l'operació.\nMemòria de dispositiu plena."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "No es pot afegir un camp. Ja s'està utilitzant el nombre màxim de camps."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Introdueix el nom de fitxer"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d contactes importats. %d fallats."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d contactes importats. 1 fallat."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 contacte importat. %d fallats."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Contacte importat"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Contactes importats"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "No s'han trobat contactes"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "No s'ha pogut iniciar la trucada VoIP. El nom d'usuari %s no existeix."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "No es pot iniciar la missatgeria instantània. El nom d'usuari %s no existeix."
+
+msgid "addr_ib_maps_failed"
+msgstr "No es poden obrir els mapes. L'adreça pot no ser vàlida."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "No es poden obrir els mapes. El servidor no respon."
+
+msgid "addr_ib_no_name_given"
+msgstr "Introdueix el nom per al contacte"
+
+msgid "addr_ib_not_available"
+msgstr "No disponible"
+
+msgid "addr_ib_not_enough_memory"
+msgstr "No s'ha pogut realitzar l'operació.\nNo hi ha prou memòria."
+
+msgid "addr_ib_permission_denied"
+msgstr "No s'ha pogut realitzar l'operació.\nPermís denegat."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Enviant petició d'autorització a %s"
+
+msgid "addr_ib_searching"
+msgstr "S'està cercant"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Accés directe creat a l'escriptori."
+
+msgid "addr_ib_system_error"
+msgstr "No es pot realitzar l'operació.\nError intern."
+
+msgid "addr_ib_unable_to_save"
+msgstr "No s'ha pogut desar"
+
+msgid "addr_ib_undefined_error"
+msgstr "Error no definit"
+
+msgid "addr_ib_unknown_number"
+msgstr "Número desconegut. No s'ha pogut mostrar l'informació del contacte."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(no hi ha contactes)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(no hi ha imatges)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Sense nom"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Comptes"
+
+msgid "addr_me_communication_history"
+msgstr "Historial de comunicacions"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Copia a contactes"
+
+msgid "addr_me_create_shortcut"
+msgstr "Crea una drecera"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Afegeix a contactes"
+
+msgid "addr_me_edit_contact"
+msgstr "Edita"
+
+msgid "addr_me_editmyinfo"
+msgstr "Edita"
+
+msgid "addr_me_email"
+msgstr "Adreça electrònica"
+
+msgid "addr_me_export"
+msgstr "Exporta"
+
+msgid "addr_me_groups"
+msgstr "Grups"
+
+msgid "addr_me_imaccounts"
+msgstr "Comptes de VoIP i MI"
+
+msgid "addr_me_import"
+msgstr "Obtén contactes"
+
+msgid "addr_me_importall"
+msgstr "Copia tots els contactes"
+
+msgid "addr_me_importsel"
+msgstr "Copia contactes seleccionats"
+
+msgid "addr_me_mecard"
+msgstr "La meva informació"
+
+msgid "addr_me_merge_contact"
+msgstr "Fusiona el contacte"
+
+msgid "addr_me_new_contact"
+msgstr "Nou contacte"
+
+msgid "addr_me_recent"
+msgstr "Recent"
+
+msgid "addr_me_remove_contact"
+msgstr "Esborra el contacte"
+
+msgid "addr_me_remove_contacts"
+msgstr "Esborra contactes"
+
+msgid "addr_me_request_author"
+msgstr "Sol·licitut d'autorització"
+
+msgid "addr_me_send_card"
+msgstr "Envia targeta de contacte"
+
+msgid "addr_me_send_detail"
+msgstr "Envia detalls de contacte"
+
+msgid "addr_me_sendmycard"
+msgstr "Envia targeta de contacte"
+
+msgid "addr_me_sendmydetail"
+msgstr "Envia detalls del contacte"
+
+msgid "addr_me_settings"
+msgstr "Preferències"
+
+msgid "addr_me_status"
+msgstr "Disponibilitat"
+
+msgid "addr_nc_delete_all_locally"
+msgstr "S'esborren els contactes del dispositiu?\nEls contactes de MI no s'esborren del servidor."
+
+msgid "addr_nc_delete_field"
+msgstr "S'esborra el camp?"
+
+msgid "addr_nc_delete_fields"
+msgstr "S'esborren els camps?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr "Esborreu l'usuari de MI?\n%s\nAixò també l'eliminarà del servidor."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr "S'esborren els usuaris de MI?\n%s\nAixò també els eliminarà del servidor."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr "S'esborren els usuaris de MI?\n%s\nAixò també els eliminarà del servidor."
+
+msgid "addr_nc_notification14"
+msgstr "No s'han trobat contactes per a aquest servei a Contactes.\nEs crea un nou contacte ara?"
+
+msgid "addr_nc_notification15"
+msgstr "S'importa a Contactes?"
+
+msgid "addr_nc_notification16"
+msgstr "S'esborra el contacte?\n%s"
+
+msgid "addr_nc_notification19"
+msgstr "El servidor ha excedit el temps d'espera. S'hauria de reiniciar Contactes. Es reinicia ara?"
+
+msgid "addr_nc_notification7"
+msgstr "S'esborren els contactes seleccionats?"
+
+msgid "addr_nc_notification_im_username"
+msgstr "S'esborra el contacte?\n%s\nEn esborrar-lo, també s'esborra del servidor."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr "S'esborren els contactes seleccionats?\n%s\nEn esborrar-los, també s'esborren del servidor."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr "S'esborren els contactes seleccionats?\nEn esborrar-los, també s'esborren dels serveis de MI."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr "S'esborra el contacte?\n%s\nEn esborrar-lo, també s'esborra dels serveis de MI."
+
+msgid "addr_nc_send_avatar"
+msgstr "Voleu enviar la imatge d'usuari?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Ha fallat la importació"
+
+msgid "addr_ni_importing_fail_format"
+msgstr "Ha fallat la importació.\nFormat no reconegut."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr "Ha fallat la importació.\nNo hi ha prou memòria."
+
+msgid "addr_ni_importing_fail_size"
+msgstr "Ha fallat la importació.\nFitxer massa gran."
+
+msgid "addr_ni_internal_error"
+msgstr "Ha fallat la importació.\nS'ha de reinciar Contactes."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Exportació de contactes"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Importació de contactes"
+
+msgid "addr_pb_load_contacts"
+msgstr "Càrrega de contactes"
+
+msgid "addr_pb_notification13"
+msgstr "Importació contactes"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Cerca de contactes"
+
+msgid "addr_ti_add_field_title"
+msgstr "Nou camp"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Trieu el vostre propi compte"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Trieu un compte a utilitzar amb aquest contacte"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Trieu un compte a utilitzar amb aquest contacte"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Retalla la imatge d'usuari"
+
+msgid "addr_ti_delete_field"
+msgstr "Esborra camps"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Tria contactes"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Exportació de contactes 1/5: Benvinguda"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Exportació de contactes 2/5: Contactes a exportar"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Exportació de contactes 3/5: Format de fitxer"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Exportació contactes 4/5: Directori i ubicació"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Exportació de contactes 5/5: Completat"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Exportació de contactes 5/5: Fallat"
+
+msgid "addr_ti_get_contacts"
+msgstr "Obtén contactes"
+
+msgid "addr_ti_groups_title"
+msgstr "Grups"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Importa un directori de contactes"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Importa un fitxer de contacts"
+
+msgid "addr_ti_import_contacts"
+msgstr "Importa contactes"
+
+msgid "addr_ti_main_view"
+msgstr "Tots els contactes (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Tots els contactes"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Contactes recents"
+
+msgid "addr_ti_mecard_title"
+msgstr "La meva informació"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Afegeix a la meva informació"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Fusiona amb contacte"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Edita la meva informació"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Edita contactes"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Contacte nou"
+
+msgid "addr_ti_request_author"
+msgstr "%s demana autorització"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Cerca contactes d'Exchange"
+
+msgid "addr_ti_sel_contact"
+msgstr "Selecció del contacte"
+
+msgid "addr_ti_select_avatar"
+msgstr "Selecciona imatge"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Envia detalls de contacte"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Selecciona imatge"
+
+msgid "addr_ti_send_card"
+msgstr "Envia targeta de contacte via"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Envia detalls del contacte via"
+
+msgid "addr_ti_settings2"
+msgstr "Preferències"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Resol conflictes de fusió"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Selecciona els contactes"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Bústia de veu"
+
+msgid "addr_va_add_field_address"
+msgstr "Adreça"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Adreça (casa)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Adreça (feina)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Aniversari"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Nom d'usuari Google Talk"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Nom d'usuari Jabber"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nom d'usuari Nokia"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "Nom d'usuari SIP"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Nom d'usuari Skype"
+
+msgid "addr_va_add_field_company"
+msgstr "Companyia"
+
+msgid "addr_va_add_field_email"
+msgstr "a/e"
+
+msgid "addr_va_add_field_email_home"
+msgstr "a/e (casa)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "a/e (feina)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Gènere"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Mòbil"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Mòbil (casa)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Mòbil (feina)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Sobrenom"
+
+msgid "addr_va_add_field_note"
+msgstr "Nota"
+
+msgid "addr_va_add_field_phone"
+msgstr "Telèfon"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Telèfon (casa)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Telèfon (feina)"
+
+msgid "addr_va_add_field_title"
+msgstr "Feina"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Pàgina web"
+
+msgid "addr_va_emergency_number"
+msgstr "Número d'emergència"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Contactes exportats"
+
+msgid "addr_va_firstname"
+msgstr "Nom Cognom"
+
+msgid "addr_va_general_female"
+msgstr "Dona"
+
+msgid "addr_va_general_male"
+msgstr "Home"
+
+msgid "addr_va_general_undefined"
+msgstr "No definit"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Contactes de targeta SIM"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Cognom Nom"
+
+msgid "addr_va_lastname_comma"
+msgstr "Cognom, Nom"
+
+msgid "addr_va_newedit_address_general"
+msgstr "general"
+
+msgid "addr_va_newedit_address_home"
+msgstr "casa"
+
+msgid "addr_va_newedit_address_work"
+msgstr "feina"
+
+msgid "addr_va_newedit_email_general"
+msgstr "general"
+
+msgid "addr_va_newedit_email_home"
+msgstr "casa"
+
+msgid "addr_va_newedit_email_work"
+msgstr "feina"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "casa"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "feina"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "general"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "casa"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "no permès"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "feina"
+
+msgid "addr_va_nickname"
+msgstr "Sobrenom"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Introduïu l'aniversari"
