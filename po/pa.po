@@ -1,0 +1,1032 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "addr_ap_address_book"
+msgstr "ਸੰਪਰਕ"
+
+msgid "addr_bd_browse"
+msgstr "ਝਲਕ"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "ਐਡਰੈੱਸ"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "ਘਰ"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "ਜਨਮਦਿਨ"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s ਕਾਲ"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s IM"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "ਈਮੇਲ"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "ਘਰ"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "ਟਿਕਾਣਾ"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "ਸੈੱਲ"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "ਘਰ"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "ਫੋਨ"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "ਘਰ"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "ਨਾ-ਸਹਾਇਕ"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP ਆਡੀਓ"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "home"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "work"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP ਵਿਡੀਓ"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "ਸਕਾਈਪੀ ਨਾਲ ਕਾਲ"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "home"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "work"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "ਘਰ"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s ਵਿਡੀਓ ਕਾਲ"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "ਵੈੱਬ ਪੇਜ਼"
+
+msgid "addr_bd_copy_sim"
+msgstr "ਕਾਪੀ ਕਰੋ"
+
+msgid "addr_bd_delete_locally"
+msgstr "ਜੰਤਰ ਤੋਂ ਸਭ ਸੰਪਰਕ ਹਟਾਓ"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "ਸੰਪਰਕ ਇੰਪੋਰਟ ਕਰੋ"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "ਨਵੇਂ ਅਕਾਊਂਟ ਤੋਂ ਸੰਪਰਕ ਇੰਪੋਰਟ ਕਰੋ"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "SIM ਕਾਰਡ ਤੋਂ ਕਾਪੀ ਕਰੋ"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "ਹੋਰ ਜੰਤਰ ਨਾਲ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ"
+
+msgid "addr_bd_get_from_file"
+msgstr "ਸੰਪਰਕ ਫਾਇਲ ਇੰਪੋਰਟ ਕਰੋ"
+
+msgid "addr_bd_get_from_folder"
+msgstr "ਸੰਪਰਕ ਫੋਲਡਰ ਇੰਪੋਰਟ ਕਰੋ"
+
+msgid "addr_bd_import"
+msgstr "ਇੰਪੋਰਟ"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Import Mail Exch. contacts"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "ਖੇਤਰ ਸ਼ਾਮਲ"
+
+msgid "addr_bd_newedit_address"
+msgstr "ਐਡਰੈੱਸ"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "ਦੇਸ਼"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "ਜਨਮਦਿਨ"
+
+msgid "addr_bd_newedit_email"
+msgstr "ਈਮੇਲ"
+
+msgid "addr_bd_newedit_gender"
+msgstr "ਲਿੰਗ"
+
+msgid "addr_bd_newedit_phone"
+msgstr "ਫੋਨ"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "ਸੈੱਲ"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "ਖੇਤਰ ਹਟਾਓ"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "ਬਲਿਊਟੁੱਥ"
+
+msgid "addr_bd_send_card_email"
+msgstr "ਈਮੇਲ"
+
+msgid "addr_bd_send_card_sms"
+msgstr "ਟੈਕਸਟ ਸੁਨੇਹਾ"
+
+msgid "addr_bd_temporary_add"
+msgstr "ਸੰਪਰਕ ਨਾਲ ਮਿਲਾਉ"
+
+msgid "addr_bd_temporary_call"
+msgstr "ਕਾਲ ਕਰੋ"
+
+msgid "addr_bd_temporary_chat"
+msgstr "ਗੱਲ ਕਰੋ"
+
+msgid "addr_bd_temporary_new"
+msgstr "ਨਵਾਂ ਸੰਪਰਕ"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP ਆਡੀਓ"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP ਵਿਡੀਓ"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "ਸਕਾਈਪੀ ਕਾਲ"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "ਸਕਾਈਪੀ ਗੱਲਬਾਤ"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "ਸਕਾਈਪੀ ਨਾਲ ਕਾਲ ਕਰੋ"
+
+msgid "addr_bd_temporary_sms"
+msgstr "ਟੈਕਸਟ ਸੁਨੇਹਾ"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "ਵਾਈਸਮੇਲ ਨੰਬਰ"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "ਕੰਪਨੀ"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "ਲਿੰਗ"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "ਆਮ ਨਾਂ"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "ਨੋਟ"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "ਜਾਬ ਟਾਈਟਲ"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Display SMS only for Cell numbers"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Display video calling option"
+
+msgid "addr_fi_displayname"
+msgstr "ਵੇਖਾਉਣ ਲਈ ਨਾਂ"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "ਸਭ ਸੰਪਰਕ"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "ਐਕਸਪੋਰਟ:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "ਚੁਣੇ ਸੰਪਰਕ"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "ਐਕਸਪੋਰਟ ਕਰੋ:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "ਟਿਕਾਣਾ"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "ਫੋਲਡਰ ਨਾਂ"
+
+msgid "addr_fi_mecard_address"
+msgstr "ਐਡਰੈੱਸ"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "ਐਡਰੈੱਸ (ਘਰ)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "ਐਡਰੈੱਸ (ਕੰਮ)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "ਜਨਮਦਿਨ"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "ਗੂਗਲ ਟਾਕ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "ਜੱਬਰ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "ਨੋਕੀਆ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "ਸਕਾਈਪੀ ਨਾਂ"
+
+msgid "addr_fi_mecard_company"
+msgstr "ਕੰਪਨੀ"
+
+msgid "addr_fi_mecard_email"
+msgstr "ਈਮੇਲ"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "ਈਮੇਲ (ਘਰ)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "ਈਮੇਲ (ਕੰਮ)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "ਲਿੰਗ"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "ਸੈੱਲ"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "ਸੈੱਲ (ਘਰ)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "ਸੈੱਲ (ਕੰਮ)"
+
+msgid "addr_fi_mecard_name"
+msgstr "ਨਾਂ"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "ਨਾਂ"
+
+msgid "addr_fi_mecard_note"
+msgstr "ਨੋਟ"
+
+msgid "addr_fi_mecard_phone"
+msgstr "ਫੋਨ"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "ਫੋਨ (ਘਰ)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "ਫੋਨ (ਕੰਮ)"
+
+msgid "addr_fi_mecard_title"
+msgstr "ਜਾਬ ਟਾਈਟਲ"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "ਵੈੱਬ ਪੇਜ਼"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "ਸ਼ਹਿਰ"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "ਇਕਸਟੈਨਸ਼ਨ"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "PO ਬਾਕਸ"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "ਜ਼ਿੱਪ ਕੋਡ"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "ਸੂਬਾ/ਖੇਤਰ"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "ਗਲੀ"
+
+msgid "addr_fi_newedit_company"
+msgstr "ਕੰਪਨੀ"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "ਪਹਿਲਾਂ ਨਾਂ"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "ਗੂਗਲ ਟਾਕ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "ਜੱਬਰ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "ਆਖਰੀ ਨਾਂ"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "ਨਾਂ"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "ਨੋਕੀਆ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_newedit_note"
+msgstr "ਨੋਟ"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "ਸਕਾਈਪੀ ਨਾਂ"
+
+msgid "addr_fi_newedit_title"
+msgstr "ਜਾਬ ਟਾਈਟਲ"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "ਵੈੱਬ ਪੇਜ਼"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "ਖੋਜ"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "ਜਨਮਦਿਨ"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "ਕੰਪਨੀ"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "ਪਹਿਲਾਂ ਨਾਂ"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "ਲਿੰਗ"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "ਆਖਰੀ ਨਾਂ"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "ਨਾਂ"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "ਜਾਬ ਟਾਈਟਲ"
+
+msgid "addr_fi_voicemailbox"
+msgstr "ਵਾਈਸਮੇਲ"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr "Export contacts wizard allows you to export your contacts so you can transfer them to other applications.\nTap 'Next' to continue."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr "Export contacts failed.\nTap 'Previous' to try again or tap outside dialog to close wizard."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr "Export contacts setup is complete.\nContacts have been exported to %s folder.\nTap 'Finish' to exit the wizard."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr "Export contacts failed.\nNot enough memory.\nTap 'Previous' to try again or tap outside dialog to close wizard."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr "Export contacts failed.\nNot enough memory in target location.\nTap 'Previous' and select another location to try again or tap outside dialog to close wizard."
+
+msgid "addr_ia_no_contacts"
+msgstr "(ਸੰਪਰਕ ਨਹੀਂ)"
+
+msgid "addr_ia_no_details"
+msgstr "(ਵੇਰਵਾ ਨਹੀਂ)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "%s ਨੂੰ ਆਪਣੀ ਉਪਲਬੱਧਤਾ ਵੇਖ ਦੇਣਾ ਹੈ?"
+
+msgid "addr_ia_search_not_found"
+msgstr "ਸੰਪਰਕ ਨਹੀਂ ਲੱਭੇ"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "ਚਿੱਤਰ ਖੋਲ੍ਹਣ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਨਿਕਾਰਾ ਹੋ ਸਕਦਾ ਹੈ।"
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "Unable to display contact information. Contact may have been deleted or IM account with contact may have been removed."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "ਕਾਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ। ਸੰਪਰਕ ਆਫਲਾਈਨ ਹੈ।"
+
+msgid "addr_ib_contact_not_selectable"
+msgstr "ਸੰਪਰਕ ਚੁਣਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਪਰਸੰਗ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+msgid "addr_ib_disc_full"
+msgstr "Unable to perform operation.\nDevice storage full."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Unable to add a new field. Maximum number of fields reached."
+
+msgid "addr_ib_file_name_empty"
+msgstr "ਪਹਿਲਾਂ ਫਾਇਲ ਨਾਂ ਦਿਓ"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d contacts imported. %d failed."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d contacts imported. 1 failed."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 contact imported. %d failed."
+
+msgid "addr_ib_imported_successfully"
+msgstr "ਸੰਪਰਕ ਇੰਪੋਰਟ ਕੀਤੇ"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "ਸੰਪਰਕ ਇੰਪੋਰਟ ਕੀਤੇ"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "No contacts found"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Unable to initiate VoIP call. User name %s does not exist."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Unable to initiate Instant message. User name %s does not exist."
+
+msgid "addr_ib_maps_failed"
+msgstr "Unable to open Maps. Address may be invalid."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Unable to open Maps. Server not responding."
+
+msgid "addr_ib_no_name_given"
+msgstr "ਸੰਪਰਕ ਲਈ ਨਾਂ ਦਿਓ"
+
+msgid "addr_ib_not_available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "addr_ib_not_enough_memory"
+msgstr "Unable to perform operation.\nNot enough memory."
+
+msgid "addr_ib_permission_denied"
+msgstr "Unable to perform operation.\nPermission denied."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Sending authorization request to %s"
+
+msgid "addr_ib_searching"
+msgstr "ਖੋਜ ਜਾਰੀ ਹੈ"
+
+msgid "addr_ib_shortcut_created"
+msgstr "ਡੈਸਕਟਾਪ ਉੱਤੇ ਸ਼ਾਰਟੱਕਟ ਬਣਾਇਆ"
+
+msgid "addr_ib_system_error"
+msgstr "Unable to perform operation.\nInternal error."
+
+msgid "addr_ib_unable_to_save"
+msgstr "ਸੰਭਾਲਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "addr_ib_undefined_error"
+msgstr "ਅਣਦੱਸੀ ਗਲਤੀ"
+
+msgid "addr_ib_unknown_number"
+msgstr "ਅਣਜਾਣ ਨੰਬਰ। ਸੰਪਰਕ ਜਾਣਕਾਰੀ ਵੇਖਾਉਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।"
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(ਸੰਪਰਕ ਨਹੀਂ)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(ਚਿੱਤਰ ਨਹੀਂ)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "ਨਾਂ ਨਹੀਂ"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "ਅਕਾਊਂਟ"
+
+msgid "addr_me_communication_history"
+msgstr "ਕਮਿਊਨੀਕੇਸ਼ਨ ਅਤੀਤ"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "ਸੰਪਰਕਾਂ ਲਈ ਕਾਪੀ ਕਰੋ"
+
+msgid "addr_me_create_shortcut"
+msgstr "ਸ਼ਾਰਟਕੱਟ ਬਣਾਓ"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "ਸੰਪਰਕਾਂ 'ਚ ਸ਼ਾਮਲ"
+
+msgid "addr_me_edit_contact"
+msgstr "ਸੋਧ"
+
+msgid "addr_me_editmyinfo"
+msgstr "ਸੋਧ"
+
+msgid "addr_me_email"
+msgstr "ਈਮੇਲ"
+
+msgid "addr_me_export"
+msgstr "ਐਕਸਪੋਰਟ"
+
+msgid "addr_me_groups"
+msgstr "ਗਰੁੱਪ"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP ਅਤੇ IM ਅਕਾਊਂਟ"
+
+msgid "addr_me_import"
+msgstr "ਸੰਪਰਕ ਲਵੋ"
+
+msgid "addr_me_importall"
+msgstr "ਸਭ ਸੰਪਰਕ ਕਾਪੀ ਕਰੋ"
+
+msgid "addr_me_importsel"
+msgstr "ਚੁਣੇ ਸੰਪਰਕ ਕਾਪੀ ਕਰੋ"
+
+msgid "addr_me_mecard"
+msgstr "ਮੇਰੀ ਜਾਣਕਾਰੀ"
+
+msgid "addr_me_merge_contact"
+msgstr "ਸੰਪਰਕ ਮਿਲਾਉ"
+
+msgid "addr_me_new_contact"
+msgstr "ਨਵਾਂ ਸੰਪਰਕ"
+
+msgid "addr_me_recent"
+msgstr "ਤਾਜ਼ਾ"
+
+msgid "addr_me_remove_contact"
+msgstr "ਸੰਪਰਕ ਹਟਾਓ"
+
+msgid "addr_me_remove_contacts"
+msgstr "ਸੰਪਰਕ ਹਟਾਓ"
+
+msgid "addr_me_request_author"
+msgstr "Authorization request"
+
+msgid "addr_me_send_card"
+msgstr "ਸੰਪਰਕ ਕਾਰਡ ਭੇਜੋ"
+
+msgid "addr_me_send_detail"
+msgstr "ਸੰਪਰਕ ਵੇਰਵਾ ਭੇਜੋ"
+
+msgid "addr_me_sendmycard"
+msgstr "ਸੰਪਰਕ ਕਾਰਡ ਭੇਜੋ"
+
+msgid "addr_me_sendmydetail"
+msgstr "ਸੰਪਰਕ ਵੇਰਵਾ ਭੇਜੋ"
+
+msgid "addr_me_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "addr_me_status"
+msgstr "ਉਪਲੱਬਧਤਾ"
+
+msgid "addr_nc_delete_all_locally"
+msgstr "ਕੀ ਜੰਤਰ ਤੋਂ ਸਭ ਸੰਪਰਕ ਹਟਾਉਣੇ ਹਨ?\nIM ਸੰਪਰਕ ਸਰਵਰ ਤੋਂ ਨਹੀਂ ਹਟਾਏ ਜਾਣਗੇ।"
+
+msgid "addr_nc_delete_field"
+msgstr "ਖੇਤਰ ਹਟਾਉਣਾ?"
+
+msgid "addr_nc_delete_fields"
+msgstr "ਖੇਤਰ ਹਟਾਉਣੇ ਹਨ?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr "Delete IM username(s)?\n%s\nThis will also remove them from the server."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr "Delete selected IM user names?\nDeleting IM user names will also remove them from %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr "Delete selected IM user names?\nDeleting IM user names will also remove them from the IM service."
+
+msgid "addr_nc_notification14"
+msgstr "No contacts can be found for this service in Contacts.\nCreate new contact now?"
+
+msgid "addr_nc_notification15"
+msgstr "ਸੰਪਰਕ ਇੰਪੋਰਟ ਕਰਨੇ ਹਨ?"
+
+msgid "addr_nc_notification16"
+msgstr "%s\nਸੰਪਰਕ ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "addr_nc_notification19"
+msgstr "Server time-out. Contacts should be restarted. Restart now?"
+
+msgid "addr_nc_notification7"
+msgstr "ਚੁਣੇ ਸੰਪਰਕ ਹਟਾਉਣੇ ਹਨ?"
+
+msgid "addr_nc_notification_im_username"
+msgstr "Delete contact?\n%s\nDeleting a contact will also remove it from the server."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr "Delete selected contacts?\nDeleting contacts will also remove them from the server."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr "Delete selected contacts?\nDeleting contacts will also remove them from the IM services."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr "Delete contact?\n%s\nDeleting this contact will also remove it from the IM services."
+
+msgid "addr_nc_send_avatar"
+msgstr "ਕੀ ਤੁਸੀਂ ਅਵਤਾਰ ਭੇਜਣੇ ਚਾਹੁੰਦੇ ਹੋ?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Import failed"
+
+msgid "addr_ni_importing_fail_format"
+msgstr "Import failed.\nFormat not recognized."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr "Import failed.\nNot enough memory."
+
+msgid "addr_ni_importing_fail_size"
+msgstr "Import failed.\nFile too large."
+
+msgid "addr_ni_internal_error"
+msgstr "Internal error.\nContacts must be restarted."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Exporting contacts"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Importing contacts"
+
+msgid "addr_pb_load_contacts"
+msgstr "ਸੰਪਰਕ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ"
+
+msgid "addr_pb_notification13"
+msgstr "Importing contacts"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Searching contacts"
+
+msgid "addr_ti_add_field_title"
+msgstr "ਨਵਾਂ ਖੇਤਰ"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "ਆਪਣਾ ਖੁਦ ਦਾ ਅਕਾਊਂਟ ਚੁਣੋ"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Select an account to use with this contact"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Select an account to use with this contact"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Crop avatar"
+
+msgid "addr_ti_delete_field"
+msgstr "ਖੇਤਰ ਹਟਾਓ"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "ਸੰਪਰਕ ਚੁਣੋ"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "ਸੰਪਰਕ ਐਕਸਪੋਰਟ ੧/੫: ਜੀ ਆਇਆਂ ਨੂੰ"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Export contacts 2/5: Contacts to export"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Export contacts 3/5: File format"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Export contacts 4/5: Folder and location"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Export contacts 5/5: Complete"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Export contacts step 5/5: Failed"
+
+msgid "addr_ti_get_contacts"
+msgstr "ਸੰਪਰਕ ਲਵੋ"
+
+msgid "addr_ti_groups_title"
+msgstr "ਗਰੁੱਪ"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Import contacts folder"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Import contacts file"
+
+msgid "addr_ti_import_contacts"
+msgstr "Import contacts"
+
+msgid "addr_ti_main_view"
+msgstr "ਸਭ ਸੰਪਰਕ (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "ਸਭ ਸੰਪਰਕ"
+
+msgid "addr_ti_main_view_recent"
+msgstr "ਤਾਜ਼ਾ ਸੰਪਰਕ"
+
+msgid "addr_ti_mecard_title"
+msgstr "ਮੇਰੀ ਜਾਣਕਾਰੀ"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "ਮੇਰੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਕਰੋ"
+
+msgid "addr_ti_merge_contacts"
+msgstr "ਸੰਪਰਕ ਨਾਲ ਮਿਲਾਉ"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "ਮੇਰੀ ਜਾਣਕਾਰੀ ਸੋਧੋ"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "ਸੰਪਰਕ ਸੋਧ"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "ਨਵਾਂ ਸੰਪਰਕ"
+
+msgid "addr_ti_request_author"
+msgstr "%s Authorization request"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Search Mail Exch. contacts"
+
+msgid "addr_ti_sel_contact"
+msgstr "ਸੰਪਰਕ ਚੁਣੋ"
+
+msgid "addr_ti_select_avatar"
+msgstr "ਚਿੱਤਰ ਚੁਣੋ"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Send contact detail"
+
+msgid "addr_ti_select_picture_title"
+msgstr "ਚਿੱਤਰ ਚੁਣੋ"
+
+msgid "addr_ti_send_card"
+msgstr "Send contact card via"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Send contact detail via"
+
+msgid "addr_ti_settings2"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "addr_ti_solve_conflict"
+msgstr "ਮਿਲਾਨ ਅਪਵਾਦ ਹੱਲ਼"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "ਸੰਪਰਕ ਚੁਣੋ"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "ਵਾਈਸਮੇਲ"
+
+msgid "addr_va_add_field_address"
+msgstr "ਐਡਰੈੱਸ"
+
+msgid "addr_va_add_field_address_home"
+msgstr "ਐਡਰੈੱਸ (ਘਰ)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "ਐਡਰੈੱਸ (ਕੰਮ)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "ਜਨਮਦਿਨ"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "ਗੂਗਲ ਟਾਕ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "ਜੱਬਰ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "ਨੋਕੀਆ ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "ਸਕਾਈਪੀ ਨਾਂ"
+
+msgid "addr_va_add_field_company"
+msgstr "ਕੰਪਨੀ"
+
+msgid "addr_va_add_field_email"
+msgstr "ਈਮੇਲ"
+
+msgid "addr_va_add_field_email_home"
+msgstr "ਈਮੇਲ (ਘਰ)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "ਈਮੇਲ (ਕੰਮ)"
+
+msgid "addr_va_add_field_gender"
+msgstr "ਲਿੰਗ"
+
+msgid "addr_va_add_field_mobile"
+msgstr "ਸੈੱਲ"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "ਸੈੱਲ (ਘਰ)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "ਸੈੱਲ (ਕੰਮ)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "ਨਾਂ"
+
+msgid "addr_va_add_field_note"
+msgstr "ਨੋਟ"
+
+msgid "addr_va_add_field_phone"
+msgstr "ਫੋਨ"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Fax"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "ਫੋਨ (ਘਰ)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "ਫੋਨ (ਕੰਮ)"
+
+msgid "addr_va_add_field_title"
+msgstr "ਜਾਬ ਟਾਈਟਲ"
+
+msgid "addr_va_add_field_webpage"
+msgstr "ਵੈੱਬ ਪੇਜ਼"
+
+msgid "addr_va_emergency_number"
+msgstr "ਐਮਰਜੈਂਸੀ ਨੰਬਰ"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "ਐਕਸਪੋਰਟ ਕੀਤੇ ਸੰਪਰਕ"
+
+msgid "addr_va_firstname"
+msgstr "ਪਹਿਲਾਂ ਨਾਂ ਆਖਰੀ ਨਾਂ"
+
+msgid "addr_va_general_female"
+msgstr "ਇਸਤਰੀ"
+
+msgid "addr_va_general_male"
+msgstr "ਪੁਰਸ਼"
+
+msgid "addr_va_general_undefined"
+msgstr "ਅਣ-ਦੱਸਿਆ"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM ਕਾਰਡ ਸੰਪਰਕ"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "ਆਖਰੀ ਨਾਂ ਪਹਿਲਾਂ ਨਾਂ"
+
+msgid "addr_va_lastname_comma"
+msgstr "ਆਖਰੀ ਨਾਂ, ਪਹਿਲਾਂ ਨਾਂ"
+
+msgid "addr_va_newedit_address_general"
+msgstr "ਆਮ"
+
+msgid "addr_va_newedit_address_home"
+msgstr "ਘਰ"
+
+msgid "addr_va_newedit_address_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_va_newedit_email_general"
+msgstr "ਆਮ"
+
+msgid "addr_va_newedit_email_home"
+msgstr "ਘਰ"
+
+msgid "addr_va_newedit_email_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "ਘਰ"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "fax"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "ਆਮ"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "ਘਰ"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "ਨਾ-ਸਹਾਇਕ"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "ਕੰਮ"
+
+msgid "addr_va_nickname"
+msgstr "ਨਾਂ"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "ਜਨਮਦਿਨ ਦਿਓ"
