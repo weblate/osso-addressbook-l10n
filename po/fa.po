@@ -1,0 +1,1033 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2011-11-06 14:40+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "addr_ap_address_book"
+msgstr "مخاطب‌ها"
+
+msgid "addr_bd_browse"
+msgstr "مرور"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "آدرس"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "کار"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "روز تولد"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s تماس"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s مسنجر"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "ایمیل"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "کار"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "محل"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "موبایل"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "کار"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "تلفن"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "فکس"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "دیگر"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP صدا"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "کار"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP ویدئو"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "تماس از طریق اسکایپ"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "کار"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "پیام کوتاه"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "خانه"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "کار"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s تماس تصویری"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "صفحه‌ی وب"
+
+msgid "addr_bd_copy_sim"
+msgstr "کپی"
+
+msgid "addr_bd_delete_locally"
+msgstr "حذف تمامی مخاطب‌ها از دستگاه"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "وارد کردن مخاطبین"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "وارد کردن مخاطب‌ها از حساب جدید"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "کپی از سیم کارت"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "همسان‌سازی از دستگاه دیگر"
+
+msgid "addr_bd_get_from_file"
+msgstr "وارد کردن  مخاطب‌ها از فایل"
+
+msgid "addr_bd_get_from_folder"
+msgstr "وارد کردن پوشه‌ی مخاطب‌ها"
+
+msgid "addr_bd_import"
+msgstr "وارد کردن"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "وارد کردن مخاطب‌های تبادل ایمیل"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "افزودن فیلد"
+
+msgid "addr_bd_newedit_address"
+msgstr "آدرس"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "منطقه"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "روز تولد"
+
+msgid "addr_bd_newedit_email"
+msgstr "ایمیل"
+
+msgid "addr_bd_newedit_gender"
+msgstr "جنسیت"
+
+msgid "addr_bd_newedit_phone"
+msgstr "تلفن"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "موبایل"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "حذف فیلدها"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "بلوتوث"
+
+msgid "addr_bd_send_card_email"
+msgstr "ایمیل"
+
+msgid "addr_bd_send_card_sms"
+msgstr "پیام متنی"
+
+msgid "addr_bd_temporary_add"
+msgstr "ادغام با مخاطب"
+
+msgid "addr_bd_temporary_call"
+msgstr "تماس"
+
+msgid "addr_bd_temporary_chat"
+msgstr "چت"
+
+msgid "addr_bd_temporary_new"
+msgstr "ثبت مخاطب جدید"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP صدا"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP ویدئو"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "تماس اسکایپ"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "چت اسکایپ"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "تماس از طریق اسکایپ"
+
+msgid "addr_bd_temporary_sms"
+msgstr "پیام متنی"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "شماره‌ی ایمیل صوتی"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "شرکت"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "جنسیت"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "اسم مستعار"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "یاداشت"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "عنوان شغل"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "نمایش پیام فقط برای شماره‌های گوشی"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "نمایش گزینه‌ی تماس تصویری"
+
+msgid "addr_fi_displayname"
+msgstr "نمایش اسم‌ها"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "تمامی مخاطب‌ها"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "صادر:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "مخاطب‌های انتخاب شده"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "صادر به:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "محل"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "نام پوشه"
+
+msgid "addr_fi_mecard_address"
+msgstr "آدرس"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "آدرس - خانه"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "آدرس - کار"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "روز تولد"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk نام کاربری"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber نام کاربری"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "نام کاربری نوکیا"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP نام کاربری"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "نام اسکایپ"
+
+msgid "addr_fi_mecard_company"
+msgstr "شرکت"
+
+msgid "addr_fi_mecard_email"
+msgstr "ایمیل"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "ایمیل - خانه"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "ایمیل - کار"
+
+msgid "addr_fi_mecard_gender"
+msgstr "جنسیت"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "موبایل"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "موبایل - خانه"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "موبایل - کار"
+
+msgid "addr_fi_mecard_name"
+msgstr "نام"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "اسم مستعار"
+
+msgid "addr_fi_mecard_note"
+msgstr "یادداشت"
+
+msgid "addr_fi_mecard_phone"
+msgstr "تلفن"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "فکس"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "تلفن - خانه"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "تلفن - کار"
+
+msgid "addr_fi_mecard_title"
+msgstr "عنوان شغل"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "صفحه ی وب"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "شهر"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "اضافی"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "صندوق پستی"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "کد پستی"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "ایالت / استان"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "خیابان"
+
+msgid "addr_fi_newedit_company"
+msgstr "شرکت"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "نام کوچک"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk نام کاربری"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber نام کاربری"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "نام خانوادگی"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "نام مستعار"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "نام کاربری نوکیا"
+
+msgid "addr_fi_newedit_note"
+msgstr "یادداشت"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP نام کاربری"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "نام اسکایپ"
+
+msgid "addr_fi_newedit_title"
+msgstr "عنوان شغل"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "صفحه‌ی وب"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "جستجو"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "روز تولد"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "شرکت"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "نام کوچک"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "جنسیت"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "نام خانوادگی"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "نام مستعار"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "عنوان شغل"
+
+msgid "addr_fi_voicemailbox"
+msgstr "ایمیل صوتی"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr "عملیات صادر کردن مخاطب‌ها به شما اجازه می‌دهد که مخاطب‌های خود را برای استفاده در دیگر برنامه‌ها در جایی ذخیره کنید.\nکلید 'بعدی' را برای ادامه فشار دهید"
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr "صادر کردن مخاطب‌ها ناموفق بود.\nکلید 'قبلی' را فشار دهید و دوباره سعی کنید و یا خارج کادر را لمس کنید و از برنامه خارج شوید."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr "عملیات صادر کردن مخاطب‌ها به پایان رسید.\nمخاطبین به پوشه‌ی %s صادر شدند.\nبرای خروج 'پایان' را فشار دهید."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr "صادر کردن مخاطب‌ها ناموفق بود.\nحافظه‌ی کافی وجود ندارد.\nکلید 'قبلی' را فشار دهید و دوباره سعی کنید و یا خارج کادر را لمس کنید و از برنامه خارج شوید."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr "استخراج مخاطب‌ها ناموفق بود.\nحافظه‌ی کافی در مسیر انتخابی وجود ندارد.\nکلید 'قبلی' را فشار دهید و مسیر دیگری انتخاب کنید و یا خارج کادر را لمس کنید و از برنامه خارج شوید."
+
+msgid "addr_ia_no_contacts"
+msgstr "(مخاطبی وجود ندارد)"
+
+msgid "addr_ia_no_details"
+msgstr "(جزئیات موجود نیست)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "اجازه %s برای اطلاع از حضور شما؟"
+
+msgid "addr_ia_search_not_found"
+msgstr "مخاطبی یافت نشد"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "امکان باز کردن تصویر وجود ندارد. ممکن است فایل خراب باشد."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "قادر به نمایش اطلاعات مخاطب نیست. ممکن است مخاطب و یا حساب مسنجر همراه مخاطب حذف شده باشد."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "قادر به تماس نیست. مخاطب آفلاین است."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr "قادر به انتخاب مخاطب نیست\nزمینه پشتیبانی نمیشود"
+
+msgid "addr_ib_disc_full"
+msgstr "قادر به انجام عملیات نیست\nحافظه ی دستگاه پر است"
+
+msgid "addr_ib_field_amount_limited"
+msgstr "قادر به افزودن فیلد جدید نیست. حداکثر فیلد‌ها افزوده شده‌اند."
+
+msgid "addr_ib_file_name_empty"
+msgstr "ابتدا نام فایل را وارد کنید"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d مخاطب ها وارد شدند. %d ناموفق بودند"
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d مخاطب‌ها وارد شدند. ورد یک مخاطب ناموفق بود."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "یک مخاطب وارد شد. %d ورودشان ناموفق بود."
+
+msgid "addr_ib_imported_successfully"
+msgstr "مخاطب وارد شد"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "مخاطب‌ها وارد شدند"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "مخاطبی یافت نشد"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "نمی‌باشد VoIP قادر به آغاز تماس. نام کاربری %s وجود ندارد"
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "قادر به آغاز کردن پیام فوری نمی‌باشد. نام کاربری %s وجود ندارد"
+
+msgid "addr_ib_maps_failed"
+msgstr "قادر به باز کردن نقشه‌ها نیست. شاید آدرس نامعتبر است"
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "قادر به باز کردن نقشه‌ها نیست. سرور پاسخ نمی‌دهد"
+
+msgid "addr_ib_no_name_given"
+msgstr "نامی را برای مخاطب وارد کنید"
+
+msgid "addr_ib_not_available"
+msgstr "در دسترس نمی‌باشد"
+
+msgid "addr_ib_not_enough_memory"
+msgstr "قادر به انجام عملیات نیست\nحافظه کافی نیست"
+
+msgid "addr_ib_permission_denied"
+msgstr "قادر به انجام عملیات نیست\nدسترسی رد شد"
+
+msgid "addr_ib_request_author_resend"
+msgstr "ارسال درخواست مجوز به %s"
+
+msgid "addr_ib_searching"
+msgstr "در حال جستجو"
+
+msgid "addr_ib_shortcut_created"
+msgstr "میانبر در دسکتاپ ایجاد شد"
+
+msgid "addr_ib_system_error"
+msgstr "قادر به انجام عملیات نیست\nخطای سیستمی"
+
+msgid "addr_ib_unable_to_save"
+msgstr "قادر به ذخیره نیست"
+
+msgid "addr_ib_undefined_error"
+msgstr "خطای تعریف نشده"
+
+msgid "addr_ib_unknown_number"
+msgstr "شماره‌ی ناشناس. امکان نمایش اطلاعات مخاطب وجود ندارد"
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(مخاطبی وجود ندارد)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(تصویری وجود ندارد)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "بدون نام"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "حساب‌ها"
+
+msgid "addr_me_communication_history"
+msgstr "تاریخچه‌ی ارتباطات"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "کپی به مخاطب‌ها"
+
+msgid "addr_me_create_shortcut"
+msgstr "ایجاد میانبر"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "افزودن به مخاطب‌ها"
+
+msgid "addr_me_edit_contact"
+msgstr "ویرایش"
+
+msgid "addr_me_editmyinfo"
+msgstr "ویرایش"
+
+msgid "addr_me_email"
+msgstr "ایمیل"
+
+msgid "addr_me_export"
+msgstr "صادر"
+
+msgid "addr_me_groups"
+msgstr "گروه‌ها"
+
+msgid "addr_me_imaccounts"
+msgstr "VoIP حساب‌های مسنجر و"
+
+msgid "addr_me_import"
+msgstr "دریافت مخاطب‌ها از"
+
+msgid "addr_me_importall"
+msgstr "کپی از تمامی مخاطب‌ها"
+
+msgid "addr_me_importsel"
+msgstr "کپی از مخاطب‌های انتخاب شده"
+
+msgid "addr_me_mecard"
+msgstr "اطلاعات من"
+
+msgid "addr_me_merge_contact"
+msgstr "ادغام مخاطب"
+
+msgid "addr_me_new_contact"
+msgstr "ثبت مخاطب جدید"
+
+msgid "addr_me_recent"
+msgstr "اخیر"
+
+msgid "addr_me_remove_contact"
+msgstr "حذف مخاطب"
+
+msgid "addr_me_remove_contacts"
+msgstr "حذف مخاطب‌ها"
+
+msgid "addr_me_request_author"
+msgstr "درخواست مجوز"
+
+msgid "addr_me_send_card"
+msgstr "ارسال کارت مخاطب"
+
+msgid "addr_me_send_detail"
+msgstr "ارسال جزئیات مخاطب"
+
+msgid "addr_me_sendmycard"
+msgstr "ارسال کارت مخاطب"
+
+msgid "addr_me_sendmydetail"
+msgstr "ارسال جزئیات مخاطب"
+
+msgid "addr_me_settings"
+msgstr "تنظیمات"
+
+msgid "addr_me_status"
+msgstr " دسترسی"
+
+msgid "addr_nc_delete_all_locally"
+msgstr "حذف تمامی مخاطب‌ها از دستگاه؟\n.مخاطب‌های مسنجر از سرور پاک نمیشوند"
+
+msgid "addr_nc_delete_field"
+msgstr "حذف فیلد؟"
+
+msgid "addr_nc_delete_fields"
+msgstr "حذف فیلد‌ها؟"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr "حذف نام کاربری مسنجر؟\n%s\nحذف این نام کاربری مسنجر همچنین باعث حذفش از %s خواهد شد."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr "حذف نام‌های کاربری انتخاب شده‌ی مسنجر؟\nحذف نام‌های کاربری مسنجر همچنین باعث حذف‌شان از %s خواهد شد."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr "حذف نام‌های کاربری انتخاب شده‌ی مسنجر؟\nحذف نام‌های کاربری مسنجر همچنین باعث حذف‌شان از سرویس مسنجر خواهد شد."
+
+msgid "addr_nc_notification14"
+msgstr "هیچ مخاطبی برای این سرویس در بین مخاطب‌ها یافت نشد.\nایجاد مخاطب جدید؟"
+
+msgid "addr_nc_notification15"
+msgstr "وارد کردن به مخاطب‌ها؟"
+
+msgid "addr_nc_notification16"
+msgstr "حذف مخاطب؟\n%s"
+
+msgid "addr_nc_notification19"
+msgstr "زمان سرور تمام شد. مخاطب‌ها باید ری استارت شوند. الان ریست شوند؟"
+
+msgid "addr_nc_notification7"
+msgstr "حذف مخاطب‌ها‌ی انتخاب شده؟"
+
+msgid "addr_nc_notification_im_username"
+msgstr "حذف مخاطب؟\n%s\nحذف این مخاطب همچنین باعث حذفش از %s خواهد شد"
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr "حذف مخاطب‌های انتخاب شده؟\nحذف این مخاطب‌ها همچنین باعث حذف‌شان از %s خواهد شد"
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr "حذف مخاطب‌های انتخاب شده ؟\n.حذف این مخاطب‌ها همچنین باعث حذف‌شان از سرویسهای مسنجر خواهد شد"
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr "حذف مخاطب؟\n%s\nحذف این مخاطب همچنین باعث حذفش از سرویس‌های مسنجر خواهد شد"
+
+msgid "addr_nc_send_avatar"
+msgstr "آیا می‌خواهید آواتار هم ارسال شود؟"
+
+msgid "addr_ni_importing_fail"
+msgstr "وارد کردن ناموفق بود"
+
+msgid "addr_ni_importing_fail_format"
+msgstr "وارد کردن ناموفق بود\nفرمت شناخته شده نیست"
+
+msgid "addr_ni_importing_fail_mem"
+msgstr "وارد کردن ناموفق بود\nحافظه کافی نیست"
+
+msgid "addr_ni_importing_fail_size"
+msgstr "وارد کردن ناموفق بود\nفایل خیلی بزرگ است"
+
+msgid "addr_ni_internal_error"
+msgstr "خطای سیستمی\nمخاطب‌ها باید ری‌استارت شوند"
+
+msgid "addr_pb_exporting_contacts"
+msgstr "در حال صادر کردن مخاطب‌ها"
+
+msgid "addr_pb_importing_contacts"
+msgstr "در حال وارد کردن مخاطب‌ها"
+
+msgid "addr_pb_load_contacts"
+msgstr "در حال بارگذاری مخاطب‌ها"
+
+msgid "addr_pb_notification13"
+msgstr "در حال وارد کردن مخاطب‌ها"
+
+msgid "addr_pb_searching_contacts"
+msgstr "درحال جستجوی مخاطب‌ها"
+
+msgid "addr_ti_add_field_title"
+msgstr "افزودن فیلد"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "حساب خودتان را انتخاب کنید"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "انتخاب یک حساب برای استفاده با این مخاطب"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "انتخاب یک حساب برای استفاده با این مخاطب"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "برش آواتار"
+
+msgid "addr_ti_delete_field"
+msgstr "حذف فیلد‌ها"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "انتخاب مخاطب‌ها"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "صادر کردن مخاطب‌ها 1/5: خوش آمدید"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "صادر کردن مخاطب‌ها 2/5: مخاطبین برای استخراج"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "صادر کردن مخاطب‌ها 3/5: نوع فایل"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "صادر کردن مخاطب‌ها 4/5: پوشه و موقعیت"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "صادر کردن مخاطب‌ها 5/5: تمام"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "مرحله ی صادر کردن مخاطب‌ها 5/5: ناموفق بود"
+
+msgid "addr_ti_get_contacts"
+msgstr "دریافت مخاطب‌ها از"
+
+msgid "addr_ti_groups_title"
+msgstr "گروه‌ها"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "وارد کردن پوشه‌ی مخاطب‌ها"
+
+msgid "addr_ti_import_contact_title"
+msgstr "وارد کردن مخاطب‌ها از فایل"
+
+msgid "addr_ti_import_contacts"
+msgstr "وارد کردن مخاطب‌ها"
+
+msgid "addr_ti_main_view"
+msgstr "تمامی مخاطب‌ها (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "تمامی مخاطب‌ها"
+
+msgid "addr_ti_main_view_recent"
+msgstr "تماس‌های اخیر"
+
+msgid "addr_ti_mecard_title"
+msgstr "اطلاعات من"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "افزودن اطلاعات من"
+
+msgid "addr_ti_merge_contacts"
+msgstr "ادغام با مخاطب‌"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "ویرایش اطلاعات من"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "ویرایش مخاطب"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "ثبت مخاطب جدید"
+
+msgid "addr_ti_request_author"
+msgstr "%s درخواست مجوز"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "جستجو در مخاطبین تبادل ایمیل"
+
+msgid "addr_ti_sel_contact"
+msgstr "انتخاب مخاطب"
+
+msgid "addr_ti_select_avatar"
+msgstr "انتخاب تصویر"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "ارسال جزئیات مخاطب"
+
+msgid "addr_ti_select_picture_title"
+msgstr "انتخاب تصویر"
+
+msgid "addr_ti_send_card"
+msgstr "ارسال کارت مخاطب با"
+
+msgid "addr_ti_send_card_detail"
+msgstr "ارسال جزییات مخاطب با"
+
+msgid "addr_ti_settings2"
+msgstr "تنطیمات"
+
+msgid "addr_ti_solve_conflict"
+msgstr "رفع تداخل ادغام"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "انتخاب مخاطب‌ها"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "ایمیل صوتی"
+
+msgid "addr_va_add_field_address"
+msgstr "آدرس"
+
+msgid "addr_va_add_field_address_home"
+msgstr "آدرس - خانه"
+
+msgid "addr_va_add_field_address_work"
+msgstr "آدرس - کار"
+
+msgid "addr_va_add_field_birthday"
+msgstr "روز تولد"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk نام کاربری"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber نام کاربری"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "نام کاربری نوکیا"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP نام کاربری"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "نام اسکایپ"
+
+msgid "addr_va_add_field_company"
+msgstr "شرکت"
+
+msgid "addr_va_add_field_email"
+msgstr "ایمیل"
+
+msgid "addr_va_add_field_email_home"
+msgstr "ایمیل - خانه"
+
+msgid "addr_va_add_field_email_work"
+msgstr "ایمیل - کار"
+
+msgid "addr_va_add_field_gender"
+msgstr "جنسیت"
+
+msgid "addr_va_add_field_mobile"
+msgstr "موبایل"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "موبایل - خانه"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "موبایل - کار"
+
+msgid "addr_va_add_field_nickname"
+msgstr "اسم مستعار"
+
+msgid "addr_va_add_field_note"
+msgstr "یادداشت"
+
+msgid "addr_va_add_field_phone"
+msgstr "تلفن"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "فکس"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "تلفن - خانه"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "تلفن - کار"
+
+msgid "addr_va_add_field_title"
+msgstr "عنوان شغل"
+
+msgid "addr_va_add_field_webpage"
+msgstr "صفحه‌ی وب"
+
+msgid "addr_va_emergency_number"
+msgstr "شماره‌ی ضروری"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "مخاطب‌های صادره"
+
+msgid "addr_va_firstname"
+msgstr "نام ، نام خانوادگی"
+
+msgid "addr_va_general_female"
+msgstr "مؤنث"
+
+msgid "addr_va_general_male"
+msgstr "مذکر"
+
+msgid "addr_va_general_undefined"
+msgstr "تعریف نشده"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "مخاطب‌های سیم کارت"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "نام خانوادگی  نام"
+
+msgid "addr_va_lastname_comma"
+msgstr "نام خانوادگی ، نام"
+
+msgid "addr_va_newedit_address_general"
+msgstr "عمومی"
+
+msgid "addr_va_newedit_address_home"
+msgstr "خانه"
+
+msgid "addr_va_newedit_address_work"
+msgstr "کار"
+
+msgid "addr_va_newedit_email_general"
+msgstr "عمومی"
+
+msgid "addr_va_newedit_email_home"
+msgstr "خانه"
+
+msgid "addr_va_newedit_email_work"
+msgstr "کار"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "خانه"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "کار"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "فکس"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "عمومی"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "خانه"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "پشتیبانی نشده"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "کار"
+
+msgid "addr_va_nickname"
+msgstr "اسم مستعار"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "وارد کردن روز تولد"
