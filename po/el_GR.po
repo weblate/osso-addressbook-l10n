@@ -1,0 +1,1032 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "addr_ap_address_book"
+msgstr "Επαφές"
+
+msgid "addr_bd_browse"
+msgstr "Αναζήτηση"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Διεύθυνση"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "Κατοικία"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "Εργασία"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Γενέθλια"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s κλήση"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s IM"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-mail"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "οικία"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "εργασία"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Τοποθεσία"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Κινητό"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "οικία"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "εργασία"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Τηλέφωνο"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "fax"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "οικία"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "Μη υποστηριζόμενο"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "εργασία"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "Ήχος SIP"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "home"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "work"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "Βίντεο SIP"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Κλήση μέσω Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "home"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "work"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "SMS"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "οικία"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "εργασία"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s βιντεοκλήση"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Ιστοσελίδα"
+
+msgid "addr_bd_copy_sim"
+msgstr "Αντιγραφή"
+
+msgid "addr_bd_delete_locally"
+msgstr "Διαγραφή όλων των επαφών από την συσκευή"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Εισαγωγή επαφών"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Εισαγωγή επαφών από νέο λογαριασμό"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Αντιγραφή από κάρτα SIM"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Συγχρονισμός από άλλη συσκευή"
+
+msgid "addr_bd_get_from_file"
+msgstr "Εισαγωγή επαφών από αρχείο"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Εισαγωγή επαφών από φάκελο"
+
+msgid "addr_bd_import"
+msgstr "Εισαγωγή"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Εισαγωγή επαφών Mail Exch."
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Προσθήκη στοιχείου"
+
+msgid "addr_bd_newedit_address"
+msgstr "Διεύθυνση"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Χώρα"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Γενέθλια"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-mail"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Φύλο"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Τηλεφωνο"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Κινητό"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Διαγραφή στοιχείων"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-mail"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Γραπτό μήνυμα"
+
+msgid "addr_bd_temporary_add"
+msgstr "Συγχώνευση με επαφή"
+
+msgid "addr_bd_temporary_call"
+msgstr "Κλήση"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Συνομιλία"
+
+msgid "addr_bd_temporary_new"
+msgstr "Νέα επαφή"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "Ήχος SIP"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "Βίντεο SIP"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Κλήση Skype"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Συνομιλία Skype"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Κλήση μέσω Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Γραπτό μήνυμα"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Αριθμός φωνητικού ταχυδρομείου"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Εταιρεία"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Φύλο"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Ψευδώνυμο"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Σημείωση"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Θέση εργασίας"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "Display SMS only for Cell numbers"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Display video calling option"
+
+msgid "addr_fi_displayname"
+msgstr "Εμφανιζόμενα ονόματα"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Όλες οι επαφές"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Εξαγωγή:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Επιλεγμένες επαφές"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Εξαγωγή σε:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Τοποθεσία"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Όνομα φακέλου"
+
+msgid "addr_fi_mecard_address"
+msgstr "Διεύθυνση"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Διεύθυνση (οικίας)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Διεύθυνση (εργασίας)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Γενέθλια"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Όνομα χρήστη Google Talk"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Όνομα χρήστη Jabber "
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Όνομα χρήστη Nokia"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "Όνομα χρήστη SIP"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Όνομα χρήστη Skype"
+
+msgid "addr_fi_mecard_company"
+msgstr "Εταιρεία"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-mail"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-mail (οικίας)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-mail (εργασίας)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Φύλο"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Κινητό"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Κινητό (οικίας)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Κινητό (εργασίας)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Όνομα"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Ψευδώνυμο"
+
+msgid "addr_fi_mecard_note"
+msgstr "Σημείωση"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Τηλέφωνο"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Fax"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Τηλέφωνο (οικίας)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Τηλέφωνο (εργασίας)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Θέση εργασίας"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Ιστοσελίδα"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Πόλη"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Επέκταση"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Ταχυδρομική θυρίδα"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Ταχυδρομικός κώδικας"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Κράτος/Περιοχή"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Οδός"
+
+msgid "addr_fi_newedit_company"
+msgstr "Εταιρεία"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Όνομα"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Όνομα χρήστη Google Talk"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Όνομα χρήστη Jabber"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Επώνυμο"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Ψευδώνυμο"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Όνομα χρήστη Nokia"
+
+msgid "addr_fi_newedit_note"
+msgstr "Σημείωση"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "Όνομα χρήστη SIP"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Όνομα χρήστη Skype"
+
+msgid "addr_fi_newedit_title"
+msgstr "Θέση εργασίας"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Ιστοσελίδα"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Αναζήτηση"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Γενέθλια"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Εταιρεία"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Όνομα"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Φύλο"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Επώνυμο"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Ψευδώνυμο"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Θέση εργασίας"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Φωνητικό ταχυδρομείο"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr "Ο οδηγός εξαγωγής επαφών σας επιτρέπει να εξάγεται τις επαφές σας έτσι ώστε να μπορείτε να τις μεταφέρετε σε αλλες εφαρμογές.\nΠιέστε 'Επόμενο' για να συνεχίσετε."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr "Η εξαγωγή των επαφών απέτυχε.\nΠιέστε 'Προηγούμενο' για να προσπαθήσετε ξανά ή πιέστε εκτός του παραθύρου για να τερματίσετε τον οδηγό."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr "Η εξαγωγή των επαφών ολοκληρώθηκε.\nΟι επαφές έχουν εξαχθεί στον φάκελο %s.\nΠιέστε 'Τερματισμός' για να βγείτε από τον οδηγό."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr "Η εξαγωγή των επαφών απέτυχε.\nΌχι αρκετή μνήμη.\nΠιέστε 'Προηγούμενο' για να προσπαθήσετε ξανά ή πιέστε εκτός του παραθύρου για να τερματίσετε τον οδηγό."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr "Η εξαγωγή των επαφών απέτυχε.\nΌχι αρκετή μνήμη στην τοποθεσία προορισμού.\nΠιέστε 'Προηγούμενο' για να προσπαθήσετε ξανά ή πιέστε εκτός του παραθύρου για να τερματίσετε τον οδηγό."
+
+msgid "addr_ia_no_contacts"
+msgstr "(δεν υπάρχουν επαφές)"
+
+msgid "addr_ia_no_details"
+msgstr "(δεν υπάρχουν λεπτομέρειες)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Εγκρίνετε τον/την %s να βλέπει την διαθεσιμότητα σας;"
+
+msgid "addr_ia_search_not_found"
+msgstr "Δεν βρέθηκαν επαφές"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Η φόρτωση της εικόνας είναι αδύνατη. Ενδέχεται να είναι κατεστραμμένη."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "Οι πληροφορίες επαφής είναι αδύνατο να εμφανιστούν. Η επαφή ενδέχεται να έχει διαγραφεί ή ο ΙΜ λογαριασμός που περιλαμβάνει την επαφή έχει αφαιρεθεί."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Η κλήση είναι αδύνατη. Η επαφή είναι εκτός σύνδεσης."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr "Η επιλογή της επαφής είναι αδύνατη.\nTo πλαίσιο δεν υποστηρίζεται."
+
+msgid "addr_ib_disc_full"
+msgstr "Αδύνατη η εκτέλεση της λειτουργίας.\nΜνήμη συσκευής πλήρης."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Η προσθήκη νέου στοιχείου είναι αδύνατη. Ο μέγιστος αριθμός στοιχείων χρησιμοποιείται ήδη."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Εισάγετε πρώτα το όνομα του αρχείου"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d επαφές εισήχθηκαν. %d απέτυχαν."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d επαφές εισήχθηκαν. 1 απέτυχε."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 επαφή εισήχθηκε. %d απέτυχαν."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Πραγματοποιήθηκε η εισαγωγή της επαφής"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Πραγματοποιήθηκε η εισαγωγή των επαφών"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Δε βρέθηκαν επαφές"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Αδύνατη η εγκαθίδρυση κλήσης VoIP. Το όνομα χρήστη %s δεν υπάρχει."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Αδύνατο να αρχίσει το στιγμιαίο μήνυμα. Το όνομα χρήστη %s δεν υπάρχει."
+
+msgid "addr_ib_maps_failed"
+msgstr "Αδύνατο να ανοίξουν οι Χάρτες. Η διεύθυνση ενδέχεται να είναι λανθασμένη."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Αδυναμία ανοίγματος χαρτών. Ο server δεν αποκρίνεται."
+
+msgid "addr_ib_no_name_given"
+msgstr "Εισαγωγή ονόματος για την επαφή"
+
+msgid "addr_ib_not_available"
+msgstr "Μη διαθέσιμο"
+
+msgid "addr_ib_not_enough_memory"
+msgstr "Αδύνατη η εκτέλεση της λειτουργίας.\nΌχι αρκετή μνήμη."
+
+msgid "addr_ib_permission_denied"
+msgstr "Αδύνατη η εκτέλεση της λειτουργίας.\nΔεν επιτρέπεται η πρόσβαση."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Αποστολή αιτήματος έγκρισης προς %s"
+
+msgid "addr_ib_searching"
+msgstr "Αναζήτηση"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Η συντόμευση στην επιφάνεια εργασίας δημιουργήθηκε."
+
+msgid "addr_ib_system_error"
+msgstr "Αδύνατη η εκτέλεση της λειτουργίας.\nΕσωτερικό σφάλμα."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Η αποθήκευση ειναι αδύνατη"
+
+msgid "addr_ib_undefined_error"
+msgstr "Απροσδιόριστο σφάλμα"
+
+msgid "addr_ib_unknown_number"
+msgstr "Απόκρυψη αριθμού. Αδύνατο να εμφανιστούν οι πληροφορίες επαφής."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ΑΒΓ|ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ΑΒΓABC"
+
+msgid "addr_li_alpha_2"
+msgstr "ΔΕΖ|DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "ΔΕΖDEF"
+
+msgid "addr_li_alpha_3"
+msgstr "ΗΘΙ|GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "ΗΘΙGHI"
+
+msgid "addr_li_alpha_4"
+msgstr "ΚΛΜ|JKLM"
+
+msgid "addr_li_alpha_44"
+msgstr "ΚΛΜJKLM"
+
+msgid "addr_li_alpha_5"
+msgstr "ΝΞΟ|NOP"
+
+msgid "addr_li_alpha_55"
+msgstr "ΝΞΟNOP"
+
+msgid "addr_li_alpha_6"
+msgstr "ΠΡΣ|QRS"
+
+msgid "addr_li_alpha_66"
+msgstr "ΠΡΣQRS"
+
+msgid "addr_li_alpha_7"
+msgstr "ΤΥΦ|TUV"
+
+msgid "addr_li_alpha_77"
+msgstr "ΤΥΦTUV"
+
+msgid "addr_li_alpha_8"
+msgstr "ΧΨΩ|WXYZ"
+
+msgid "addr_li_alpha_88"
+msgstr "ΧΨΩWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(δεν υπάρχουν επαφές)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(δεν υπάρχουν εικόνες)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "(χωρίς όνομα)"
+
+msgid "addr_me_abc"
+msgstr "ΑΒΓ"
+
+msgid "addr_me_accounts"
+msgstr "Λογαριασμοί"
+
+msgid "addr_me_communication_history"
+msgstr "Ιστορικό επικοινωνίας"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Αντιγραφή στις Επαφές"
+
+msgid "addr_me_create_shortcut"
+msgstr "Δημιουργία συντόμευσης"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Προσθήκη στις Επαφές"
+
+msgid "addr_me_edit_contact"
+msgstr "Επεξεργασία"
+
+msgid "addr_me_editmyinfo"
+msgstr "Επεξεργασία"
+
+msgid "addr_me_email"
+msgstr "E-mail"
+
+msgid "addr_me_export"
+msgstr "Εξαγωγή"
+
+msgid "addr_me_groups"
+msgstr "Ομάδες"
+
+msgid "addr_me_imaccounts"
+msgstr "Λογαριασμοί VoIP και IM"
+
+msgid "addr_me_import"
+msgstr "Εισαγωγή επαφών"
+
+msgid "addr_me_importall"
+msgstr "Αντιγραφή όλων των επαφών"
+
+msgid "addr_me_importsel"
+msgstr "Αντιγραφή επιλεγμένων επαφών"
+
+msgid "addr_me_mecard"
+msgstr "Οι πληροφορίες μου"
+
+msgid "addr_me_merge_contact"
+msgstr "Συγχώνευση επαφής"
+
+msgid "addr_me_new_contact"
+msgstr "Νέα επαφή"
+
+msgid "addr_me_recent"
+msgstr "Πρόσφατες"
+
+msgid "addr_me_remove_contact"
+msgstr "Διαγραφή επαφής"
+
+msgid "addr_me_remove_contacts"
+msgstr "Διαγραφή επαφών"
+
+msgid "addr_me_request_author"
+msgstr "Αίτημα έγκρισης"
+
+msgid "addr_me_send_card"
+msgstr "Αποστολή κάρτας επαφής"
+
+msgid "addr_me_send_detail"
+msgstr "Αποστολή λεπτομερειών επαφής"
+
+msgid "addr_me_sendmycard"
+msgstr "Αποστολή κάρτας επαφής"
+
+msgid "addr_me_sendmydetail"
+msgstr "Αποστολή λεπτομερειών επαφής"
+
+msgid "addr_me_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "addr_me_status"
+msgstr "Διαθέσιμες"
+
+msgid "addr_nc_delete_all_locally"
+msgstr "Διαγραφή όλων των επαφών από την συσκευή;\nΟι επαφές IM δεν διαγράφονται από τον διακομιστή."
+
+msgid "addr_nc_delete_field"
+msgstr "Διαγραφή στοιχείου;"
+
+msgid "addr_nc_delete_fields"
+msgstr "Διαγραφή στοιχείων"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr "Διαγραφή ονόματος χρήστη IM;\n%s\nΘα διαγραφεί και από τον διακομιστή."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr "Διαγραφή επιλεγμένων ονομάτων IM:\nΔιαγράφοντας τα IM ονόματα, θα διαγραφούν και από %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr "Διαγραφή επιλεγμένων ονομάτων IM;\nΔιαγράφοντας τα IM ονόματα, θα διαγραφούν και από την υπηρεσία IM."
+
+msgid "addr_nc_notification14"
+msgstr "Δεν υπάρχουν επαφές γι' αυτήν την υπηρεσία στις Επαφές.\nΔημιουργία νέας επαφής τώρα;"
+
+msgid "addr_nc_notification15"
+msgstr "Εισαγωγή στις Επαφές;"
+
+msgid "addr_nc_notification16"
+msgstr "Διαγραφή επαφής;\n%s"
+
+msgid "addr_nc_notification19"
+msgstr "Λήξη χρόνου διακομιστή. Οι Επαφές πρεπει να επανεκκινηθούν. Επανεκκίνηση τώρα;"
+
+msgid "addr_nc_notification7"
+msgstr "Διαγραφή επιλεγμένων επαφών;"
+
+msgid "addr_nc_notification_im_username"
+msgstr "Διαγραφή επαφής;\n%s\nΔιαγράφωντας μια επαφή, θα αφαιρεθεί επίσης από τον διακομιστή."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr "Διαγραφή επιλεγμένων επαφών;\nΔιαγράφωντας τις επαφές, θα αφαιρεθούν επίσης από τον διακομιστή."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr "Διαγραφή επιλεγμένων επαφών;\nΔιαγράφωντας τις επαφές, θα αφαιρεθούν επίσης από τον διακομιστή."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr "Διαγραφή επαφής;\n%s\nΔιαγράφοντας την επαφή, θα διαγραφεί και από την υπηρεσία IM."
+
+msgid "addr_nc_send_avatar"
+msgstr "Θέλετε επίσης να στείλετε την μικρογραφία;"
+
+msgid "addr_ni_importing_fail"
+msgstr "Αποτυχία εισαγωγής"
+
+msgid "addr_ni_importing_fail_format"
+msgstr "Αποτυχία εισαγωγής.\nΟ τύπος δεν υποστηρίζεται."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr "Αποτυχία εισαγωγής.\nΌχι αρκετή μνήμη."
+
+msgid "addr_ni_importing_fail_size"
+msgstr "Αποτυχία εισαγωγής.\nΜέγεθος αρχείου υπερβολικά μεγάλο."
+
+msgid "addr_ni_internal_error"
+msgstr "Εσωτερικό σφάλμα.\nΟι Επαφές πρεπει να επανεκκινηθούν."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Εξαγωγή επαφών"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Εισαγωγή επαφών"
+
+msgid "addr_pb_load_contacts"
+msgstr "Φόρτωση επαφών"
+
+msgid "addr_pb_notification13"
+msgstr "Εισαγωγή επαφών"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Αναζήτηση επαφών"
+
+msgid "addr_ti_add_field_title"
+msgstr "Νέο στοιχείο"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Επιλογή λογαριασμού"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Επιλογή λογαριασμού για χρήση με αυτή την επαφή"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Επιλογή λογαριασμού για χρήση με αυτή την επαφή"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Περικοπή μικρογραφίας"
+
+msgid "addr_ti_delete_field"
+msgstr "Διαγραφή πεδίων"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Επιλογή επαφών"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Εξαγωγή επαφών 1/5: Καλωσήρθατε"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Εξαγωγή επαφών 2/5: Επαφές προς εξαγωγή"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Εξαγωγή επαφών 3/5: Τύπος αρχείου"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Εξαγωγή επαφών 4/5: Φάκελος και τοποθεσία"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Εξαγωγή επαφών 5/5: Ολοκληρώθηκε"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Εξαγωγή επαφών βήμα 5/5: Απέτυχε"
+
+msgid "addr_ti_get_contacts"
+msgstr "Προσθήκη επαφών"
+
+msgid "addr_ti_groups_title"
+msgstr "Ομάδες"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Εισαγωγή επαφών από φάκελο"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Εισαγωγή επαφών από αρχείο"
+
+msgid "addr_ti_import_contacts"
+msgstr "Εισαγωγή επαφών"
+
+msgid "addr_ti_main_view"
+msgstr "Όλες οι επαφές (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Όλες οι επαφές"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Πρόσφατες επαφές"
+
+msgid "addr_ti_mecard_title"
+msgstr "Οι πληροφορίες μου"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Προσθήκη των πληροφοριών μου"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Συγχώνευση με επαφή"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Επεξεργασία των πληροφοριών μου"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Επεξεργασία επαφής"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Νέα επαφή"
+
+msgid "addr_ti_request_author"
+msgstr "%s Αίτημα έγκρισης"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Αναζήτηση επαφών Mail Exch."
+
+msgid "addr_ti_sel_contact"
+msgstr "Επιλογή επαφής"
+
+msgid "addr_ti_select_avatar"
+msgstr "Επιλογή μικρογραφίας"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Επιλογή λεπτομερειών επαφής"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Επιλογή εικόνας"
+
+msgid "addr_ti_send_card"
+msgstr "Αποστολή κάρτας επαφής μέσω"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Αποστολή λεπτομερειών επαφής μέσω"
+
+msgid "addr_ti_settings2"
+msgstr "Ρυθμίσεις"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Επίλυση διενέξεων συγχώνευσης"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Επιλογή επαφών"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Φωνητικό ταχυδρομείο"
+
+msgid "addr_va_add_field_address"
+msgstr "Διεύθυνση"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Διεύθυνση (οικίας)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Διεύθυνση (εργασίας)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Γενέθλια"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Όνομα χρήστη Google Talk"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Όνομα χρήστη Jabber"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Όνομα χρήστη Nokia"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "Όνομα χρήστη SIP"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Όνομα χρήστη Skype"
+
+msgid "addr_va_add_field_company"
+msgstr "Εταιρεία"
+
+msgid "addr_va_add_field_email"
+msgstr "E-mail"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-mail (οικίας)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-mail (εργασίας)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Φύλο"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Κινητό"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Κινητό (οικίας)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Κινητό (εργασίας)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Ψευδώνυμο"
+
+msgid "addr_va_add_field_note"
+msgstr "Σημείωση"
+
+msgid "addr_va_add_field_phone"
+msgstr "Τηλέφωνο"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Φαξ"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Τηλέφωνο (οικίας)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Τηλέφωνο (εργασίας)"
+
+msgid "addr_va_add_field_title"
+msgstr "Θέση εργασίας"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Ιστοσελίδα"
+
+msgid "addr_va_emergency_number"
+msgstr "Αριθμός εκτάκτης ανάγκης"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Εξαγόμενες επαφές"
+
+msgid "addr_va_firstname"
+msgstr "Όνομα Επώνυμο"
+
+msgid "addr_va_general_female"
+msgstr "Γυναίκα"
+
+msgid "addr_va_general_male"
+msgstr "Άνδρας"
+
+msgid "addr_va_general_undefined"
+msgstr "Μη ορισμένο"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Επαφές κάρτας SIM"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Επώνυμο Όνομα"
+
+msgid "addr_va_lastname_comma"
+msgstr "Επώνυμο, Όνομα"
+
+msgid "addr_va_newedit_address_general"
+msgstr "γενικό"
+
+msgid "addr_va_newedit_address_home"
+msgstr "οικία"
+
+msgid "addr_va_newedit_address_work"
+msgstr "εργασία"
+
+msgid "addr_va_newedit_email_general"
+msgstr "γενικό"
+
+msgid "addr_va_newedit_email_home"
+msgstr "οικία"
+
+msgid "addr_va_newedit_email_work"
+msgstr "εργασία"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "οικία"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "εργασία"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "φαξ"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "γενικό"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "οικία"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "Μη υποστηριζόμενο"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "εργασία"
+
+msgid "addr_va_nickname"
+msgstr "Ψευδώνυμο"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Εισαγωγή γενεθλίων"
