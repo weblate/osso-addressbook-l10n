@@ -1,0 +1,1032 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "addr_ap_address_book"
+msgstr "通訊錄"
+
+msgid "addr_bd_browse"
+msgstr "瀏覽"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "地址"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "生日"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "%s 撥號"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "%s 即時訊息"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "電子郵件"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "位置"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "行動電話"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "電話"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "傳真"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "其他"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "SIP語音電話"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP Out"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "SIP視訊電話"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "SkypeOut"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "簡訊"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "住家"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "公司"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "%s 視訊通話"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "網址"
+
+msgid "addr_bd_copy_sim"
+msgstr "複製"
+
+msgid "addr_bd_delete_locally"
+msgstr "刪除裝置中所有連絡人"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "匯入連絡人檔案"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "從新帳號匯入通訊錄"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "從SIM卡複製"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "從其他裝置同步"
+
+msgid "addr_bd_get_from_file"
+msgstr "匯入連絡人檔案"
+
+msgid "addr_bd_get_from_folder"
+msgstr "匯入連絡人資料夾"
+
+msgid "addr_bd_import"
+msgstr "匯入"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "匯入 Mail for Exchange  連絡人"
+
+msgid "addr_bd_newedit_addfield"
+msgstr "新增欄位"
+
+msgid "addr_bd_newedit_address"
+msgstr "地址"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "國家/地區"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "生日"
+
+msgid "addr_bd_newedit_email"
+msgstr "電子郵件"
+
+msgid "addr_bd_newedit_gender"
+msgstr "性別"
+
+msgid "addr_bd_newedit_phone"
+msgstr "電話"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "手機"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "刪除欄位"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "藍牙"
+
+msgid "addr_bd_send_card_email"
+msgstr "電子郵箱"
+
+msgid "addr_bd_send_card_sms"
+msgstr "簡訊"
+
+msgid "addr_bd_temporary_add"
+msgstr "合併連絡人"
+
+msgid "addr_bd_temporary_call"
+msgstr "通話"
+
+msgid "addr_bd_temporary_chat"
+msgstr "即時訊息"
+
+msgid "addr_bd_temporary_new"
+msgstr "新增聯絡人"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "SIP語音電話"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "SIP Out"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "SIP視訊電話"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Skype聊天"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Skype Out"
+
+msgid "addr_bd_temporary_sms"
+msgstr "簡訊"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "語音信箱號碼"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "公司"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "性別"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "暱稱"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "備註"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "職稱"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "只為行動電話號碼顯示簡訊"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "顯示視訊電話選項"
+
+msgid "addr_fi_displayname"
+msgstr "姓名顯示順序"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "所有連絡人"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "匯出:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "選取的連絡人"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "匯出至:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "位置"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "資料夾名稱"
+
+msgid "addr_fi_mecard_address"
+msgstr "地址"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "地址(住家)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "地址(公司)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "生日"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Google Talk 用戶名稱"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Jabber 用戶名稱"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Nokia 用戶名稱"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "SIP 用戶名稱"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Skype 用戶名稱"
+
+msgid "addr_fi_mecard_company"
+msgstr "公司"
+
+msgid "addr_fi_mecard_email"
+msgstr "電子郵件"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "電子郵件(住家)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "電子郵件(公司)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "性別"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "行動電話"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "手機(住家)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "手機(公司)"
+
+msgid "addr_fi_mecard_name"
+msgstr "姓名"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "暱稱"
+
+msgid "addr_fi_mecard_note"
+msgstr "備註"
+
+msgid "addr_fi_mecard_phone"
+msgstr "電話"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "傳真"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "電話(家庭)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "電話(工作)"
+
+msgid "addr_fi_mecard_title"
+msgstr "職稱"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "網址"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "縣/市"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "地址"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "郵政信箱"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "郵遞區號"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "州/省"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "街/道"
+
+msgid "addr_fi_newedit_company"
+msgstr "公司"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "名字"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Google Talk 用戶名稱"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Jabber  用戶名稱"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "姓氏"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "暱稱"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Nokia  用戶名稱"
+
+msgid "addr_fi_newedit_note"
+msgstr "備註"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "SIP  用戶名稱"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Skype  用戶名稱"
+
+msgid "addr_fi_newedit_title"
+msgstr "職稱"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "網址"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "搜尋"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "生日"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "公司"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "名字"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "性別"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "姓氏"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "暱稱"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "職稱"
+
+msgid "addr_fi_voicemailbox"
+msgstr "語音信箱"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr "匯出精靈可讓您將連絡人匯出, 並傳送到其他程式.\n點擊'下一步'以繼續."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr "匯出失敗.\n點擊'上一步'再試一次或點擊對話框外區域以關閉精靈."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr "匯出連絡人設定已完成.\n連絡人已被匯出到 %s 資料夾. \n點擊'完成'以退出精靈"
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr "匯出失敗.\n沒有足夠的記憶體.\n點擊'上一步'再試一次.或點擊對話框外區域以關閉精靈."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr "匯出失敗.\n目標位置空間不足.\n點擊'上一步'並選取其它位置再試一次.或點擊對話框外區域以關閉精靈."
+
+msgid "addr_ia_no_contacts"
+msgstr "(無連絡人)"
+
+msgid "addr_ia_no_details"
+msgstr "(無詳細資料)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "允許 %s 查詢您的上線狀態?"
+
+msgid "addr_ia_search_not_found"
+msgstr "沒有發現連絡人"
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "無法開啟圖像.檔案可能已損壞."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "無法顯示連絡人訊息.連絡人可能已被刪除或所屬的即時通訊帳號可能已被刪除。"
+
+msgid "addr_ib_contact_is_offline"
+msgstr "無法通話,連絡人離線."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr "無法選取連絡人.\n內容不支援."
+
+msgid "addr_ib_disc_full"
+msgstr "無法操作.\n裝置記憶體已滿."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "無法新增新的欄位.已達到最大欄位數."
+
+msgid "addr_ib_file_name_empty"
+msgstr "請先輸入檔案名"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "%d 連絡人匯入. %d 失敗."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "%d 連絡人匯入. 1 失敗."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "1 連絡人匯入. %d 失敗."
+
+msgid "addr_ib_imported_successfully"
+msgstr "連絡人成功匯入."
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "連絡人成功匯入."
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "找不到連絡人"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "無法啟動網際網路通話.用戶 %s 不存在."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "無法啟動即時訊息.用戶 %s 不存在."
+
+msgid "addr_ib_maps_failed"
+msgstr "無法開啟地圖. 地址可能無效."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "無法開啟地圖. 伺服器無回應. "
+
+msgid "addr_ib_no_name_given"
+msgstr "輸入連絡人姓名"
+
+msgid "addr_ib_not_available"
+msgstr "不可用"
+
+msgid "addr_ib_not_enough_memory"
+msgstr "無法執行操作.\n沒有足夠的記憶體."
+
+msgid "addr_ib_permission_denied"
+msgstr "無法操作.\n沒有權限."
+
+msgid "addr_ib_request_author_resend"
+msgstr "傳送授權要求到 %s"
+
+msgid "addr_ib_searching"
+msgstr "正在搜尋"
+
+msgid "addr_ib_shortcut_created"
+msgstr "已在桌面上建立捷徑."
+
+msgid "addr_ib_system_error"
+msgstr "無法執行操作.\n系統內部錯誤."
+
+msgid "addr_ib_unable_to_save"
+msgstr "無法儲存"
+
+msgid "addr_ib_undefined_error"
+msgstr "未定義錯誤"
+
+msgid "addr_ib_unknown_number"
+msgstr "未知的號碼. 無法顯示連絡人訊息."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(沒有連絡人)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(沒有圖片)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "未命名"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "帳號"
+
+msgid "addr_me_communication_history"
+msgstr "通訊紀錄"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "複製至名片"
+
+msgid "addr_me_create_shortcut"
+msgstr "建立桌面捷徑"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "新增到通訊錄"
+
+msgid "addr_me_edit_contact"
+msgstr "編輯連絡人"
+
+msgid "addr_me_editmyinfo"
+msgstr "編輯"
+
+msgid "addr_me_email"
+msgstr "電子郵件"
+
+msgid "addr_me_export"
+msgstr "匯出"
+
+msgid "addr_me_groups"
+msgstr "群組"
+
+msgid "addr_me_imaccounts"
+msgstr "網路電話和即時通訊"
+
+msgid "addr_me_import"
+msgstr "取得連絡人"
+
+msgid "addr_me_importall"
+msgstr "複製所有連絡人"
+
+msgid "addr_me_importsel"
+msgstr "複製選取的連絡人"
+
+msgid "addr_me_mecard"
+msgstr "我的名片"
+
+msgid "addr_me_merge_contact"
+msgstr "合併連絡人"
+
+msgid "addr_me_new_contact"
+msgstr "新增連絡人"
+
+msgid "addr_me_recent"
+msgstr "最近"
+
+msgid "addr_me_remove_contact"
+msgstr "刪除連絡人"
+
+msgid "addr_me_remove_contacts"
+msgstr "刪除連絡人"
+
+msgid "addr_me_request_author"
+msgstr "授權要求"
+
+msgid "addr_me_send_card"
+msgstr "傳送名片"
+
+msgid "addr_me_send_detail"
+msgstr "傳送連絡人資料"
+
+msgid "addr_me_sendmycard"
+msgstr "傳送我的名片"
+
+msgid "addr_me_sendmydetail"
+msgstr "傳送我的即時通訊資料"
+
+msgid "addr_me_settings"
+msgstr "設定"
+
+msgid "addr_me_status"
+msgstr "線上"
+
+msgid "addr_nc_delete_all_locally"
+msgstr "刪除裝置中所有連絡人?\n即時訊息連絡人不會從伺服器刪除."
+
+msgid "addr_nc_delete_field"
+msgstr "刪除欄位?"
+
+msgid "addr_nc_delete_fields"
+msgstr "刪除欄位?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr "刪除即時通訊連絡人\n%s\n?同時也將從伺服器中刪除它們."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr "刪除選取的即時訊息帳號? \n刪除即時訊息帳號也會將他們從 %s 刪除. "
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr "刪除選取的即時訊息帳號? \n刪除即時訊息帳號也會將他們從即時訊息服務刪除 "
+
+msgid "addr_nc_notification14"
+msgstr "這個服務中沒有連絡人.\n立刻建立連絡人?"
+
+msgid "addr_nc_notification15"
+msgstr "匯入連絡人?"
+
+msgid "addr_nc_notification16"
+msgstr "刪除連絡人?\n%s"
+
+msgid "addr_nc_notification19"
+msgstr "伺服器逾時.\n可能需要重新啟動. 立即重新啟動?"
+
+msgid "addr_nc_notification7"
+msgstr "刪除選擇的連絡人?"
+
+msgid "addr_nc_notification_im_username"
+msgstr "刪除連絡人?\n%s\n這個連絡人同時也會從伺服器中刪除."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr "刪除選取的連絡人?\n刪除的連絡人同時也會從伺服器中刪除."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr "刪除選取的連絡人? \n刪除的連絡人也會從即時訊息伺服器中刪除. "
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr "'刪除連絡人? \n刪除這個帳號也會將他從即時訊息伺服器刪除."
+
+msgid "addr_nc_send_avatar"
+msgstr "您也需要傳送頭像?"
+
+msgid "addr_ni_importing_fail"
+msgstr "匯入失敗"
+
+msgid "addr_ni_importing_fail_format"
+msgstr "匯入失敗.\n無法識別的格式"
+
+msgid "addr_ni_importing_fail_mem"
+msgstr "匯入失敗.\n沒有足夠記憶體"
+
+msgid "addr_ni_importing_fail_size"
+msgstr "匯入失敗.\n檔案過大."
+
+msgid "addr_ni_internal_error"
+msgstr "系統內部錯誤.\n應用程式必須重新啟動."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "正在匯出連絡人"
+
+msgid "addr_pb_importing_contacts"
+msgstr "正在匯入連絡人"
+
+msgid "addr_pb_load_contacts"
+msgstr "載入連絡人"
+
+msgid "addr_pb_notification13"
+msgstr "正在匯入連絡人"
+
+msgid "addr_pb_searching_contacts"
+msgstr "搜尋連絡人"
+
+msgid "addr_ti_add_field_title"
+msgstr "新增欄位"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "選擇您的帳號"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "選擇使用此連絡人的一個帳號"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "選擇使用此連絡人的一個帳號"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "裁剪頭像"
+
+msgid "addr_ti_delete_field"
+msgstr "刪除欄位"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "選擇連絡人"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "匯出連絡人 1/5: 歡迎您."
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "匯出連絡人 2/5: 匯出連絡人"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "匯出連絡人 3/5: 檔案格式"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "匯出連絡人 4/5:資料夾和位置"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "匯出連絡人 5/5: 完成"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "匯出連絡人 5/5: 失敗"
+
+msgid "addr_ti_get_contacts"
+msgstr "讀取連絡人"
+
+msgid "addr_ti_groups_title"
+msgstr "即時通訊類別"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "匯入連絡人資料夾"
+
+msgid "addr_ti_import_contact_title"
+msgstr "匯入連絡人檔案"
+
+msgid "addr_ti_import_contacts"
+msgstr "匯入連絡人"
+
+msgid "addr_ti_main_view"
+msgstr "所有連絡人 (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "所有連絡人"
+
+msgid "addr_ti_main_view_recent"
+msgstr "最近連絡人"
+
+msgid "addr_ti_mecard_title"
+msgstr "我的名片"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "新增我的名片"
+
+msgid "addr_ti_merge_contacts"
+msgstr "合併連絡人"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "編輯我的資訊"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "編輯連絡人"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "建立連絡人"
+
+msgid "addr_ti_request_author"
+msgstr "%s 授權請求"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "搜尋 Exchange 聯絡人"
+
+msgid "addr_ti_sel_contact"
+msgstr "選擇連絡人"
+
+msgid "addr_ti_select_avatar"
+msgstr "選擇頭像"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "選擇連絡人詳細資料"
+
+msgid "addr_ti_select_picture_title"
+msgstr "選擇圖片"
+
+msgid "addr_ti_send_card"
+msgstr "傳送連絡人名片"
+
+msgid "addr_ti_send_card_detail"
+msgstr "傳送連絡人資料"
+
+msgid "addr_ti_settings2"
+msgstr "設定"
+
+msgid "addr_ti_solve_conflict"
+msgstr "解決合併衝突"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "選擇連絡人"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "語音信箱"
+
+msgid "addr_va_add_field_address"
+msgstr "地址"
+
+msgid "addr_va_add_field_address_home"
+msgstr "地址(住家)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "地址(公司)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "生日"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Google Talk 用戶名稱"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Jabber 用戶名稱"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Nokia 用戶名稱"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "SIP 用戶名稱"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Skype 用戶名稱"
+
+msgid "addr_va_add_field_company"
+msgstr "公司"
+
+msgid "addr_va_add_field_email"
+msgstr "電子郵件"
+
+msgid "addr_va_add_field_email_home"
+msgstr "電子郵件(住家)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "電子郵件(公司)"
+
+msgid "addr_va_add_field_gender"
+msgstr "性別"
+
+msgid "addr_va_add_field_mobile"
+msgstr "行動電話"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "行動電話(住家)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "行動電話(公司)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "暱稱"
+
+msgid "addr_va_add_field_note"
+msgstr "備註"
+
+msgid "addr_va_add_field_phone"
+msgstr "電話"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "傳真"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "電話(住家)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "電話(公司)"
+
+msgid "addr_va_add_field_title"
+msgstr "職稱"
+
+msgid "addr_va_add_field_webpage"
+msgstr "網址"
+
+msgid "addr_va_emergency_number"
+msgstr "緊急電話"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "匯出連絡人"
+
+msgid "addr_va_firstname"
+msgstr "名字 姓氏"
+
+msgid "addr_va_general_female"
+msgstr "女性"
+
+msgid "addr_va_general_male"
+msgstr "男性"
+
+msgid "addr_va_general_undefined"
+msgstr "未定義"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "SIM卡連絡人"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "姓氏 名字"
+
+msgid "addr_va_lastname_comma"
+msgstr "姓氏,名字"
+
+msgid "addr_va_newedit_address_general"
+msgstr "普通"
+
+msgid "addr_va_newedit_address_home"
+msgstr "住家"
+
+msgid "addr_va_newedit_address_work"
+msgstr "公司"
+
+msgid "addr_va_newedit_email_general"
+msgstr "一般"
+
+msgid "addr_va_newedit_email_home"
+msgstr "住家"
+
+msgid "addr_va_newedit_email_work"
+msgstr "公司"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "住家"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "公司"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "傳真"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "一般"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "住家"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "其它"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "公司"
+
+msgid "addr_va_nickname"
+msgstr "暱稱"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "輸入生日"
