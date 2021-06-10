@@ -1,0 +1,1033 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-02-14 13:57+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "addr_ap_address_book"
+msgstr "Cysylltiadau"
+
+msgid "addr_bd_browse"
+msgstr "Pori"
+
+msgid "addr_bd_cont_starter_address"
+msgstr "Cyfeiriad"
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr "Pen-blwydd"
+
+msgid "addr_bd_cont_starter_call"
+msgstr "Galwad %s"
+
+msgid "addr_bd_cont_starter_chat"
+msgstr "Neges %s"
+
+msgid "addr_bd_cont_starter_email"
+msgstr "E-bost"
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_location"
+msgstr "Lleoliad"
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr "Ffôn lôn"
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_phone"
+msgstr "Ffôn"
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr "ffacs"
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr "arall"
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr "Sain SIP"
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr "SIP"
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr "Fideo SIP"
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr "Galw gyda Skype"
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_sms"
+msgstr "Neges destun"
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr "cartref"
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr "gwaith"
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr "Galwad fideo %s"
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr "Gwefan"
+
+msgid "addr_bd_copy_sim"
+msgstr "Copïo"
+
+msgid "addr_bd_delete_locally"
+msgstr "Dileu pob cyswllt o'r ddyfais"
+
+msgid "addr_bd_get_contacts_file"
+msgstr "Mewnforio cysylltiadau"
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr "Mewnforio cysylltiadau o gyfrif newydd"
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr "Copïo o'r cerdyn SIM"
+
+msgid "addr_bd_get_contacts_sync"
+msgstr "Cydamseru o ddyfais arall"
+
+msgid "addr_bd_get_from_file"
+msgstr "Mewnforio ffeil cysylltiadau"
+
+msgid "addr_bd_get_from_folder"
+msgstr "Mewnforio ffolder cysylltiadau"
+
+msgid "addr_bd_import"
+msgstr "Mewnforio"
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr "Mewnforio cysylltiadau Mail Exch."
+
+msgid "addr_bd_newedit_addfield"
+msgstr "Ychwanegu maes"
+
+msgid "addr_bd_newedit_address"
+msgstr "Cyfeiriad"
+
+msgid "addr_bd_newedit_address_country"
+msgstr "Gwlad"
+
+msgid "addr_bd_newedit_birthday"
+msgstr "Pen-blwydd"
+
+msgid "addr_bd_newedit_email"
+msgstr "E-bost"
+
+msgid "addr_bd_newedit_gender"
+msgstr "Rhyw"
+
+msgid "addr_bd_newedit_phone"
+msgstr "Ffôn"
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr "Ffôn lôn"
+
+msgid "addr_bd_newedit_removefield"
+msgstr "Dileu meysydd"
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr "Bluetooth"
+
+msgid "addr_bd_send_card_email"
+msgstr "E-bost"
+
+msgid "addr_bd_send_card_sms"
+msgstr "Neges destun"
+
+msgid "addr_bd_temporary_add"
+msgstr "Cyfuno gyda chyswllt"
+
+msgid "addr_bd_temporary_call"
+msgstr "Galw"
+
+msgid "addr_bd_temporary_chat"
+msgstr "Sgwrs"
+
+msgid "addr_bd_temporary_new"
+msgstr "Cyswllt newydd"
+
+msgid "addr_bd_temporary_sip"
+msgstr "SIP"
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr "Sain SIP"
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr "Fideo SIP"
+
+msgid "addr_bd_temporary_skypecall"
+msgstr "Galwad Skype"
+
+msgid "addr_bd_temporary_skypechat"
+msgstr "Sgwrs Skype"
+
+msgid "addr_bd_temporary_skypeout"
+msgstr "Galw gyda Skype"
+
+msgid "addr_bd_temporary_sms"
+msgstr "Neges destun"
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr "%s"
+
+msgid "addr_bd_voicemail"
+msgstr "Rhif neges llais"
+
+msgid "addr_fi_cont_starter_company"
+msgstr "Cwmni"
+
+msgid "addr_fi_cont_starter_gender"
+msgstr "Rhyw"
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr "Blas-enw"
+
+msgid "addr_fi_cont_starter_note"
+msgstr "Nodyn"
+
+msgid "addr_fi_cont_starter_title"
+msgstr "Swydd"
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr "'Neges testun' ond wrth rifau symudol"
+
+msgid "addr_fi_display_video_calling_options"
+msgstr "Dangos dewis galwadau fideo"
+
+msgid "addr_fi_displayname"
+msgstr "Dangos enwau"
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr "Pob cyswllt"
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr "Allforio:"
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr "Cysylltiadau a ddewiswyd"
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr "Allforio i:"
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr "Lleoliad"
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr "Enw ffolder"
+
+msgid "addr_fi_mecard_address"
+msgstr "Cyfeiriad"
+
+msgid "addr_fi_mecard_address_home"
+msgstr "Cyfeiriad (cartref)"
+
+msgid "addr_fi_mecard_address_work"
+msgstr "Cyfeiriad (gwaith)"
+
+msgid "addr_fi_mecard_birthday"
+msgstr "Pen-blwydd"
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr "Enw Google Talk"
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr "Enw Jabber"
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr "Enw Nokia"
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr "Enw SIP"
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr "Enw Skype"
+
+msgid "addr_fi_mecard_company"
+msgstr "Cwmni"
+
+msgid "addr_fi_mecard_email"
+msgstr "E-bost"
+
+msgid "addr_fi_mecard_email_home"
+msgstr "E-bost (cartref)"
+
+msgid "addr_fi_mecard_email_work"
+msgstr "E-bost (gwaith)"
+
+msgid "addr_fi_mecard_gender"
+msgstr "Rhyw"
+
+msgid "addr_fi_mecard_mobile"
+msgstr "Ffôn lôn"
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr "Ffôn lôn (cartref)"
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr "Ffôn lôn (gwaith)"
+
+msgid "addr_fi_mecard_name"
+msgstr "Enw"
+
+msgid "addr_fi_mecard_nickname"
+msgstr "Blas-enw"
+
+msgid "addr_fi_mecard_note"
+msgstr "Nodyn"
+
+msgid "addr_fi_mecard_phone"
+msgstr "Ffôn"
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr "Ffacs"
+
+msgid "addr_fi_mecard_phone_home"
+msgstr "Ffôn (cartref)"
+
+msgid "addr_fi_mecard_phone_work"
+msgstr "Ffôn (gwaith)"
+
+msgid "addr_fi_mecard_title"
+msgstr "Swydd"
+
+msgid "addr_fi_mecard_webpage"
+msgstr "Gwefan"
+
+msgid "addr_fi_newedit_address_city"
+msgstr "Dinas"
+
+msgid "addr_fi_newedit_address_extension"
+msgstr "Estyniad"
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr "Blwch post"
+
+msgid "addr_fi_newedit_address_postal"
+msgstr "Cod post"
+
+msgid "addr_fi_newedit_address_region"
+msgstr "Rhanbarth"
+
+msgid "addr_fi_newedit_address_street"
+msgstr "Stryd"
+
+msgid "addr_fi_newedit_company"
+msgstr "Cwmni"
+
+msgid "addr_fi_newedit_first_name"
+msgstr "Enw cyntaf"
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr "Enw Google Talk"
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr "Enw Jabber"
+
+msgid "addr_fi_newedit_last_name"
+msgstr "Cyfenw"
+
+msgid "addr_fi_newedit_nickname"
+msgstr "Blas-enw"
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr "Enw Nokia"
+
+msgid "addr_fi_newedit_note"
+msgstr "Nodyn"
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr "Enw SIP"
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr "Enw Skype"
+
+msgid "addr_fi_newedit_title"
+msgstr "Swydd"
+
+msgid "addr_fi_newedit_webpage"
+msgstr "Gwefan"
+
+msgid "addr_fi_search_find_toolbar"
+msgstr "Chwilio"
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr "Pen-blwydd"
+
+msgid "addr_fi_solve_conflict_company"
+msgstr "Cwmni"
+
+msgid "addr_fi_solve_conflict_first"
+msgstr "Enw cyntaf"
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr "Rhyw"
+
+msgid "addr_fi_solve_conflict_last"
+msgstr "Cyfenw"
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr "Blas-enw"
+
+msgid "addr_fi_solve_conflict_title"
+msgstr "Swydd"
+
+msgid "addr_fi_voicemailbox"
+msgstr "Rhif neges llais"
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr "Mae'r dewin allforio cysylltiadau'n eich galluogi i allforio'ch cysylltiadau fel y gallwch eu trosglwyddo at raglenni eraill. Tarwch 'Nesaf' i barhau."
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr "Methwyd allforio cysylltiadau. Tarwch 'Cynt' i geisio eto neu tarwch y tu allan i'r deialog i gau'r dewin."
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr "Cwblhawyd allforio cysylltiadau. Fe'u hallforiwyd i'r ffolder %s. Tarwch 'Gorffen' i gau'r dewin."
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr "Methwyd allforio cysylltiadau. Diffyg cof. Tarwch 'Cynt' i geisio eto neu tarwch y tu allan i'r deialog i gau'r dewin."
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr "Methwyd allforio cysylltiadau. Diffyg cof yn y man a nodwyd. Tarwch 'Cynt' a dewiswch leoliad arall i geisio eto neu tarwch y tu allan i'r deialog i gau'r dewin."
+
+msgid "addr_ia_no_contacts"
+msgstr "(dim cysylltiadau)"
+
+msgid "addr_ia_no_details"
+msgstr "(dim manylion)"
+
+msgid "addr_ia_request_author_text1"
+msgstr "Caniatáu i %s gweld eich argaeledd?"
+
+msgid "addr_ia_search_not_found"
+msgstr "Ni ganfuwyd cysylltiadau."
+
+msgid "addr_ib_cannot_load_picture"
+msgstr "Methu agor llun. Gall fod yn lygredig."
+
+msgid "addr_ib_cannot_show_contact"
+msgstr "Methu dangos gwybodaeth cyswllt. Gall y cyswllt fod wedi ei ddileu neu fod y cyfrif Negeseuo gyda'r cyswllt wedi ei ddileu."
+
+msgid "addr_ib_contact_is_offline"
+msgstr "Methu galw. Nid yw'r cyswllt ar gael."
+
+msgid "addr_ib_contact_not_selectable"
+msgstr "Methu dewis y cyswllt. Cyd-destun anghydnaws."
+
+msgid "addr_ib_disc_full"
+msgstr "Methu cyflawni'r gweithred. Storfa'r dyfais yn llawn."
+
+msgid "addr_ib_field_amount_limited"
+msgstr "Methu ychwanegu maes newydd. Uchafswm meysydd wedi ei gyrraedd."
+
+msgid "addr_ib_file_name_empty"
+msgstr "Rhowch enw'r ffeil yn gyntaf"
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr "Mewnforiwyd %d cyswllt. Methodd %d."
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr "Mewnforiwyd %d cyswllt. Methodd un."
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr "Mewnforiwyd un cyswllt. Methodd %d."
+
+msgid "addr_ib_imported_successfully"
+msgstr "Mewnforiwyd cyswllt"
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr "Mewnforiwyd cysylltiadau"
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr "Ni ganfuwyd cysylltiadau"
+
+msgid "addr_ib_invalid_username_call"
+msgstr "Methu dechrau galwad VoIP. Nid yw'r defnyddiwr %s yn bodoli."
+
+msgid "addr_ib_invalid_username_chat"
+msgstr "Methu dechrau negeseuo. Nid yw'r defnyddiwr %s yn bodoli."
+
+msgid "addr_ib_maps_failed"
+msgstr "Methu agor Mapiau. Gall fod y cyfeiriad yn annilys."
+
+msgid "addr_ib_maps_server_timeout"
+msgstr "Methu agor Mapiau. Nid yw'r gweinydd yn ymateb."
+
+msgid "addr_ib_no_name_given"
+msgstr "Rhowch enw ar gyfer y cyswllt"
+
+msgid "addr_ib_not_available"
+msgstr "Ddim ar gael"
+
+msgid "addr_ib_not_enough_memory"
+msgstr "Methu cyflawni'r gweithred. Diffyg cof."
+
+msgid "addr_ib_permission_denied"
+msgstr "Methu cyflawni'r gweithred. Dim caniatâd."
+
+msgid "addr_ib_request_author_resend"
+msgstr "Yn gyrru cais awdurdodi at %s"
+
+msgid "addr_ib_searching"
+msgstr "Yn chwilio"
+
+msgid "addr_ib_shortcut_created"
+msgstr "Crëwyd byrlwybr ar y penfwrdd."
+
+msgid "addr_ib_system_error"
+msgstr "Methu cyflawni'r gweithred. Gwall mewnol."
+
+msgid "addr_ib_unable_to_save"
+msgstr "Methu cadw"
+
+msgid "addr_ib_undefined_error"
+msgstr "Gwall anniffiniedig"
+
+msgid "addr_ib_unknown_number"
+msgstr "Rhif anhysbys. Methu dangos gwybodaeth cyswllt."
+
+msgid "addr_li_alpha_0"
+msgstr "0-9"
+
+msgid "addr_li_alpha_00"
+msgstr "0123456789"
+
+msgid "addr_li_alpha_1"
+msgstr "ABC"
+
+msgid "addr_li_alpha_11"
+msgstr "ABC"
+
+msgid "addr_li_alpha_2"
+msgstr "DEF"
+
+msgid "addr_li_alpha_22"
+msgstr "DEF"
+
+msgid "addr_li_alpha_3"
+msgstr "GHI"
+
+msgid "addr_li_alpha_33"
+msgstr "GHI"
+
+msgid "addr_li_alpha_4"
+msgstr "JKL"
+
+msgid "addr_li_alpha_44"
+msgstr "JKL"
+
+msgid "addr_li_alpha_5"
+msgstr "MNO"
+
+msgid "addr_li_alpha_55"
+msgstr "MNO"
+
+msgid "addr_li_alpha_6"
+msgstr "PQR"
+
+msgid "addr_li_alpha_66"
+msgstr "PQR"
+
+msgid "addr_li_alpha_7"
+msgstr "STU"
+
+msgid "addr_li_alpha_77"
+msgstr "STU"
+
+msgid "addr_li_alpha_8"
+msgstr "V-Z"
+
+msgid "addr_li_alpha_88"
+msgstr "VWXYZ"
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr "vCard 2.1"
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr "vCard 3.0"
+
+msgid "addr_li_sel_contact_none"
+msgstr "(dim cysylltiadau)"
+
+msgid "addr_li_select_picture_none"
+msgstr "(dim lluniau)"
+
+msgid "addr_li_unnamed_contact"
+msgstr "Dim enw"
+
+msgid "addr_me_abc"
+msgstr "ABC"
+
+msgid "addr_me_accounts"
+msgstr "Cyfrifon"
+
+msgid "addr_me_communication_history"
+msgstr "Hanes cyfathrebu"
+
+msgid "addr_me_copy_to_contacts"
+msgstr "Copïo at Cysylltiadau"
+
+msgid "addr_me_create_shortcut"
+msgstr "Creu byrlwybr"
+
+msgid "addr_me_cs_addtocontacts"
+msgstr "Ychwanegu at Cysylltiadau"
+
+msgid "addr_me_edit_contact"
+msgstr "Golygu"
+
+msgid "addr_me_editmyinfo"
+msgstr "Golygu"
+
+msgid "addr_me_email"
+msgstr "E-bost"
+
+msgid "addr_me_export"
+msgstr "Allforio"
+
+msgid "addr_me_groups"
+msgstr "Grwpiau"
+
+msgid "addr_me_imaccounts"
+msgstr "Cyfrifon VoIP a negeseuo"
+
+msgid "addr_me_import"
+msgstr "Nôl cysylltiadau"
+
+msgid "addr_me_importall"
+msgstr "Copïo pob cyswllt"
+
+msgid "addr_me_importsel"
+msgstr "Copïo'r cysylltiadau a ddewiswyd"
+
+msgid "addr_me_mecard"
+msgstr "Fy ngwybodaeth"
+
+msgid "addr_me_merge_contact"
+msgstr "Cyfuno cysylltiadau"
+
+msgid "addr_me_new_contact"
+msgstr "Cyswllt newydd"
+
+msgid "addr_me_recent"
+msgstr "Diweddar"
+
+msgid "addr_me_remove_contact"
+msgstr "Dileu cyswllt"
+
+msgid "addr_me_remove_contacts"
+msgstr "Dileu cysylltiadau"
+
+msgid "addr_me_request_author"
+msgstr "Cais awdurdodi"
+
+msgid "addr_me_send_card"
+msgstr "Gyrru cerdyn cyswllt"
+
+msgid "addr_me_send_detail"
+msgstr "Gyrru manylyn cyswllt"
+
+msgid "addr_me_sendmycard"
+msgstr "Gyrru cerdyn cyswllt"
+
+msgid "addr_me_sendmydetail"
+msgstr "Gyrru manylyn cyswllt"
+
+msgid "addr_me_settings"
+msgstr "Gosodiadau"
+
+msgid "addr_me_status"
+msgstr "Argaeledd"
+
+msgid "addr_nc_delete_all_locally"
+msgstr "Dileu pob cyswllt o'r dyfais? Ni ddilëir cysylltiadau negeseuo sydd ar weinyddwyr."
+
+msgid "addr_nc_delete_field"
+msgstr "Dileu maes?"
+
+msgid "addr_nc_delete_fields"
+msgstr "Dileu meysydd?"
+
+msgid "addr_nc_delete_im_username_field"
+msgstr "Dileu enw(au) negeseuo? %s Bydd hyn yn eu dileu o'r gweinydd hefyd."
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr "Dileu'r enwau negeseuo a ddewiswyd? Bydd dileu'r enwau hefyd yn eu dileu o %s."
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr "Dileu'r enwau negeseuo a ddewiswyd? Bydd dileu'r enwau hefyd yn eu dileu o'r gwasanaeth negeseuo."
+
+msgid "addr_nc_notification14"
+msgstr "Ni ganfuwyd manylion am y gwasanaeth yma yn Cysylltiadau. Creu cyswllt newydd yn awr?"
+
+msgid "addr_nc_notification15"
+msgstr "Mewnforio at Cysylltiadau?"
+
+msgid "addr_nc_notification16"
+msgstr "Dileu cyswllt? %s"
+
+msgid "addr_nc_notification19"
+msgstr "Goramser gweinydd. Dylid ailgychwyn Cysylltiadau. Ailgychwyn yn awr?"
+
+msgid "addr_nc_notification7"
+msgstr "Dileu'r cysylltiadau a ddewiswyd?"
+
+msgid "addr_nc_notification_im_username"
+msgstr "Dileu cyswllt? %s Bydd dileu cyswllt hefyd yn ei ddileu o'r gweinydd."
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr "Dileu'r cysylltiadau a ddewiswyd? Bydd dileu'r cysylltiadau hefyd yn eu dileu o'r gweinydd."
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr "Dileu'r cysylltiadau a ddewiswyd? Bydd dileu'r cysylltiadau hefyd yn eu dileu o'r gwasanaethau negeseuo."
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr "Dileu'r cyswllt? %s Bydd dileu'r cyswllt hefyd yn ei ddileu o'r gwasanaeth negeseuo."
+
+msgid "addr_nc_send_avatar"
+msgstr "Ydych am yrru'r llun hefyd?"
+
+msgid "addr_ni_importing_fail"
+msgstr "Methwyd mewnforio"
+
+msgid "addr_ni_importing_fail_format"
+msgstr "Methwyd mewnforio. Fformat anhysbys."
+
+msgid "addr_ni_importing_fail_mem"
+msgstr "Methwyd mewnforio. Diffyg cof."
+
+msgid "addr_ni_importing_fail_size"
+msgstr "Methwyd mewnforio. Ffeil rhy fawr."
+
+msgid "addr_ni_internal_error"
+msgstr "Gwall mewnol. Rhaid ailgychwyn Cysylltiadau."
+
+msgid "addr_pb_exporting_contacts"
+msgstr "Allforio cysylltiadau"
+
+msgid "addr_pb_importing_contacts"
+msgstr "Mewnforio cysylltiadau"
+
+msgid "addr_pb_load_contacts"
+msgstr "Llwytho cysylltiadau"
+
+msgid "addr_pb_notification13"
+msgstr "Mewnforio cysylltiadau"
+
+msgid "addr_pb_searching_contacts"
+msgstr "Chwilio cysylltiadau"
+
+msgid "addr_ti_add_field_title"
+msgstr "Maes newydd"
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr "Dewis eich cyfrif eich hun"
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr "Dewis cyfrif i'w ddefnyddio gyda'r cyswllt yma"
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr "Dewis cyfrif i'w ddefnyddio gyda'r cyswllt yma"
+
+msgid "addr_ti_crop_avatar_title"
+msgstr "Tocio llun"
+
+msgid "addr_ti_delete_field"
+msgstr "Dileu meysydd"
+
+msgid "addr_ti_dia_select_contacts"
+msgstr "Dewis cysylltiadau"
+
+msgid "addr_ti_export_wiz_st1"
+msgstr "Allforio cysylltiadau 1/5: Croeso"
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr "Allforio cysylltiadau 2/5: Cysylltiadau i'w hallforio"
+
+msgid "addr_ti_export_wiz_st2"
+msgstr "Allforio cysylltiadau 3/5: Fformat ffeil"
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr "Allforio cysylltiadau 4/5: Ffolder a lleoliad"
+
+msgid "addr_ti_export_wiz_st4"
+msgstr "Allforio cysylltiadau 5/5: Cwblhawyd"
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr "Allforio cysylltiadau 5/5: Methwyd"
+
+msgid "addr_ti_get_contacts"
+msgstr "Nôl cysylltiadau"
+
+msgid "addr_ti_groups_title"
+msgstr "Grwpiau"
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr "Mewnforio ffolder cysylltiadau"
+
+msgid "addr_ti_import_contact_title"
+msgstr "Mewnforio ffeil cysylltiadau"
+
+msgid "addr_ti_import_contacts"
+msgstr "Mewnforio cysylltiadau"
+
+msgid "addr_ti_main_view"
+msgstr "Pob cyswllt (%d)"
+
+msgid "addr_ti_main_view_loading"
+msgstr "Pob cyswllt"
+
+msgid "addr_ti_main_view_recent"
+msgstr "Cysylltiadau diweddar"
+
+msgid "addr_ti_mecard_title"
+msgstr "Fy ngwybodaeth"
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr "Ychwanegu fy ngwybodaeth"
+
+msgid "addr_ti_merge_contacts"
+msgstr "Cyfuno gyda chyswllt"
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr "Golygu fy ngwybodaeth"
+
+msgid "addr_ti_newedit_edit_title"
+msgstr "Golygu cyswllt"
+
+msgid "addr_ti_newedit_new_title"
+msgstr "Cyswllt newydd"
+
+msgid "addr_ti_request_author"
+msgstr "Cais awdurdodi %s"
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr "Chwilio cysylltiadau Mail Exch."
+
+msgid "addr_ti_sel_contact"
+msgstr "Dewis cyswllt"
+
+msgid "addr_ti_select_avatar"
+msgstr "Dewis llun"
+
+msgid "addr_ti_select_contact_detail"
+msgstr "Dewis manylyn cyswllt"
+
+msgid "addr_ti_select_picture_title"
+msgstr "Dewis llun"
+
+msgid "addr_ti_send_card"
+msgstr "Anfon cerdyn cyswllt drwy"
+
+msgid "addr_ti_send_card_detail"
+msgstr "Anfon manylyn cyswllt drwy"
+
+msgid "addr_ti_settings2"
+msgstr "Gosodiadau"
+
+msgid "addr_ti_solve_conflict"
+msgstr "Datrys gwrthdrawiadau cyfuno"
+
+msgid "addr_ti_view_select_contacts"
+msgstr "Dewis cysylltiadau"
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr "Neges llais"
+
+msgid "addr_va_add_field_address"
+msgstr "Cyfeiriad"
+
+msgid "addr_va_add_field_address_home"
+msgstr "Cyfeiriad (cartref)"
+
+msgid "addr_va_add_field_address_work"
+msgstr "Cyfeiriad (gwaith)"
+
+msgid "addr_va_add_field_birthday"
+msgstr "Pen-blwydd"
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr "Enw Google Talk"
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr "Enw Jabber"
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr "Enw Nokia"
+
+msgid "addr_va_add_field_chat_sip"
+msgstr "Enw SIP"
+
+msgid "addr_va_add_field_chat_skype"
+msgstr "Enw Skype"
+
+msgid "addr_va_add_field_company"
+msgstr "Cwmni"
+
+msgid "addr_va_add_field_email"
+msgstr "E-bost"
+
+msgid "addr_va_add_field_email_home"
+msgstr "E-bost (cartref)"
+
+msgid "addr_va_add_field_email_work"
+msgstr "E-bost (gwaith)"
+
+msgid "addr_va_add_field_gender"
+msgstr "Rhyw"
+
+msgid "addr_va_add_field_mobile"
+msgstr "Ffôn lôn"
+
+msgid "addr_va_add_field_mobile_home"
+msgstr "Ffôn lôn (cartref)"
+
+msgid "addr_va_add_field_mobile_work"
+msgstr "Ffôn lôn (gwaith)"
+
+msgid "addr_va_add_field_nickname"
+msgstr "Blas-enw"
+
+msgid "addr_va_add_field_note"
+msgstr "Nodyn"
+
+msgid "addr_va_add_field_phone"
+msgstr "Ffôn"
+
+msgid "addr_va_add_field_phone_fax"
+msgstr "Ffacs"
+
+msgid "addr_va_add_field_phone_home"
+msgstr "Ffôn (cartref)"
+
+msgid "addr_va_add_field_phone_work"
+msgstr "Ffôn (gwaith)"
+
+msgid "addr_va_add_field_title"
+msgstr "Swydd"
+
+msgid "addr_va_add_field_webpage"
+msgstr "Gwefan"
+
+msgid "addr_va_emergency_number"
+msgstr "Rhif argyfwng"
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr "Allforiwyd cysylltiadau"
+
+msgid "addr_va_firstname"
+msgstr "Enw Cyfenw"
+
+msgid "addr_va_general_female"
+msgstr "Benyw"
+
+msgid "addr_va_general_male"
+msgstr "Gwryw"
+
+msgid "addr_va_general_undefined"
+msgstr "Anniffiniedig"
+
+msgid "addr_va_groups_imgrp"
+msgstr "%s"
+
+msgid "addr_va_groups_simcard"
+msgstr "Cysylltiadau cerdyn SIM"
+
+msgid "addr_va_groups_sip"
+msgstr "SIP"
+
+msgid "addr_va_lastname"
+msgstr "Cyfenw Enw"
+
+msgid "addr_va_lastname_comma"
+msgstr "Cyfenw, Enw"
+
+msgid "addr_va_newedit_address_general"
+msgstr "cyffredinol"
+
+msgid "addr_va_newedit_address_home"
+msgstr "cartref"
+
+msgid "addr_va_newedit_address_work"
+msgstr "gwaith"
+
+msgid "addr_va_newedit_email_general"
+msgstr "cyffredinol"
+
+msgid "addr_va_newedit_email_home"
+msgstr "cartref"
+
+msgid "addr_va_newedit_email_work"
+msgstr "gwaith"
+
+msgid "addr_va_newedit_mobile_home"
+msgstr "cartref"
+
+msgid "addr_va_newedit_mobile_work"
+msgstr "gwaith"
+
+msgid "addr_va_newedit_phone_fax"
+msgstr "ffacs"
+
+msgid "addr_va_newedit_phone_general"
+msgstr "cyffredinol"
+
+msgid "addr_va_newedit_phone_home"
+msgstr "cartref"
+
+msgid "addr_va_newedit_phone_other"
+msgstr "arall"
+
+msgid "addr_va_newedit_phone_work"
+msgstr "gwaith"
+
+msgid "addr_va_nickname"
+msgstr "Blas-enw"
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr "Gosod Pen-blwydd"
