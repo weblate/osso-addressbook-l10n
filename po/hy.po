@@ -3,536 +3,574 @@ msgstr ""
 "Project-Id-Version: osso-addressbook 20100208121228\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
-"PO-Revision-Date: 2010.02.08 12:12+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-09-09 16:48+0000\n"
+"Last-Translator: norayr tanakian <norayr@arnet.am>\n"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-addressbook-l10n/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 msgid "addr_ap_address_book"
-msgstr ""
+msgstr "Կապեր"
 
 msgid "addr_bd_browse"
-msgstr ""
+msgstr "Զննել"
 
 msgid "addr_bd_cont_starter_address"
-msgstr ""
+msgstr "Հասցէ"
 
 msgid "addr_bd_cont_starter_address_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_address_work"
-msgstr ""
+msgstr "աշխավայր"
 
 msgid "addr_bd_cont_starter_birthday"
-msgstr ""
+msgstr "Ծննդեան օր"
 
 msgid "addr_bd_cont_starter_call"
-msgstr ""
+msgstr "%s զանգ"
 
 msgid "addr_bd_cont_starter_chat"
-msgstr ""
+msgstr "%s հաղորդագրութիւն"
 
 msgid "addr_bd_cont_starter_email"
-msgstr ""
+msgstr "Էլ․ փոստ"
 
 msgid "addr_bd_cont_starter_email_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_email_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_bd_cont_starter_location"
-msgstr ""
+msgstr "Տեղանք"
 
 msgid "addr_bd_cont_starter_mobile"
-msgstr ""
+msgstr "Շարժական"
 
 msgid "addr_bd_cont_starter_mobile_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_mobile_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_bd_cont_starter_phone"
-msgstr ""
+msgstr "Հեռախօս"
 
 msgid "addr_bd_cont_starter_phone_fax"
-msgstr ""
+msgstr "ֆաքս"
 
 msgid "addr_bd_cont_starter_phone_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_phone_other"
-msgstr ""
+msgstr "այլ"
 
 msgid "addr_bd_cont_starter_phone_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_bd_cont_starter_sip_audio"
-msgstr ""
+msgstr "SIP աւդիօ զանգ"
 
+#, fuzzy
 msgid "addr_bd_cont_starter_sip_out"
-msgstr ""
+msgstr "SIP"
 
 msgid "addr_bd_cont_starter_sip_out_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_sip_out_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_bd_cont_starter_sip_video"
-msgstr ""
+msgstr "SIP տեսազանգ"
 
 msgid "addr_bd_cont_starter_skypeout"
-msgstr ""
+msgstr "Զանգել Սքայփի միջոցով"
 
 msgid "addr_bd_cont_starter_skypeout_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_skypeout_work"
-msgstr ""
+msgstr "աշխատավայր"
 
+#, fuzzy
 msgid "addr_bd_cont_starter_sms"
-msgstr ""
+msgstr "SMS"
 
 msgid "addr_bd_cont_starter_sms_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_bd_cont_starter_sms_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_bd_cont_starter_video_call"
-msgstr ""
+msgstr "%s տեսազանգ"
 
 msgid "addr_bd_cont_starter_webpage"
-msgstr ""
+msgstr "Ուեբ կայք"
 
 msgid "addr_bd_copy_sim"
-msgstr ""
+msgstr "Պատճէնել"
 
 msgid "addr_bd_delete_locally"
-msgstr ""
+msgstr "Հեռացնել բոլոր կոնտակտները"
 
 msgid "addr_bd_get_contacts_file"
-msgstr ""
+msgstr "Ներմուծել կոնտակտները"
 
 msgid "addr_bd_get_contacts_im_account"
-msgstr ""
+msgstr "Ներմուծել կոնտակտներ նոր հաշուից"
 
 msgid "addr_bd_get_contacts_sim_card"
-msgstr ""
+msgstr "Պատճէնել SIM քարտից"
 
 msgid "addr_bd_get_contacts_sync"
-msgstr ""
+msgstr "Սինքրոնացնել այլ սարքի հետ"
 
 msgid "addr_bd_get_from_file"
-msgstr ""
+msgstr "Ներմուծել կոնտակտների նիշք"
 
 msgid "addr_bd_get_from_folder"
-msgstr ""
+msgstr "Ներմուծել կոնտակտների պանակ"
 
 msgid "addr_bd_import"
-msgstr ""
+msgstr "Ներմուծել"
 
 msgid "addr_bd_import_exchange_contacts"
-msgstr ""
+msgstr "Ներմուծել Mail Exch կոնտակտ"
 
 msgid "addr_bd_newedit_addfield"
-msgstr ""
+msgstr "Աւելացնել դաշտ"
 
 msgid "addr_bd_newedit_address"
-msgstr ""
+msgstr "Հասցէ"
 
 msgid "addr_bd_newedit_address_country"
-msgstr ""
+msgstr "Մարզ"
 
 msgid "addr_bd_newedit_birthday"
-msgstr ""
+msgstr "Ծննդեան օր"
 
 msgid "addr_bd_newedit_email"
-msgstr ""
+msgstr "Էլ․ փոստ"
 
 msgid "addr_bd_newedit_gender"
-msgstr ""
+msgstr "Սեռ"
 
 msgid "addr_bd_newedit_phone"
-msgstr ""
+msgstr "Հեռախօս"
 
 msgid "addr_bd_newedit_phone_mobile"
-msgstr ""
+msgstr "Շարժական"
 
 msgid "addr_bd_newedit_removefield"
-msgstr ""
+msgstr "Հեռացնել դաշտեր"
 
 msgid "addr_bd_send_card_bluetooth"
-msgstr ""
+msgstr "Բլութութ"
 
 msgid "addr_bd_send_card_email"
-msgstr ""
+msgstr "Էլ․ փոստ"
 
 msgid "addr_bd_send_card_sms"
-msgstr ""
+msgstr "SMS"
 
 msgid "addr_bd_temporary_add"
-msgstr ""
+msgstr "Միաւորել կոնտակտի հետ"
 
 msgid "addr_bd_temporary_call"
-msgstr ""
+msgstr "Զանգել"
 
 msgid "addr_bd_temporary_chat"
-msgstr ""
+msgstr "Հաղորդագրութիւն"
 
 msgid "addr_bd_temporary_new"
-msgstr ""
+msgstr "Նոր կոնտակտ"
 
 msgid "addr_bd_temporary_sip"
-msgstr ""
+msgstr "SIP"
 
 msgid "addr_bd_temporary_sipaudio"
-msgstr ""
+msgstr "SIP աւդիօ զանգ"
 
 msgid "addr_bd_temporary_sipvideo"
-msgstr ""
+msgstr "SIP տեսազանգ"
 
 msgid "addr_bd_temporary_skypecall"
-msgstr ""
+msgstr "Սքայփ զանգ"
 
 msgid "addr_bd_temporary_skypechat"
-msgstr ""
+msgstr "Սքայփ չաթ"
 
 msgid "addr_bd_temporary_skypeout"
-msgstr ""
+msgstr "Զանգել Սքայփի միջոցով"
 
 msgid "addr_bd_temporary_sms"
-msgstr ""
+msgstr "SMS"
 
 msgid "addr_bd_va_newedit_address_country"
-msgstr ""
+msgstr "%s"
 
 msgid "addr_bd_voicemail"
-msgstr ""
+msgstr "Ձայնային փոստի համար"
 
 msgid "addr_fi_cont_starter_company"
-msgstr ""
+msgstr "Ընկերութիւն"
 
 msgid "addr_fi_cont_starter_gender"
-msgstr ""
+msgstr "Սեռ"
 
 msgid "addr_fi_cont_starter_nickname"
-msgstr ""
+msgstr "Մականուն"
 
 msgid "addr_fi_cont_starter_note"
-msgstr ""
+msgstr "Նշում"
 
 msgid "addr_fi_cont_starter_title"
-msgstr ""
+msgstr "Պաշտօն"
 
 msgid "addr_fi_display_sms_only_for_mobile"
-msgstr ""
+msgstr "Ցուցադրել միայն շարժական համարներից SMS֊ները"
 
 msgid "addr_fi_display_video_calling_options"
-msgstr ""
+msgstr "Ցուցադրել տեսակապի յատկութիւնները"
 
 msgid "addr_fi_displayname"
-msgstr ""
+msgstr "Ցուցադրել անունները"
 
 msgid "addr_fi_export_wiz_st1a_all"
-msgstr ""
+msgstr "Ամէնը"
 
 msgid "addr_fi_export_wiz_st1a_format"
-msgstr ""
+msgstr "Արտածել՝"
 
 msgid "addr_fi_export_wiz_st1a_selected"
-msgstr ""
+msgstr "Ընտրուած կոնտակտները"
 
 msgid "addr_fi_export_wiz_st2_format"
-msgstr ""
+msgstr "Արտածել դէպի՝"
 
 msgid "addr_fi_export_wiz_st3_location"
-msgstr ""
+msgstr "Տեղանք"
 
 msgid "addr_fi_export_wiz_st3_name_folder"
-msgstr ""
+msgstr "Պանակի անուն"
 
 msgid "addr_fi_mecard_address"
-msgstr ""
+msgstr "Հասցէ"
 
 msgid "addr_fi_mecard_address_home"
-msgstr ""
+msgstr "Հասցէ (տուն)"
 
 msgid "addr_fi_mecard_address_work"
-msgstr ""
+msgstr "Հասցէ (աշխատանք)"
 
 msgid "addr_fi_mecard_birthday"
-msgstr ""
+msgstr "Ծննդեան օր"
 
 msgid "addr_fi_mecard_chat_googletalk"
-msgstr ""
+msgstr "Գուգլ թըլքի օգտանուն"
 
 msgid "addr_fi_mecard_chat_jabber"
-msgstr ""
+msgstr "Ջաբեր օգտանուն"
 
 msgid "addr_fi_mecard_chat_nokiachat"
-msgstr ""
+msgstr "Նոկիայի օգտանուն"
 
 msgid "addr_fi_mecard_chat_sip"
-msgstr ""
+msgstr "SIP օգտանուն"
 
 msgid "addr_fi_mecard_chat_skype"
-msgstr ""
+msgstr "Սքայփ օգտանուն"
 
 msgid "addr_fi_mecard_company"
-msgstr ""
+msgstr "Ընկերութիւն"
 
 msgid "addr_fi_mecard_email"
-msgstr ""
+msgstr "Էլ․ փոստ"
 
 msgid "addr_fi_mecard_email_home"
-msgstr ""
+msgstr "Էլ․ փոստ (տուն)"
 
 msgid "addr_fi_mecard_email_work"
-msgstr ""
+msgstr "Էլ․ փոստ (աշխատանք)"
 
 msgid "addr_fi_mecard_gender"
-msgstr ""
+msgstr "Սեռ"
 
 msgid "addr_fi_mecard_mobile"
-msgstr ""
+msgstr "Շարժական"
 
 msgid "addr_fi_mecard_mobile_home"
-msgstr ""
+msgstr "Շարժական (տուն)"
 
 msgid "addr_fi_mecard_mobile_work"
-msgstr ""
+msgstr "Շարժական (աշխատանք)"
 
 msgid "addr_fi_mecard_name"
-msgstr ""
+msgstr "Անուն"
 
 msgid "addr_fi_mecard_nickname"
-msgstr ""
+msgstr "Մականուն"
 
 msgid "addr_fi_mecard_note"
-msgstr ""
+msgstr "Նշում"
 
 msgid "addr_fi_mecard_phone"
-msgstr ""
+msgstr "Հեռախօս"
 
 msgid "addr_fi_mecard_phone_fax"
-msgstr ""
+msgstr "Ֆաքս"
 
 msgid "addr_fi_mecard_phone_home"
-msgstr ""
+msgstr "Հեռախօս (տուն)"
 
 msgid "addr_fi_mecard_phone_work"
-msgstr ""
+msgstr "Հեռախօս (աշխատանք)"
 
 msgid "addr_fi_mecard_title"
-msgstr ""
+msgstr "Պաշտօն"
 
 msgid "addr_fi_mecard_webpage"
-msgstr ""
+msgstr "Վեբ կայք"
 
 msgid "addr_fi_newedit_address_city"
-msgstr ""
+msgstr "Քաղաք"
 
 msgid "addr_fi_newedit_address_extension"
-msgstr ""
+msgstr "Ընդլայնում"
 
 msgid "addr_fi_newedit_address_p_o_box"
-msgstr ""
+msgstr "Փոստային արկղ"
 
 msgid "addr_fi_newedit_address_postal"
-msgstr ""
+msgstr "Փոստային ինդէքս"
 
 msgid "addr_fi_newedit_address_region"
-msgstr ""
+msgstr "Մարզ"
 
 msgid "addr_fi_newedit_address_street"
-msgstr ""
+msgstr "Փողոց"
 
 msgid "addr_fi_newedit_company"
-msgstr ""
+msgstr "Ընկերութիւն"
 
 msgid "addr_fi_newedit_first_name"
-msgstr ""
+msgstr "Անուն"
 
 msgid "addr_fi_newedit_gtalk_chat"
-msgstr ""
+msgstr "Գուգլ Թըլքի անուն"
 
 msgid "addr_fi_newedit_jabber_chat"
-msgstr ""
+msgstr "Ջաբեր օգտանուն"
 
 msgid "addr_fi_newedit_last_name"
-msgstr ""
+msgstr "Ազգանուն"
 
 msgid "addr_fi_newedit_nickname"
-msgstr ""
+msgstr "Մականուն"
 
 msgid "addr_fi_newedit_nokia_chat"
-msgstr ""
+msgstr "Նոկիայի օգտանուն"
 
 msgid "addr_fi_newedit_note"
-msgstr ""
+msgstr "Նշում"
 
 msgid "addr_fi_newedit_sip_chat"
-msgstr ""
+msgstr "SIP օգտանուն"
 
 msgid "addr_fi_newedit_skype_chat"
-msgstr ""
+msgstr "Սքայփի օգտանուն"
 
 msgid "addr_fi_newedit_title"
-msgstr ""
+msgstr "Պաշտօն"
 
 msgid "addr_fi_newedit_webpage"
-msgstr ""
+msgstr "Վեբ կայք"
 
 msgid "addr_fi_search_find_toolbar"
-msgstr ""
+msgstr "Փնտրել"
 
 msgid "addr_fi_solve_conflict_birthday"
-msgstr ""
+msgstr "Ծննդեան օր"
 
 msgid "addr_fi_solve_conflict_company"
-msgstr ""
+msgstr "Ընկերութիւն"
 
 msgid "addr_fi_solve_conflict_first"
-msgstr ""
+msgstr "Անուն"
 
 msgid "addr_fi_solve_conflict_gender"
-msgstr ""
+msgstr "Սեռ"
 
 msgid "addr_fi_solve_conflict_last"
-msgstr ""
+msgstr "Ազգանուն"
 
 msgid "addr_fi_solve_conflict_nick"
-msgstr ""
+msgstr "Մականուն"
 
 msgid "addr_fi_solve_conflict_title"
-msgstr ""
+msgstr "Պաշտօն"
 
 msgid "addr_fi_voicemailbox"
-msgstr ""
+msgstr "Ձայնային փոստ"
 
 msgid "addr_ia_export_wiz_st1_msg"
 msgstr ""
+"Արտածման օգնականը թոյլ է տալիս արտածել կոնտակտներդ՝ այլ ծրագրակազմ "
+"ներումծելու համար։\n"
+"Սեղմէք «Յաջորդ» շարունակելու համար։"
 
 msgid "addr_ia_export_wiz_st4_msg_fail"
 msgstr ""
+"Արտածումը խափանուեց։\n"
+"Կրկին փորձելու համար սեղմէք «Նախորդ», իսկ օգնականը փակելու համար՝ որեւէ տեղ "
+"էս պատուհանից դուրս։"
 
 msgid "addr_ia_export_wiz_st4_msg_folder"
 msgstr ""
+"Կոնտակտների արտածման կարգաւորումն աւարտուած է։\n"
+"Կոնտակտներն արտածուած են %s պանակ։\n"
+"Սեղմէք «Աւարտել» ելքի համար։"
 
 msgid "addr_ia_export_wiz_st4_msg_memfail"
 msgstr ""
+"Կոնտակտների արտածումը խափանուել է։\n"
+"Յիշողութիւնը բաւական չէ։\n"
+"Կրկին փորձելու համար սեղմէք «Նախորդ», իսկ պատուհանը փակելու համար՝ որեւէ "
+"տեղում այս պատուհանից դուրս։"
 
 msgid "addr_ia_export_wiz_st4_msg_storefail"
 msgstr ""
+"Կոնտակտների արտածումը խափանուեց։\n"
+"Յիշողութիւնը բաւական չէ։\n"
+"Այլ պանակ ընտրելու համար սեղմէք «Նախորդ», իսկ օգնականը փակելու համար՝ որեւէ "
+"տեղ այս պատուհանից դուրս։"
 
 msgid "addr_ia_no_contacts"
-msgstr ""
+msgstr "(կոնտակտներ աւելացուած չեն)"
 
 msgid "addr_ia_no_details"
-msgstr ""
+msgstr "(տեղեկութիւնները բացակայում են)"
 
 msgid "addr_ia_request_author_text1"
-msgstr ""
+msgstr "Թո՞յլ տալ %s֊ին տեսնել քո ներկայութիւնը։"
 
 msgid "addr_ia_search_not_found"
-msgstr ""
+msgstr "Կոնտեկտներ գտնուած չեն"
 
 msgid "addr_ib_cannot_load_picture"
-msgstr ""
+msgstr "Չի ստացւում բացել նկարը։ Հնարաւոր է այն վնասուած է։"
 
 msgid "addr_ib_cannot_show_contact"
 msgstr ""
+"Չի ստացւում ցուցադրել կոնտակտի տեղեկատւութիւնը։ Հնարաւոր է՝ կոնտակտը կամ "
+"համապատասխան IM հաշիւը հեռացուած է։"
 
 msgid "addr_ib_contact_is_offline"
-msgstr ""
+msgstr "Հնարաւոր չէ կապուել։ Կոնտակն անհասանելի է։"
 
 msgid "addr_ib_contact_not_selectable"
 msgstr ""
+"Հնարաւոր չէ ընտրել կոնտակտը։\n"
+"Ենթատեքստը սի աջակցւում։"
 
 msgid "addr_ib_disc_full"
 msgstr ""
+"Հնարաւոր չէ աւարտել գործողութիւնը։\n"
+"Սարքում տեղն աւարտուել է։"
 
 msgid "addr_ib_field_amount_limited"
 msgstr ""
+"Չի ստացւում նոր դաշտ աւելացնել։ Դաշտերի առաւելագոյն քանակն արդէն "
+"օգտագործուած է։"
 
 msgid "addr_ib_file_name_empty"
-msgstr ""
+msgstr "Նախ ներմուծէք նիշքի անունը"
 
 msgid "addr_ib_imported_partially_many_s_f"
-msgstr ""
+msgstr "%d կոնտակտ ներմուծուած է։ %d֊ը չյաջողուեց ներմուծել։"
 
 msgid "addr_ib_imported_partially_one_f"
-msgstr ""
+msgstr "%d կոնտակտ ներմուծուած է։ Մէկի ներմուծումը խափանուել է։"
 
 msgid "addr_ib_imported_partially_one_s"
-msgstr ""
+msgstr "Մէկ կոնտակտ ներմուծուած է։ %d֊ի ներմուծումը խափանուեց։"
 
 msgid "addr_ib_imported_successfully"
-msgstr ""
+msgstr "Կոնտակտը ներմուծուած է"
 
 msgid "addr_ib_imported_successfully_plural"
-msgstr ""
+msgstr "Կոնտակտները ներմուծուած են"
 
 msgid "addr_ib_imported_zero_contacts"
-msgstr ""
+msgstr "Կոնտակտներ գտնուած չեն"
 
 msgid "addr_ib_invalid_username_call"
 msgstr ""
+"Չի ստացւում հաստատել VoIP զանգը։ Հնարաւոր է որ %s օգտատէրը գոյութիւն չունի։"
 
 msgid "addr_ib_invalid_username_chat"
-msgstr ""
+msgstr "Չի ստացւում հաղորդագրութիւն ուղարկել։ %s օգտատէրը գոյութիւն չունի։"
 
 msgid "addr_ib_maps_failed"
-msgstr ""
+msgstr "Չի ստացւում բացել Քարտէզը։ Հնարաւոր է հասցէն է սխալ։"
 
 msgid "addr_ib_maps_server_timeout"
-msgstr ""
+msgstr "Չի ստացւում բացել Քարտէզը։ Սպասարկիչը չի պատասխանում։"
 
 msgid "addr_ib_no_name_given"
-msgstr ""
+msgstr "Ներմուծէք կոնտակտի անունը"
 
 msgid "addr_ib_not_available"
-msgstr ""
+msgstr "Հասանելի չի"
 
 msgid "addr_ib_not_enough_memory"
 msgstr ""
+"Հնարաւոր չէ աւարտել գործողութիւնը։\n"
+"Յիշողութիւնը սպառուած է։"
 
 msgid "addr_ib_permission_denied"
 msgstr ""
+"Չի ստացւում աւարտել գործողութիւնը։\n"
+"Անհրաժէշտ են լրացուցիչ արտօնութիւններ։"
 
 msgid "addr_ib_request_author_resend"
-msgstr ""
+msgstr "%s֊ին ուղարկւում է նոյնականացման յայց"
 
 msgid "addr_ib_searching"
-msgstr ""
+msgstr "Փնտրւում է"
 
 msgid "addr_ib_shortcut_created"
-msgstr ""
+msgstr "Աշխատասեղանի կարճատը ստեղծուած է։"
 
 msgid "addr_ib_system_error"
 msgstr ""
+"Հնարաւոր չէ աւարտել գործողութիւնը։\n"
+"Ներքին սխալ։"
 
 msgid "addr_ib_unable_to_save"
-msgstr ""
+msgstr "Չի ստացւում պահել"
 
 msgid "addr_ib_undefined_error"
-msgstr ""
+msgstr "Չսահմանուած սխալ"
 
 msgid "addr_ib_unknown_number"
-msgstr ""
+msgstr "Անյայտ համար։ Չի ստացւում ցուցադրել կոնտակտի տեղեկութիւնը։"
 
+#, fuzzy
 msgid "addr_li_alpha_0"
-msgstr ""
+msgstr "0-9"
 
+#, fuzzy
 msgid "addr_li_alpha_00"
-msgstr ""
+msgstr "0123456789"
 
 msgid "addr_li_alpha_1"
 msgstr ""
@@ -582,449 +620,484 @@ msgstr ""
 msgid "addr_li_alpha_88"
 msgstr ""
 
+#, fuzzy
 msgid "addr_li_export_wiz_st2_format_vcard"
-msgstr ""
+msgstr "vCard 2.1"
 
+#, fuzzy
 msgid "addr_li_export_wiz_st2_format_vcard_3"
-msgstr ""
+msgstr "vCard 3.0"
 
 msgid "addr_li_sel_contact_none"
-msgstr ""
+msgstr "(կոնտակտներ չկան)"
 
 msgid "addr_li_select_picture_none"
-msgstr ""
+msgstr "(չկան պատկերներ)"
 
 msgid "addr_li_unnamed_contact"
-msgstr ""
+msgstr "Չկայ անուն"
 
 msgid "addr_me_abc"
 msgstr ""
 
 msgid "addr_me_accounts"
-msgstr ""
+msgstr "Հաշիւներ"
 
 msgid "addr_me_communication_history"
-msgstr ""
+msgstr "Հաղորդագրութիւնների պատմութիւն"
 
 msgid "addr_me_copy_to_contacts"
-msgstr ""
+msgstr "Պատճէնել դէպի Կոնտակտներ"
 
 msgid "addr_me_create_shortcut"
-msgstr ""
+msgstr "Ստեղծել կարճատ"
 
 msgid "addr_me_cs_addtocontacts"
-msgstr ""
+msgstr "Աւելացնել Կոնտակտների մէջ"
 
 msgid "addr_me_edit_contact"
-msgstr ""
+msgstr "Խմբագրել"
 
 msgid "addr_me_editmyinfo"
-msgstr ""
+msgstr "Խմբագրել"
 
 msgid "addr_me_email"
-msgstr ""
+msgstr "Էլ․ փոստ"
 
 msgid "addr_me_export"
-msgstr ""
+msgstr "Արտածել"
 
 msgid "addr_me_groups"
-msgstr ""
+msgstr "Խմբեր"
 
 msgid "addr_me_imaccounts"
-msgstr ""
+msgstr "VoIP ու IM հաշիւներ"
 
 msgid "addr_me_import"
-msgstr ""
+msgstr "Ստանալ կոնտակտները"
 
 msgid "addr_me_importall"
-msgstr ""
+msgstr "Պատճէնել բոլոր կոնտակտները"
 
 msgid "addr_me_importsel"
-msgstr ""
+msgstr "Պատճէնել ընտրուած կոնտակտները"
 
 msgid "addr_me_mecard"
-msgstr ""
+msgstr "Իմ տեղեկութիւնը"
 
 msgid "addr_me_merge_contact"
-msgstr ""
+msgstr "Միաւորել կոնտակտները"
 
 msgid "addr_me_new_contact"
-msgstr ""
+msgstr "Նոր կոնտակտ"
 
 msgid "addr_me_recent"
-msgstr ""
+msgstr "Վերջերս"
 
 msgid "addr_me_remove_contact"
-msgstr ""
+msgstr "Հեռացնել կոնտակտը"
 
 msgid "addr_me_remove_contacts"
-msgstr ""
+msgstr "Հեռացնել կոնտակտները"
 
 msgid "addr_me_request_author"
-msgstr ""
+msgstr "Նոյնականացման յայց"
 
 msgid "addr_me_send_card"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի քարտը"
 
 msgid "addr_me_send_detail"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի մանրամասն տեղեկութիւնը"
 
 msgid "addr_me_sendmycard"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի քարտը"
 
 msgid "addr_me_sendmydetail"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի մանրամասն տեղեկութիւնը "
 
 msgid "addr_me_settings"
-msgstr ""
+msgstr "Կարգաւորումներ"
 
 msgid "addr_me_status"
-msgstr ""
+msgstr "Ներկայութիւն"
 
 msgid "addr_nc_delete_all_locally"
 msgstr ""
+"Հեռացնե՞լ բոլոր կոնտակտները սարքից։\n"
+"IM կոնտակտները չեն ջնջուելու սպասարկչից։"
 
 msgid "addr_nc_delete_field"
-msgstr ""
+msgstr "Հեռացնե՞լ դաշտը։"
 
 msgid "addr_nc_delete_fields"
-msgstr ""
+msgstr "Հեռացնե՞լ դաշտերը։"
 
 msgid "addr_nc_delete_im_username_field"
 msgstr ""
+"Հեռացնե՞լ IM օգտանունը։\n"
+"%s\n"
+"Այս IM օգտանունը հեռացնելը այն նաեւ հեռացնելու է %s֊ից։"
 
 msgid "addr_nc_delete_im_username_fields"
 msgstr ""
+"Հեռացնե՞լ ընտրուած IM օգտանունը։\n"
+"IM օգտանունների հեռացումը դրանք նաեւ հեռացնելու է %s֊ից։"
 
 msgid "addr_nc_delete_im_username_fields_several_services"
 msgstr ""
+"Հեռացնե՞լ ընտրուած IM օգտանունները։\n"
+"IM օգտանուններ հեռացնելը դրանք նաեւ հեռացնելու է IM ծառայութիւնից։"
 
 msgid "addr_nc_notification14"
 msgstr ""
+"Այս ծառայութեան համար ոչ մի կոնտակտ չի գտնուել։\n"
+"Ստեղծե՞լ նոր կոնտակտ։"
 
 msgid "addr_nc_notification15"
-msgstr ""
+msgstr "Ներմուծե՞լ Կոնտակտների մէջ։"
 
 msgid "addr_nc_notification16"
 msgstr ""
+"Հեռացնե՞լ կոնտակտը։\n"
+"%s"
 
 msgid "addr_nc_notification19"
 msgstr ""
+"Սպասարկիչը չի պատասխանել։ Կոնտակտներ յաւելուածը պէտք է վերբեռնուի։ Վերբեռնե՞"
+"լ հիմա։"
 
 msgid "addr_nc_notification7"
-msgstr ""
+msgstr "Հեռացնե՞լ ընտրուած դաշտերը։"
 
 msgid "addr_nc_notification_im_username"
 msgstr ""
+"Հեռացնե՞լ կոնտակտը։\n"
+"%s\n"
+" Այս կոնտակտը հեռացնելը այն հեռացնելու է նաեւ %s֊ից։"
 
 msgid "addr_nc_notification_im_username_multiple"
 msgstr ""
+"Հեռացնե՞լ ընտրուած կոնտակտը։\n"
+"Այս կոնտակտը հեռացնելը այն նաեւ կը հեռացնի %s֊ից։"
 
 msgid "addr_nc_notification_im_username_multiple_several_services"
 msgstr ""
+"Հեռացնե՞լ ընտրուած կոնտակտները։\n"
+"Կոնտակտներ հեռացնելը դրանք նաեւ կը հեռացնի IM ծառայութիւններից։"
 
 msgid "addr_nc_notification_im_username_several_services"
 msgstr ""
+"Հեռացնե՞լ կոնտակտը։\n"
+"%s\n"
+"Այս կոնտակտը հեռացնելը այն նաեւ կը հեռացնի IM ծառայութիւնից։"
 
 msgid "addr_nc_send_avatar"
-msgstr ""
+msgstr "Ցանկանո՞ւմ էք նաեւ աւատարն ուղարկել։"
 
 msgid "addr_ni_importing_fail"
-msgstr ""
+msgstr "Ներմուծումը խափանուեց"
 
 msgid "addr_ni_importing_fail_format"
 msgstr ""
+"Ներմուծումը խափանուեց\n"
+"Ֆորմատը ճանաչուած չէ։"
 
 msgid "addr_ni_importing_fail_mem"
 msgstr ""
+"Ներմուծումը խափանուեց։\n"
+"Յիշողութիւնը պակաս է։"
 
 msgid "addr_ni_importing_fail_size"
 msgstr ""
+"Ներմուծումը խափանուեց։\n"
+"Ֆայլը չափից շատ մեծ է։"
 
 msgid "addr_ni_internal_error"
 msgstr ""
+"Ներքին սխալ։\n"
+"Կոնտակտներ յաւելուածը պէտք է վերբեռնուի։"
 
 msgid "addr_pb_exporting_contacts"
-msgstr ""
+msgstr "Կոնտակտներն արտածւում են"
 
 msgid "addr_pb_importing_contacts"
-msgstr ""
+msgstr "Կոնտակտները ներմուծւում են"
 
 msgid "addr_pb_load_contacts"
-msgstr ""
+msgstr "Կոնտակտները բեռնւում են"
 
 msgid "addr_pb_notification13"
-msgstr ""
+msgstr "Կոնտակտները ներմուծւում են"
 
 msgid "addr_pb_searching_contacts"
-msgstr ""
+msgstr "Փնտրւում է"
 
 msgid "addr_ti_add_field_title"
-msgstr ""
+msgstr "Նոր դաշտ"
 
 msgid "addr_ti_choose_own_account_bind"
-msgstr ""
+msgstr "Ընտրէք ձեր հաշիւը"
 
 msgid "addr_ti_choose_own_account_chat"
-msgstr ""
+msgstr "Ընտրէք այս կոնտակտի հետ կապուելու հաշիւը"
 
 msgid "addr_ti_choose_own_account_voip"
-msgstr ""
+msgstr "Ընտրէք այս կոնտակտի հետ կապի հաշիւը"
 
 msgid "addr_ti_crop_avatar_title"
-msgstr ""
+msgstr "Կտրել աւատարը"
 
 msgid "addr_ti_delete_field"
-msgstr ""
+msgstr "Հեռացնել դաշտեր"
 
 msgid "addr_ti_dia_select_contacts"
-msgstr ""
+msgstr "Ընտրել կոնտակտներ"
 
 msgid "addr_ti_export_wiz_st1"
-msgstr ""
+msgstr "Կոնտակտների արտածում 1/5՝ Բարի գալուստ"
 
 msgid "addr_ti_export_wiz_st1a"
-msgstr ""
+msgstr "Կոնտակտների արտածում 2/5՝ Կոնտակտներ որ արտածուելու են"
 
 msgid "addr_ti_export_wiz_st2"
-msgstr ""
+msgstr "Կոնտակտների արտածում 3/5՝ Ֆայլի ֆորմատը"
 
 msgid "addr_ti_export_wiz_st3_folder"
-msgstr ""
+msgstr "Կոնտակտների արտածում 4/5՝ Պանակ ու տեղանք"
 
 msgid "addr_ti_export_wiz_st4"
-msgstr ""
+msgstr "Կոնտակտների արտածում 5/5՝ Աւարտուած է"
 
 msgid "addr_ti_export_wiz_st4_fail"
-msgstr ""
+msgstr "Կոնտակտների արտածման 5/5 քայլը խափանուեց"
 
 msgid "addr_ti_get_contacts"
-msgstr ""
+msgstr "Ստանալ կոնտակտները"
 
 msgid "addr_ti_groups_title"
-msgstr ""
+msgstr "Խմբեր"
 
 msgid "addr_ti_import_contact_folder_title"
-msgstr ""
+msgstr "Ներմուծել կոնտակտների պանակ"
 
 msgid "addr_ti_import_contact_title"
-msgstr ""
+msgstr "Ներմուծել կոնտակների նիշքը"
 
 msgid "addr_ti_import_contacts"
-msgstr ""
+msgstr "Ներմուծել կոնտակտները"
 
 msgid "addr_ti_main_view"
-msgstr ""
+msgstr "Բոլոր կոնտակտները (%d)"
 
 msgid "addr_ti_main_view_loading"
-msgstr ""
+msgstr "Բոլոր կոնտակտները"
 
 msgid "addr_ti_main_view_recent"
-msgstr ""
+msgstr "Վերջերս աւելացուած կոնտակտներ"
 
 msgid "addr_ti_mecard_title"
-msgstr ""
+msgstr "Իմ տեղեկութիւնը"
 
 msgid "addr_ti_mecard_title_add_my_information"
-msgstr ""
+msgstr "Աւելացնել իմ տեղեկութիւնը"
 
 msgid "addr_ti_merge_contacts"
-msgstr ""
+msgstr "Միաւորել կոնտակտի հետ"
 
 msgid "addr_ti_newedit_edit_my_information_title"
-msgstr ""
+msgstr "Խմբագրել իմ տեղեկութիւնը"
 
 msgid "addr_ti_newedit_edit_title"
-msgstr ""
+msgstr "Խմբագրել կոնտակտը"
 
 msgid "addr_ti_newedit_new_title"
-msgstr ""
+msgstr "Նոր կոնտակտ"
 
 msgid "addr_ti_request_author"
-msgstr ""
+msgstr "%s Նոյնականացման յայց"
 
 msgid "addr_ti_search_exchange_contacts"
-msgstr ""
+msgstr "Փնտրել Mail Exch. կոնտակտների մէջ"
 
 msgid "addr_ti_sel_contact"
-msgstr ""
+msgstr "Ընտրել կոնտակտ"
 
 msgid "addr_ti_select_avatar"
-msgstr ""
+msgstr "Ընտրել նկար"
 
 msgid "addr_ti_select_contact_detail"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի մանրամասն տեղեկութիւնը"
 
 msgid "addr_ti_select_picture_title"
-msgstr ""
+msgstr "Ընտրել նկար"
 
 msgid "addr_ti_send_card"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի քարտը"
 
 msgid "addr_ti_send_card_detail"
-msgstr ""
+msgstr "Ուղարկել կոնտակտի մասին տեղեկութիւնը"
 
 msgid "addr_ti_settings2"
-msgstr ""
+msgstr "Կարգաւորումներ"
 
 msgid "addr_ti_solve_conflict"
-msgstr ""
+msgstr "Ուղղել միաւորման կոնֆլիկտները"
 
 msgid "addr_ti_view_select_contacts"
-msgstr ""
+msgstr "Ընտրել կոնտակտներ"
 
 msgid "addr_ti_voicemail_contact_title"
-msgstr ""
+msgstr "Ձայնային փոստ"
 
 msgid "addr_va_add_field_address"
-msgstr ""
+msgstr "Հասցէ"
 
 msgid "addr_va_add_field_address_home"
-msgstr ""
+msgstr "Հասցէ (տուն)"
 
 msgid "addr_va_add_field_address_work"
-msgstr ""
+msgstr "Հասցէ (աշխատավայր)"
 
 msgid "addr_va_add_field_birthday"
-msgstr ""
+msgstr "Ծննդեան օր"
 
 msgid "addr_va_add_field_chat_googletalk"
-msgstr ""
+msgstr "Գուգլ Թըլքի օգտանուն"
 
 msgid "addr_va_add_field_chat_jabber"
-msgstr ""
+msgstr "Ջաբեր օգտանուն"
 
 msgid "addr_va_add_field_chat_nokiachat"
-msgstr ""
+msgstr "Նոկիայի օգտանուն"
 
 msgid "addr_va_add_field_chat_sip"
-msgstr ""
+msgstr "SIP օգտանուն"
 
 msgid "addr_va_add_field_chat_skype"
-msgstr ""
+msgstr "Սքայփի օգտանուն"
 
 msgid "addr_va_add_field_company"
-msgstr ""
+msgstr "Ընկերութիւն"
 
 msgid "addr_va_add_field_email"
-msgstr ""
+msgstr "Էլ․ փոստ"
 
 msgid "addr_va_add_field_email_home"
-msgstr ""
+msgstr "Էլ․ փոստ (տուն)"
 
 msgid "addr_va_add_field_email_work"
-msgstr ""
+msgstr "Էլ․ փոստ (աշխատանք)"
 
 msgid "addr_va_add_field_gender"
-msgstr ""
+msgstr "Սեռ"
 
 msgid "addr_va_add_field_mobile"
-msgstr ""
+msgstr "Շարժական"
 
 msgid "addr_va_add_field_mobile_home"
-msgstr ""
+msgstr "Շարժական (տուն)"
 
 msgid "addr_va_add_field_mobile_work"
-msgstr ""
+msgstr "Շարժական (աշխատանք)"
 
 msgid "addr_va_add_field_nickname"
-msgstr ""
+msgstr "Մականուն"
 
 msgid "addr_va_add_field_note"
-msgstr ""
+msgstr "Նշում"
 
 msgid "addr_va_add_field_phone"
-msgstr ""
+msgstr "Հեռախօս"
 
 msgid "addr_va_add_field_phone_fax"
-msgstr ""
+msgstr "Ֆաքս"
 
 msgid "addr_va_add_field_phone_home"
-msgstr ""
+msgstr "Հեռախօս (տուն)"
 
 msgid "addr_va_add_field_phone_work"
-msgstr ""
+msgstr "Հեռախօս (աշխատանք)"
 
 msgid "addr_va_add_field_title"
-msgstr ""
+msgstr "Պաշտօն"
 
 msgid "addr_va_add_field_webpage"
-msgstr ""
+msgstr "Վեբ էջ"
 
 msgid "addr_va_emergency_number"
-msgstr ""
+msgstr "Արտակարգ իրավիճակի համար"
 
 msgid "addr_va_export_wiz_st3_name_def"
-msgstr ""
+msgstr "Արտածուած կոնտակտներ"
 
 msgid "addr_va_firstname"
-msgstr ""
+msgstr "Անուն Ազգանուն"
 
 msgid "addr_va_general_female"
-msgstr ""
+msgstr "Կին"
 
 msgid "addr_va_general_male"
-msgstr ""
+msgstr "Տղամարդ"
 
 msgid "addr_va_general_undefined"
-msgstr ""
+msgstr "Չսահմանուած"
 
 msgid "addr_va_groups_imgrp"
-msgstr ""
+msgstr "%s"
 
 msgid "addr_va_groups_simcard"
-msgstr ""
+msgstr "SIM քարտի կոնտակտներ"
 
 msgid "addr_va_groups_sip"
-msgstr ""
+msgstr "SIP"
 
 msgid "addr_va_lastname"
-msgstr ""
+msgstr "Ազգանուն Անուն"
 
 msgid "addr_va_lastname_comma"
-msgstr ""
+msgstr "Ազգանուն, Անուն"
 
 msgid "addr_va_newedit_address_general"
-msgstr ""
+msgstr "ընդհանուր"
 
 msgid "addr_va_newedit_address_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_va_newedit_address_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_va_newedit_email_general"
-msgstr ""
+msgstr "ընդհանուր"
 
 msgid "addr_va_newedit_email_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_va_newedit_email_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_va_newedit_mobile_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_va_newedit_mobile_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_va_newedit_phone_fax"
-msgstr ""
+msgstr "ֆաքս"
 
 msgid "addr_va_newedit_phone_general"
-msgstr ""
+msgstr "ընդհանուր"
 
 msgid "addr_va_newedit_phone_home"
-msgstr ""
+msgstr "տուն"
 
 msgid "addr_va_newedit_phone_other"
-msgstr ""
+msgstr "չի աջակցւում"
 
 msgid "addr_va_newedit_phone_work"
-msgstr ""
+msgstr "աշխատավայր"
 
 msgid "addr_va_nickname"
-msgstr ""
+msgstr "Մականուն"
 
 msgid "addr_va_solve_conflict_birthday_set"
-msgstr ""
+msgstr "Ներմուծէք ծննդեան օրը"
