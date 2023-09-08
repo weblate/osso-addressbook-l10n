@@ -1,0 +1,1030 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-addressbook 20100208121228\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgid "addr_ap_address_book"
+msgstr ""
+
+msgid "addr_bd_browse"
+msgstr ""
+
+msgid "addr_bd_cont_starter_address"
+msgstr ""
+
+msgid "addr_bd_cont_starter_address_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_address_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_birthday"
+msgstr ""
+
+msgid "addr_bd_cont_starter_call"
+msgstr ""
+
+msgid "addr_bd_cont_starter_chat"
+msgstr ""
+
+msgid "addr_bd_cont_starter_email"
+msgstr ""
+
+msgid "addr_bd_cont_starter_email_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_email_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_location"
+msgstr ""
+
+msgid "addr_bd_cont_starter_mobile"
+msgstr ""
+
+msgid "addr_bd_cont_starter_mobile_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_mobile_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_phone"
+msgstr ""
+
+msgid "addr_bd_cont_starter_phone_fax"
+msgstr ""
+
+msgid "addr_bd_cont_starter_phone_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_phone_other"
+msgstr ""
+
+msgid "addr_bd_cont_starter_phone_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sip_audio"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sip_out"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sip_out_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sip_out_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sip_video"
+msgstr ""
+
+msgid "addr_bd_cont_starter_skypeout"
+msgstr ""
+
+msgid "addr_bd_cont_starter_skypeout_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_skypeout_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sms"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sms_home"
+msgstr ""
+
+msgid "addr_bd_cont_starter_sms_work"
+msgstr ""
+
+msgid "addr_bd_cont_starter_video_call"
+msgstr ""
+
+msgid "addr_bd_cont_starter_webpage"
+msgstr ""
+
+msgid "addr_bd_copy_sim"
+msgstr ""
+
+msgid "addr_bd_delete_locally"
+msgstr ""
+
+msgid "addr_bd_get_contacts_file"
+msgstr ""
+
+msgid "addr_bd_get_contacts_im_account"
+msgstr ""
+
+msgid "addr_bd_get_contacts_sim_card"
+msgstr ""
+
+msgid "addr_bd_get_contacts_sync"
+msgstr ""
+
+msgid "addr_bd_get_from_file"
+msgstr ""
+
+msgid "addr_bd_get_from_folder"
+msgstr ""
+
+msgid "addr_bd_import"
+msgstr ""
+
+msgid "addr_bd_import_exchange_contacts"
+msgstr ""
+
+msgid "addr_bd_newedit_addfield"
+msgstr ""
+
+msgid "addr_bd_newedit_address"
+msgstr ""
+
+msgid "addr_bd_newedit_address_country"
+msgstr ""
+
+msgid "addr_bd_newedit_birthday"
+msgstr ""
+
+msgid "addr_bd_newedit_email"
+msgstr ""
+
+msgid "addr_bd_newedit_gender"
+msgstr ""
+
+msgid "addr_bd_newedit_phone"
+msgstr ""
+
+msgid "addr_bd_newedit_phone_mobile"
+msgstr ""
+
+msgid "addr_bd_newedit_removefield"
+msgstr ""
+
+msgid "addr_bd_send_card_bluetooth"
+msgstr ""
+
+msgid "addr_bd_send_card_email"
+msgstr ""
+
+msgid "addr_bd_send_card_sms"
+msgstr ""
+
+msgid "addr_bd_temporary_add"
+msgstr ""
+
+msgid "addr_bd_temporary_call"
+msgstr ""
+
+msgid "addr_bd_temporary_chat"
+msgstr ""
+
+msgid "addr_bd_temporary_new"
+msgstr ""
+
+msgid "addr_bd_temporary_sip"
+msgstr ""
+
+msgid "addr_bd_temporary_sipaudio"
+msgstr ""
+
+msgid "addr_bd_temporary_sipvideo"
+msgstr ""
+
+msgid "addr_bd_temporary_skypecall"
+msgstr ""
+
+msgid "addr_bd_temporary_skypechat"
+msgstr ""
+
+msgid "addr_bd_temporary_skypeout"
+msgstr ""
+
+msgid "addr_bd_temporary_sms"
+msgstr ""
+
+msgid "addr_bd_va_newedit_address_country"
+msgstr ""
+
+msgid "addr_bd_voicemail"
+msgstr ""
+
+msgid "addr_fi_cont_starter_company"
+msgstr ""
+
+msgid "addr_fi_cont_starter_gender"
+msgstr ""
+
+msgid "addr_fi_cont_starter_nickname"
+msgstr ""
+
+msgid "addr_fi_cont_starter_note"
+msgstr ""
+
+msgid "addr_fi_cont_starter_title"
+msgstr ""
+
+msgid "addr_fi_display_sms_only_for_mobile"
+msgstr ""
+
+msgid "addr_fi_display_video_calling_options"
+msgstr ""
+
+msgid "addr_fi_displayname"
+msgstr ""
+
+msgid "addr_fi_export_wiz_st1a_all"
+msgstr ""
+
+msgid "addr_fi_export_wiz_st1a_format"
+msgstr ""
+
+msgid "addr_fi_export_wiz_st1a_selected"
+msgstr ""
+
+msgid "addr_fi_export_wiz_st2_format"
+msgstr ""
+
+msgid "addr_fi_export_wiz_st3_location"
+msgstr ""
+
+msgid "addr_fi_export_wiz_st3_name_folder"
+msgstr ""
+
+msgid "addr_fi_mecard_address"
+msgstr ""
+
+msgid "addr_fi_mecard_address_home"
+msgstr ""
+
+msgid "addr_fi_mecard_address_work"
+msgstr ""
+
+msgid "addr_fi_mecard_birthday"
+msgstr ""
+
+msgid "addr_fi_mecard_chat_googletalk"
+msgstr ""
+
+msgid "addr_fi_mecard_chat_jabber"
+msgstr ""
+
+msgid "addr_fi_mecard_chat_nokiachat"
+msgstr ""
+
+msgid "addr_fi_mecard_chat_sip"
+msgstr ""
+
+msgid "addr_fi_mecard_chat_skype"
+msgstr ""
+
+msgid "addr_fi_mecard_company"
+msgstr ""
+
+msgid "addr_fi_mecard_email"
+msgstr ""
+
+msgid "addr_fi_mecard_email_home"
+msgstr ""
+
+msgid "addr_fi_mecard_email_work"
+msgstr ""
+
+msgid "addr_fi_mecard_gender"
+msgstr ""
+
+msgid "addr_fi_mecard_mobile"
+msgstr ""
+
+msgid "addr_fi_mecard_mobile_home"
+msgstr ""
+
+msgid "addr_fi_mecard_mobile_work"
+msgstr ""
+
+msgid "addr_fi_mecard_name"
+msgstr ""
+
+msgid "addr_fi_mecard_nickname"
+msgstr ""
+
+msgid "addr_fi_mecard_note"
+msgstr ""
+
+msgid "addr_fi_mecard_phone"
+msgstr ""
+
+msgid "addr_fi_mecard_phone_fax"
+msgstr ""
+
+msgid "addr_fi_mecard_phone_home"
+msgstr ""
+
+msgid "addr_fi_mecard_phone_work"
+msgstr ""
+
+msgid "addr_fi_mecard_title"
+msgstr ""
+
+msgid "addr_fi_mecard_webpage"
+msgstr ""
+
+msgid "addr_fi_newedit_address_city"
+msgstr ""
+
+msgid "addr_fi_newedit_address_extension"
+msgstr ""
+
+msgid "addr_fi_newedit_address_p_o_box"
+msgstr ""
+
+msgid "addr_fi_newedit_address_postal"
+msgstr ""
+
+msgid "addr_fi_newedit_address_region"
+msgstr ""
+
+msgid "addr_fi_newedit_address_street"
+msgstr ""
+
+msgid "addr_fi_newedit_company"
+msgstr ""
+
+msgid "addr_fi_newedit_first_name"
+msgstr ""
+
+msgid "addr_fi_newedit_gtalk_chat"
+msgstr ""
+
+msgid "addr_fi_newedit_jabber_chat"
+msgstr ""
+
+msgid "addr_fi_newedit_last_name"
+msgstr ""
+
+msgid "addr_fi_newedit_nickname"
+msgstr ""
+
+msgid "addr_fi_newedit_nokia_chat"
+msgstr ""
+
+msgid "addr_fi_newedit_note"
+msgstr ""
+
+msgid "addr_fi_newedit_sip_chat"
+msgstr ""
+
+msgid "addr_fi_newedit_skype_chat"
+msgstr ""
+
+msgid "addr_fi_newedit_title"
+msgstr ""
+
+msgid "addr_fi_newedit_webpage"
+msgstr ""
+
+msgid "addr_fi_search_find_toolbar"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_birthday"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_company"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_first"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_gender"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_last"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_nick"
+msgstr ""
+
+msgid "addr_fi_solve_conflict_title"
+msgstr ""
+
+msgid "addr_fi_voicemailbox"
+msgstr ""
+
+msgid "addr_ia_export_wiz_st1_msg"
+msgstr ""
+
+msgid "addr_ia_export_wiz_st4_msg_fail"
+msgstr ""
+
+msgid "addr_ia_export_wiz_st4_msg_folder"
+msgstr ""
+
+msgid "addr_ia_export_wiz_st4_msg_memfail"
+msgstr ""
+
+msgid "addr_ia_export_wiz_st4_msg_storefail"
+msgstr ""
+
+msgid "addr_ia_no_contacts"
+msgstr ""
+
+msgid "addr_ia_no_details"
+msgstr ""
+
+msgid "addr_ia_request_author_text1"
+msgstr ""
+
+msgid "addr_ia_search_not_found"
+msgstr ""
+
+msgid "addr_ib_cannot_load_picture"
+msgstr ""
+
+msgid "addr_ib_cannot_show_contact"
+msgstr ""
+
+msgid "addr_ib_contact_is_offline"
+msgstr ""
+
+msgid "addr_ib_contact_not_selectable"
+msgstr ""
+
+msgid "addr_ib_disc_full"
+msgstr ""
+
+msgid "addr_ib_field_amount_limited"
+msgstr ""
+
+msgid "addr_ib_file_name_empty"
+msgstr ""
+
+msgid "addr_ib_imported_partially_many_s_f"
+msgstr ""
+
+msgid "addr_ib_imported_partially_one_f"
+msgstr ""
+
+msgid "addr_ib_imported_partially_one_s"
+msgstr ""
+
+msgid "addr_ib_imported_successfully"
+msgstr ""
+
+msgid "addr_ib_imported_successfully_plural"
+msgstr ""
+
+msgid "addr_ib_imported_zero_contacts"
+msgstr ""
+
+msgid "addr_ib_invalid_username_call"
+msgstr ""
+
+msgid "addr_ib_invalid_username_chat"
+msgstr ""
+
+msgid "addr_ib_maps_failed"
+msgstr ""
+
+msgid "addr_ib_maps_server_timeout"
+msgstr ""
+
+msgid "addr_ib_no_name_given"
+msgstr ""
+
+msgid "addr_ib_not_available"
+msgstr ""
+
+msgid "addr_ib_not_enough_memory"
+msgstr ""
+
+msgid "addr_ib_permission_denied"
+msgstr ""
+
+msgid "addr_ib_request_author_resend"
+msgstr ""
+
+msgid "addr_ib_searching"
+msgstr ""
+
+msgid "addr_ib_shortcut_created"
+msgstr ""
+
+msgid "addr_ib_system_error"
+msgstr ""
+
+msgid "addr_ib_unable_to_save"
+msgstr ""
+
+msgid "addr_ib_undefined_error"
+msgstr ""
+
+msgid "addr_ib_unknown_number"
+msgstr ""
+
+msgid "addr_li_alpha_0"
+msgstr ""
+
+msgid "addr_li_alpha_00"
+msgstr ""
+
+msgid "addr_li_alpha_1"
+msgstr ""
+
+msgid "addr_li_alpha_11"
+msgstr ""
+
+msgid "addr_li_alpha_2"
+msgstr ""
+
+msgid "addr_li_alpha_22"
+msgstr ""
+
+msgid "addr_li_alpha_3"
+msgstr ""
+
+msgid "addr_li_alpha_33"
+msgstr ""
+
+msgid "addr_li_alpha_4"
+msgstr ""
+
+msgid "addr_li_alpha_44"
+msgstr ""
+
+msgid "addr_li_alpha_5"
+msgstr ""
+
+msgid "addr_li_alpha_55"
+msgstr ""
+
+msgid "addr_li_alpha_6"
+msgstr ""
+
+msgid "addr_li_alpha_66"
+msgstr ""
+
+msgid "addr_li_alpha_7"
+msgstr ""
+
+msgid "addr_li_alpha_77"
+msgstr ""
+
+msgid "addr_li_alpha_8"
+msgstr ""
+
+msgid "addr_li_alpha_88"
+msgstr ""
+
+msgid "addr_li_export_wiz_st2_format_vcard"
+msgstr ""
+
+msgid "addr_li_export_wiz_st2_format_vcard_3"
+msgstr ""
+
+msgid "addr_li_sel_contact_none"
+msgstr ""
+
+msgid "addr_li_select_picture_none"
+msgstr ""
+
+msgid "addr_li_unnamed_contact"
+msgstr ""
+
+msgid "addr_me_abc"
+msgstr ""
+
+msgid "addr_me_accounts"
+msgstr ""
+
+msgid "addr_me_communication_history"
+msgstr ""
+
+msgid "addr_me_copy_to_contacts"
+msgstr ""
+
+msgid "addr_me_create_shortcut"
+msgstr ""
+
+msgid "addr_me_cs_addtocontacts"
+msgstr ""
+
+msgid "addr_me_edit_contact"
+msgstr ""
+
+msgid "addr_me_editmyinfo"
+msgstr ""
+
+msgid "addr_me_email"
+msgstr ""
+
+msgid "addr_me_export"
+msgstr ""
+
+msgid "addr_me_groups"
+msgstr ""
+
+msgid "addr_me_imaccounts"
+msgstr ""
+
+msgid "addr_me_import"
+msgstr ""
+
+msgid "addr_me_importall"
+msgstr ""
+
+msgid "addr_me_importsel"
+msgstr ""
+
+msgid "addr_me_mecard"
+msgstr ""
+
+msgid "addr_me_merge_contact"
+msgstr ""
+
+msgid "addr_me_new_contact"
+msgstr ""
+
+msgid "addr_me_recent"
+msgstr ""
+
+msgid "addr_me_remove_contact"
+msgstr ""
+
+msgid "addr_me_remove_contacts"
+msgstr ""
+
+msgid "addr_me_request_author"
+msgstr ""
+
+msgid "addr_me_send_card"
+msgstr ""
+
+msgid "addr_me_send_detail"
+msgstr ""
+
+msgid "addr_me_sendmycard"
+msgstr ""
+
+msgid "addr_me_sendmydetail"
+msgstr ""
+
+msgid "addr_me_settings"
+msgstr ""
+
+msgid "addr_me_status"
+msgstr ""
+
+msgid "addr_nc_delete_all_locally"
+msgstr ""
+
+msgid "addr_nc_delete_field"
+msgstr ""
+
+msgid "addr_nc_delete_fields"
+msgstr ""
+
+msgid "addr_nc_delete_im_username_field"
+msgstr ""
+
+msgid "addr_nc_delete_im_username_fields"
+msgstr ""
+
+msgid "addr_nc_delete_im_username_fields_several_services"
+msgstr ""
+
+msgid "addr_nc_notification14"
+msgstr ""
+
+msgid "addr_nc_notification15"
+msgstr ""
+
+msgid "addr_nc_notification16"
+msgstr ""
+
+msgid "addr_nc_notification19"
+msgstr ""
+
+msgid "addr_nc_notification7"
+msgstr ""
+
+msgid "addr_nc_notification_im_username"
+msgstr ""
+
+msgid "addr_nc_notification_im_username_multiple"
+msgstr ""
+
+msgid "addr_nc_notification_im_username_multiple_several_services"
+msgstr ""
+
+msgid "addr_nc_notification_im_username_several_services"
+msgstr ""
+
+msgid "addr_nc_send_avatar"
+msgstr ""
+
+msgid "addr_ni_importing_fail"
+msgstr ""
+
+msgid "addr_ni_importing_fail_format"
+msgstr ""
+
+msgid "addr_ni_importing_fail_mem"
+msgstr ""
+
+msgid "addr_ni_importing_fail_size"
+msgstr ""
+
+msgid "addr_ni_internal_error"
+msgstr ""
+
+msgid "addr_pb_exporting_contacts"
+msgstr ""
+
+msgid "addr_pb_importing_contacts"
+msgstr ""
+
+msgid "addr_pb_load_contacts"
+msgstr ""
+
+msgid "addr_pb_notification13"
+msgstr ""
+
+msgid "addr_pb_searching_contacts"
+msgstr ""
+
+msgid "addr_ti_add_field_title"
+msgstr ""
+
+msgid "addr_ti_choose_own_account_bind"
+msgstr ""
+
+msgid "addr_ti_choose_own_account_chat"
+msgstr ""
+
+msgid "addr_ti_choose_own_account_voip"
+msgstr ""
+
+msgid "addr_ti_crop_avatar_title"
+msgstr ""
+
+msgid "addr_ti_delete_field"
+msgstr ""
+
+msgid "addr_ti_dia_select_contacts"
+msgstr ""
+
+msgid "addr_ti_export_wiz_st1"
+msgstr ""
+
+msgid "addr_ti_export_wiz_st1a"
+msgstr ""
+
+msgid "addr_ti_export_wiz_st2"
+msgstr ""
+
+msgid "addr_ti_export_wiz_st3_folder"
+msgstr ""
+
+msgid "addr_ti_export_wiz_st4"
+msgstr ""
+
+msgid "addr_ti_export_wiz_st4_fail"
+msgstr ""
+
+msgid "addr_ti_get_contacts"
+msgstr ""
+
+msgid "addr_ti_groups_title"
+msgstr ""
+
+msgid "addr_ti_import_contact_folder_title"
+msgstr ""
+
+msgid "addr_ti_import_contact_title"
+msgstr ""
+
+msgid "addr_ti_import_contacts"
+msgstr ""
+
+msgid "addr_ti_main_view"
+msgstr ""
+
+msgid "addr_ti_main_view_loading"
+msgstr ""
+
+msgid "addr_ti_main_view_recent"
+msgstr ""
+
+msgid "addr_ti_mecard_title"
+msgstr ""
+
+msgid "addr_ti_mecard_title_add_my_information"
+msgstr ""
+
+msgid "addr_ti_merge_contacts"
+msgstr ""
+
+msgid "addr_ti_newedit_edit_my_information_title"
+msgstr ""
+
+msgid "addr_ti_newedit_edit_title"
+msgstr ""
+
+msgid "addr_ti_newedit_new_title"
+msgstr ""
+
+msgid "addr_ti_request_author"
+msgstr ""
+
+msgid "addr_ti_search_exchange_contacts"
+msgstr ""
+
+msgid "addr_ti_sel_contact"
+msgstr ""
+
+msgid "addr_ti_select_avatar"
+msgstr ""
+
+msgid "addr_ti_select_contact_detail"
+msgstr ""
+
+msgid "addr_ti_select_picture_title"
+msgstr ""
+
+msgid "addr_ti_send_card"
+msgstr ""
+
+msgid "addr_ti_send_card_detail"
+msgstr ""
+
+msgid "addr_ti_settings2"
+msgstr ""
+
+msgid "addr_ti_solve_conflict"
+msgstr ""
+
+msgid "addr_ti_view_select_contacts"
+msgstr ""
+
+msgid "addr_ti_voicemail_contact_title"
+msgstr ""
+
+msgid "addr_va_add_field_address"
+msgstr ""
+
+msgid "addr_va_add_field_address_home"
+msgstr ""
+
+msgid "addr_va_add_field_address_work"
+msgstr ""
+
+msgid "addr_va_add_field_birthday"
+msgstr ""
+
+msgid "addr_va_add_field_chat_googletalk"
+msgstr ""
+
+msgid "addr_va_add_field_chat_jabber"
+msgstr ""
+
+msgid "addr_va_add_field_chat_nokiachat"
+msgstr ""
+
+msgid "addr_va_add_field_chat_sip"
+msgstr ""
+
+msgid "addr_va_add_field_chat_skype"
+msgstr ""
+
+msgid "addr_va_add_field_company"
+msgstr ""
+
+msgid "addr_va_add_field_email"
+msgstr ""
+
+msgid "addr_va_add_field_email_home"
+msgstr ""
+
+msgid "addr_va_add_field_email_work"
+msgstr ""
+
+msgid "addr_va_add_field_gender"
+msgstr ""
+
+msgid "addr_va_add_field_mobile"
+msgstr ""
+
+msgid "addr_va_add_field_mobile_home"
+msgstr ""
+
+msgid "addr_va_add_field_mobile_work"
+msgstr ""
+
+msgid "addr_va_add_field_nickname"
+msgstr ""
+
+msgid "addr_va_add_field_note"
+msgstr ""
+
+msgid "addr_va_add_field_phone"
+msgstr ""
+
+msgid "addr_va_add_field_phone_fax"
+msgstr ""
+
+msgid "addr_va_add_field_phone_home"
+msgstr ""
+
+msgid "addr_va_add_field_phone_work"
+msgstr ""
+
+msgid "addr_va_add_field_title"
+msgstr ""
+
+msgid "addr_va_add_field_webpage"
+msgstr ""
+
+msgid "addr_va_emergency_number"
+msgstr ""
+
+msgid "addr_va_export_wiz_st3_name_def"
+msgstr ""
+
+msgid "addr_va_firstname"
+msgstr ""
+
+msgid "addr_va_general_female"
+msgstr ""
+
+msgid "addr_va_general_male"
+msgstr ""
+
+msgid "addr_va_general_undefined"
+msgstr ""
+
+msgid "addr_va_groups_imgrp"
+msgstr ""
+
+msgid "addr_va_groups_simcard"
+msgstr ""
+
+msgid "addr_va_groups_sip"
+msgstr ""
+
+msgid "addr_va_lastname"
+msgstr ""
+
+msgid "addr_va_lastname_comma"
+msgstr ""
+
+msgid "addr_va_newedit_address_general"
+msgstr ""
+
+msgid "addr_va_newedit_address_home"
+msgstr ""
+
+msgid "addr_va_newedit_address_work"
+msgstr ""
+
+msgid "addr_va_newedit_email_general"
+msgstr ""
+
+msgid "addr_va_newedit_email_home"
+msgstr ""
+
+msgid "addr_va_newedit_email_work"
+msgstr ""
+
+msgid "addr_va_newedit_mobile_home"
+msgstr ""
+
+msgid "addr_va_newedit_mobile_work"
+msgstr ""
+
+msgid "addr_va_newedit_phone_fax"
+msgstr ""
+
+msgid "addr_va_newedit_phone_general"
+msgstr ""
+
+msgid "addr_va_newedit_phone_home"
+msgstr ""
+
+msgid "addr_va_newedit_phone_other"
+msgstr ""
+
+msgid "addr_va_newedit_phone_work"
+msgstr ""
+
+msgid "addr_va_nickname"
+msgstr ""
+
+msgid "addr_va_solve_conflict_birthday_set"
+msgstr ""
