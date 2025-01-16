@@ -3,1028 +3,1089 @@ msgstr ""
 "Project-Id-Version: osso-addressbook 20100208121228\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
-"PO-Revision-Date: 2010.02.08 12:12+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-17 17:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-addressbook-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "addr_ap_address_book"
-msgstr ""
+msgstr "தொடர்புகள்"
 
 msgid "addr_bd_browse"
-msgstr ""
+msgstr "உலாவு"
 
 msgid "addr_bd_cont_starter_address"
-msgstr ""
+msgstr "முகவரி"
 
 msgid "addr_bd_cont_starter_address_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_address_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_birthday"
-msgstr ""
+msgstr "பிறந்த நாள்"
 
 msgid "addr_bd_cont_starter_call"
-msgstr ""
+msgstr "%s அழைப்பு"
 
 msgid "addr_bd_cont_starter_chat"
-msgstr ""
+msgstr "%s im"
 
 msgid "addr_bd_cont_starter_email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "addr_bd_cont_starter_email_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_email_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_location"
-msgstr ""
+msgstr "இடம்"
 
 msgid "addr_bd_cont_starter_mobile"
-msgstr ""
+msgstr "மொபைல்"
 
 msgid "addr_bd_cont_starter_mobile_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_mobile_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_phone"
-msgstr ""
+msgstr "தொலைபேசி"
 
 msgid "addr_bd_cont_starter_phone_fax"
-msgstr ""
+msgstr "தொலைநகல்"
 
 msgid "addr_bd_cont_starter_phone_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_phone_other"
-msgstr ""
+msgstr "மற்றொன்று"
 
 msgid "addr_bd_cont_starter_phone_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_sip_audio"
-msgstr ""
+msgstr "சிப் ஆடியோ"
 
 msgid "addr_bd_cont_starter_sip_out"
-msgstr ""
+msgstr "சிப்"
 
 msgid "addr_bd_cont_starter_sip_out_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_sip_out_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_sip_video"
-msgstr ""
+msgstr "சிப் வீடியோ"
 
 msgid "addr_bd_cont_starter_skypeout"
-msgstr ""
+msgstr "ச்கைப்புடன் அழைக்கவும்"
 
 msgid "addr_bd_cont_starter_skypeout_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_skypeout_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_sms"
-msgstr ""
+msgstr "எச்.எம்.எச்"
 
 msgid "addr_bd_cont_starter_sms_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_bd_cont_starter_sms_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_bd_cont_starter_video_call"
-msgstr ""
+msgstr "%s வீடியோ அழைப்பு"
 
 msgid "addr_bd_cont_starter_webpage"
-msgstr ""
+msgstr "வலைப்பக்கம்"
 
 msgid "addr_bd_copy_sim"
-msgstr ""
+msgstr "நகலெடு"
 
 msgid "addr_bd_delete_locally"
-msgstr ""
+msgstr "சாதனத்திலிருந்து அனைத்து தொடர்புகளையும் நீக்கவும்"
 
 msgid "addr_bd_get_contacts_file"
-msgstr ""
+msgstr "தொடர்புகளை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_bd_get_contacts_im_account"
-msgstr ""
+msgstr "புதிய கணக்கிலிருந்து தொடர்புகளை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_bd_get_contacts_sim_card"
-msgstr ""
+msgstr "சிம் கார்டிலிருந்து நகலெடுக்கவும்"
 
 msgid "addr_bd_get_contacts_sync"
-msgstr ""
+msgstr "மற்ற சாதனங்களிலிருந்து ஒத்திசைக்கவும்"
 
 msgid "addr_bd_get_from_file"
-msgstr ""
+msgstr "தொடர்புகள் கோப்பை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_bd_get_from_folder"
-msgstr ""
+msgstr "தொடர்புகள் கோப்புறையை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_bd_import"
-msgstr ""
+msgstr "இறக்குமதி"
 
 msgid "addr_bd_import_exchange_contacts"
-msgstr ""
+msgstr "இறக்குமதி அஞ்சல் பரிமாற்றம். தொடர்புகள்"
 
 msgid "addr_bd_newedit_addfield"
-msgstr ""
+msgstr "புலத்தைச் சேர்க்கவும்"
 
 msgid "addr_bd_newedit_address"
-msgstr ""
+msgstr "முகவரி"
 
 msgid "addr_bd_newedit_address_country"
-msgstr ""
+msgstr "பகுதி"
 
 msgid "addr_bd_newedit_birthday"
-msgstr ""
+msgstr "பிறந்த நாள்"
 
 msgid "addr_bd_newedit_email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "addr_bd_newedit_gender"
-msgstr ""
+msgstr "பாலினம்"
 
 msgid "addr_bd_newedit_phone"
-msgstr ""
+msgstr "தொலைபேசி"
 
 msgid "addr_bd_newedit_phone_mobile"
-msgstr ""
+msgstr "மொபைல்"
 
 msgid "addr_bd_newedit_removefield"
-msgstr ""
+msgstr "புலங்களை நீக்கு"
 
 msgid "addr_bd_send_card_bluetooth"
-msgstr ""
+msgstr "ஊடலை"
 
 msgid "addr_bd_send_card_email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "addr_bd_send_card_sms"
-msgstr ""
+msgstr "எச்.எம்.எச்"
 
 msgid "addr_bd_temporary_add"
-msgstr ""
+msgstr "தொடர்புடன் ஒன்றிணைக்கவும்"
 
 msgid "addr_bd_temporary_call"
-msgstr ""
+msgstr "அழைப்பு"
 
 msgid "addr_bd_temporary_chat"
-msgstr ""
+msgstr "உடனடி செய்தி"
 
 msgid "addr_bd_temporary_new"
-msgstr ""
+msgstr "புதிய தொடர்பு"
 
 msgid "addr_bd_temporary_sip"
-msgstr ""
+msgstr "சிப்"
 
 msgid "addr_bd_temporary_sipaudio"
-msgstr ""
+msgstr "சிப் ஆடியோ"
 
 msgid "addr_bd_temporary_sipvideo"
-msgstr ""
+msgstr "சிப் வீடியோ"
 
 msgid "addr_bd_temporary_skypecall"
-msgstr ""
+msgstr "ச்கைப் அழைப்பு"
 
 msgid "addr_bd_temporary_skypechat"
-msgstr ""
+msgstr "ச்கைப் அரட்டை"
 
 msgid "addr_bd_temporary_skypeout"
-msgstr ""
+msgstr "ச்கைப்புடன் அழைக்கவும்"
 
 msgid "addr_bd_temporary_sms"
-msgstr ""
+msgstr "எச்.எம்.எச்"
 
 msgid "addr_bd_va_newedit_address_country"
-msgstr ""
+msgstr "%s"
 
 msgid "addr_bd_voicemail"
-msgstr ""
+msgstr "குரல் அஞ்சல் எண்"
 
 msgid "addr_fi_cont_starter_company"
-msgstr ""
+msgstr "நிறுவனம்"
 
 msgid "addr_fi_cont_starter_gender"
-msgstr ""
+msgstr "பாலினம்"
 
 msgid "addr_fi_cont_starter_nickname"
-msgstr ""
+msgstr "புனைப்பெயர்"
 
 msgid "addr_fi_cont_starter_note"
-msgstr ""
+msgstr "குறிப்பு"
 
 msgid "addr_fi_cont_starter_title"
-msgstr ""
+msgstr "வேலை தலைப்பு"
 
 msgid "addr_fi_display_sms_only_for_mobile"
-msgstr ""
+msgstr "மொபைல் எண்களுக்கு மட்டுமே எச்எம்எச் காண்பி"
 
 msgid "addr_fi_display_video_calling_options"
-msgstr ""
+msgstr "வீடியோ அழைப்பு விருப்பத்தைக் காண்பி"
 
 msgid "addr_fi_displayname"
-msgstr ""
+msgstr "பெயர்களைக் காண்பி"
 
 msgid "addr_fi_export_wiz_st1a_all"
-msgstr ""
+msgstr "அனைத்து தொடர்புகளும்"
 
 msgid "addr_fi_export_wiz_st1a_format"
-msgstr ""
+msgstr "ஏற்றுமதி:"
 
 msgid "addr_fi_export_wiz_st1a_selected"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட தொடர்புகள்"
 
 msgid "addr_fi_export_wiz_st2_format"
-msgstr ""
+msgstr "ஏற்றுமதி:"
 
 msgid "addr_fi_export_wiz_st3_location"
-msgstr ""
+msgstr "இடம்"
 
 msgid "addr_fi_export_wiz_st3_name_folder"
-msgstr ""
+msgstr "கோப்புறை பெயர்"
 
 msgid "addr_fi_mecard_address"
-msgstr ""
+msgstr "முகவரி"
 
 msgid "addr_fi_mecard_address_home"
-msgstr ""
+msgstr "முகவரி (வீடு)"
 
 msgid "addr_fi_mecard_address_work"
-msgstr ""
+msgstr "முகவரி (வேலை)"
 
 msgid "addr_fi_mecard_birthday"
-msgstr ""
+msgstr "பிறந்த நாள்"
 
 msgid "addr_fi_mecard_chat_googletalk"
-msgstr ""
+msgstr "கூகிள் பேச்சு பயனர் பெயர்"
 
 msgid "addr_fi_mecard_chat_jabber"
-msgstr ""
+msgstr "சாபர் பயனர் பெயர்"
 
 msgid "addr_fi_mecard_chat_nokiachat"
-msgstr ""
+msgstr "நோக்கியா பயனர் பெயர்"
 
 msgid "addr_fi_mecard_chat_sip"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "addr_fi_mecard_chat_skype"
-msgstr ""
+msgstr "ச்கைப் பெயர்"
 
 msgid "addr_fi_mecard_company"
-msgstr ""
+msgstr "நிறுவனம்"
 
 msgid "addr_fi_mecard_email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "addr_fi_mecard_email_home"
-msgstr ""
+msgstr "மின்னஞ்சல் (வீடு)"
 
 msgid "addr_fi_mecard_email_work"
-msgstr ""
+msgstr "மின்னஞ்சல் (வேலை)"
 
 msgid "addr_fi_mecard_gender"
-msgstr ""
+msgstr "பாலினம்"
 
 msgid "addr_fi_mecard_mobile"
-msgstr ""
+msgstr "மொபைல்"
 
 msgid "addr_fi_mecard_mobile_home"
-msgstr ""
+msgstr "மொபைல் (வீடு)"
 
 msgid "addr_fi_mecard_mobile_work"
-msgstr ""
+msgstr "மொபைல் (வேலை)"
 
 msgid "addr_fi_mecard_name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "addr_fi_mecard_nickname"
-msgstr ""
+msgstr "புனைப்பெயர்"
 
 msgid "addr_fi_mecard_note"
-msgstr ""
+msgstr "குறிப்பு"
 
 msgid "addr_fi_mecard_phone"
-msgstr ""
+msgstr "தொலைபேசி"
 
 msgid "addr_fi_mecard_phone_fax"
-msgstr ""
+msgstr "தொலைநகல்"
 
 msgid "addr_fi_mecard_phone_home"
-msgstr ""
+msgstr "தொலைபேசி (வீடு)"
 
 msgid "addr_fi_mecard_phone_work"
-msgstr ""
+msgstr "தொலைபேசி (வேலை)"
 
 msgid "addr_fi_mecard_title"
-msgstr ""
+msgstr "வேலை தலைப்பு"
 
 msgid "addr_fi_mecard_webpage"
-msgstr ""
+msgstr "வலைப்பக்கம்"
 
 msgid "addr_fi_newedit_address_city"
-msgstr ""
+msgstr "நகரம்"
 
 msgid "addr_fi_newedit_address_extension"
-msgstr ""
+msgstr "நீட்டிப்பு"
 
 msgid "addr_fi_newedit_address_p_o_box"
-msgstr ""
+msgstr "போ பெட்டி"
 
 msgid "addr_fi_newedit_address_postal"
-msgstr ""
+msgstr "அஞ்சல் குறியீடு"
 
 msgid "addr_fi_newedit_address_region"
-msgstr ""
+msgstr "மாநில/மாகாணம்"
 
 msgid "addr_fi_newedit_address_street"
-msgstr ""
+msgstr "தெரு"
 
 msgid "addr_fi_newedit_company"
-msgstr ""
+msgstr "நிறுவனம்"
 
 msgid "addr_fi_newedit_first_name"
-msgstr ""
+msgstr "முதல் பெயர்"
 
 msgid "addr_fi_newedit_gtalk_chat"
-msgstr ""
+msgstr "கூகிள் பேச்சு பயனர் பெயர்"
 
 msgid "addr_fi_newedit_jabber_chat"
-msgstr ""
+msgstr "சாபர் பயனர் பெயர்"
 
 msgid "addr_fi_newedit_last_name"
-msgstr ""
+msgstr "கடைசி பெயர்"
 
 msgid "addr_fi_newedit_nickname"
-msgstr ""
+msgstr "புனைப்பெயர்"
 
 msgid "addr_fi_newedit_nokia_chat"
-msgstr ""
+msgstr "நோக்கியா பயனர் பெயர்"
 
 msgid "addr_fi_newedit_note"
-msgstr ""
+msgstr "குறிப்பு"
 
 msgid "addr_fi_newedit_sip_chat"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "addr_fi_newedit_skype_chat"
-msgstr ""
+msgstr "ச்கைப் பெயர்"
 
 msgid "addr_fi_newedit_title"
-msgstr ""
+msgstr "வேலை தலைப்பு"
 
 msgid "addr_fi_newedit_webpage"
-msgstr ""
+msgstr "வலைப்பக்கம்"
 
 msgid "addr_fi_search_find_toolbar"
-msgstr ""
+msgstr "தேடல்"
 
 msgid "addr_fi_solve_conflict_birthday"
-msgstr ""
+msgstr "பிறந்த நாள்"
 
 msgid "addr_fi_solve_conflict_company"
-msgstr ""
+msgstr "நிறுவனம்"
 
 msgid "addr_fi_solve_conflict_first"
-msgstr ""
+msgstr "முதல் பெயர்"
 
 msgid "addr_fi_solve_conflict_gender"
-msgstr ""
+msgstr "பாலினம்"
 
 msgid "addr_fi_solve_conflict_last"
-msgstr ""
+msgstr "கடைசி பெயர்"
 
 msgid "addr_fi_solve_conflict_nick"
-msgstr ""
+msgstr "புனைப்பெயர்"
 
 msgid "addr_fi_solve_conflict_title"
-msgstr ""
+msgstr "வேலை தலைப்பு"
 
 msgid "addr_fi_voicemailbox"
-msgstr ""
+msgstr "குரல் அஞ்சல்"
 
 msgid "addr_ia_export_wiz_st1_msg"
 msgstr ""
+"ஏற்றுமதி தொடர்புகள் வழிகாட்டி உங்கள் தொடர்புகளை ஏற்றுமதி செய்ய உங்களை அனுமதிக்கிறது, "
+"எனவே அவற்றை பிற பயன்பாடுகளுக்கு மாற்றலாம்.\n"
+" தொடர 'அடுத்து' தட்டவும்."
 
 msgid "addr_ia_export_wiz_st4_msg_fail"
 msgstr ""
+"ஏற்றுமதி தொடர்புகள் தோல்வியடைந்தன.\n"
+" மீண்டும் முயற்சிக்க 'முந்தைய' என்பதைத் தட்டவும் அல்லது வழிகாட்டி மூடுவதற்கு வெளியே "
+"உரையாடலைத் தட்டவும்."
 
 msgid "addr_ia_export_wiz_st4_msg_folder"
 msgstr ""
+"ஏற்றுமதி தொடர்புகள் அமைப்பு முடிந்தது.\n"
+" தொடர்புகள் %s கோப்புறைக்கு ஏற்றுமதி செய்யப்பட்டுள்ளன.\n"
+" வழிகாட்டி வெளியேற 'பூச்சு' தட்டவும்."
 
 msgid "addr_ia_export_wiz_st4_msg_memfail"
 msgstr ""
+"ஏற்றுமதி தொடர்புகள் தோல்வியடைந்தன.\n"
+" போதுமான நினைவகம் இல்லை.\n"
+" மீண்டும் முயற்சிக்க 'முந்தைய' என்பதைத் தட்டவும் அல்லது வழிகாட்டி மூடுவதற்கு வெளியே "
+"உரையாடலைத் தட்டவும்."
 
 msgid "addr_ia_export_wiz_st4_msg_storefail"
 msgstr ""
+"ஏற்றுமதி தொடர்புகள் தோல்வியடைந்தன.\n"
+" இலக்கு இடத்தில் போதுமான நினைவகம் இல்லை.\n"
+" 'முந்தைய' என்பதைத் தட்டவும், மீண்டும் முயற்சிக்க மற்றொரு இருப்பிடத்தைத் தேர்ந்தெடுக்கவும் "
+"அல்லது வழிகாட்டி மூடுவதற்கு வெளியே உரையாடலைத் தட்டவும்."
 
 msgid "addr_ia_no_contacts"
-msgstr ""
+msgstr "(தொடர்புகள் இல்லை)"
 
 msgid "addr_ia_no_details"
-msgstr ""
+msgstr "(விவரங்கள் இல்லை)"
 
 msgid "addr_ia_request_author_text1"
-msgstr ""
+msgstr "உங்கள் கிடைக்கும் தன்மையைக் காண %s அங்கீகரிக்கவா?"
 
 msgid "addr_ia_search_not_found"
-msgstr ""
+msgstr "தொடர்புகள் எதுவும் கிடைக்கவில்லை"
 
 msgid "addr_ib_cannot_load_picture"
-msgstr ""
+msgstr "படத்தைத் திறக்க முடியவில்லை. அது சிதைக்கப்படலாம்."
 
 msgid "addr_ib_cannot_show_contact"
 msgstr ""
+"தொடர்பு தகவல்களைக் காட்ட முடியவில்லை. தொடர்பு நீக்கப்பட்டிருக்கலாம் அல்லது தொடர்புடன் IM "
+"கணக்கு அகற்றப்பட்டிருக்கலாம்."
 
 msgid "addr_ib_contact_is_offline"
-msgstr ""
+msgstr "அழைக்க முடியவில்லை. ஆஃப்லைனில் தொடர்பு கொள்ளவும்."
 
 msgid "addr_ib_contact_not_selectable"
 msgstr ""
+"தொடர்பைத் தேர்ந்தெடுக்க முடியவில்லை.\n"
+" சூழல் ஆதரிக்கப்படவில்லை."
 
 msgid "addr_ib_disc_full"
 msgstr ""
+"செயல்பாட்டைச் செய்ய முடியவில்லை.\n"
+" சாதன சேமிப்பு நிரம்பியுள்ளது."
 
 msgid "addr_ib_field_amount_limited"
-msgstr ""
+msgstr "புதிய புலத்தைச் சேர்க்க முடியவில்லை. அதிகபட்ச புலங்கள் அடைந்தன."
 
 msgid "addr_ib_file_name_empty"
-msgstr ""
+msgstr "முதலில் கோப்பு பெயரை உள்ளிடவும்"
 
 msgid "addr_ib_imported_partially_many_s_f"
-msgstr ""
+msgstr "இறக்குமதி செய்யப்பட்ட %d தொடர்புகள். %d தோல்வியுற்றது."
 
 msgid "addr_ib_imported_partially_one_f"
-msgstr ""
+msgstr "இறக்குமதி செய்யப்பட்ட %d தொடர்புகள். 1 தோல்வியுற்றது."
 
 msgid "addr_ib_imported_partially_one_s"
-msgstr ""
+msgstr "1 தொடர்பு இறக்குமதி செய்யப்பட்டது. %d தோல்வியுற்றது."
 
 msgid "addr_ib_imported_successfully"
-msgstr ""
+msgstr "இறக்குமதி செய்யப்பட்ட தொடர்பு"
 
 msgid "addr_ib_imported_successfully_plural"
-msgstr ""
+msgstr "இறக்குமதி செய்யப்பட்ட தொடர்புகள்"
 
 msgid "addr_ib_imported_zero_contacts"
-msgstr ""
+msgstr "தொடர்புகள் எதுவும் கிடைக்கவில்லை"
 
 msgid "addr_ib_invalid_username_call"
-msgstr ""
+msgstr "VoIP அழைப்பைத் தொடங்க முடியவில்லை. பயனர் பெயர் %s இல்லை."
 
 msgid "addr_ib_invalid_username_chat"
-msgstr ""
+msgstr "உடனடி செய்தியைத் தொடங்க முடியவில்லை. பயனர் பெயர் %s இல்லை."
 
 msgid "addr_ib_maps_failed"
-msgstr ""
+msgstr "வரைபடங்களைத் திறக்க முடியவில்லை. முகவரி தவறானது."
 
 msgid "addr_ib_maps_server_timeout"
-msgstr ""
+msgstr "வரைபடங்களைத் திறக்க முடியவில்லை. சேவையகம் பதிலளிக்கவில்லை."
 
 msgid "addr_ib_no_name_given"
-msgstr ""
+msgstr "தொடர்புக்கு பெயரை உள்ளிடவும்"
 
 msgid "addr_ib_not_available"
-msgstr ""
+msgstr "கிடைக்கவில்லை"
 
 msgid "addr_ib_not_enough_memory"
 msgstr ""
+"செயல்பாட்டைச் செய்ய முடியவில்லை.\n"
+" போதுமான நினைவகம் இல்லை."
 
 msgid "addr_ib_permission_denied"
 msgstr ""
+"செயல்பாட்டைச் செய்ய முடியவில்லை.\n"
+" இசைவு மறுக்கப்பட்டது."
 
 msgid "addr_ib_request_author_resend"
-msgstr ""
+msgstr "%s க்கு அங்கீகார கோரிக்கையை அனுப்புகிறது"
 
 msgid "addr_ib_searching"
-msgstr ""
+msgstr "தேடுகிறது"
 
 msgid "addr_ib_shortcut_created"
-msgstr ""
+msgstr "சார்ட்கட் டெச்க்டாப்பில் உருவாக்கப்பட்டது."
 
 msgid "addr_ib_system_error"
 msgstr ""
+"செயல்பாட்டைச் செய்ய முடியவில்லை.\n"
+" உள் பிழை."
 
 msgid "addr_ib_unable_to_save"
-msgstr ""
+msgstr "சேமிக்க முடியவில்லை"
 
 msgid "addr_ib_undefined_error"
-msgstr ""
+msgstr "வரையறுக்கப்படாத பிழை"
 
 msgid "addr_ib_unknown_number"
-msgstr ""
+msgstr "தெரியாத எண். தொடர்பு தகவல்களைக் காட்ட முடியவில்லை."
 
 msgid "addr_li_alpha_0"
-msgstr ""
+msgstr "0-9"
 
 msgid "addr_li_alpha_00"
-msgstr ""
+msgstr "0123456789"
 
 msgid "addr_li_alpha_1"
-msgstr ""
+msgstr "ஏபிசி"
 
 msgid "addr_li_alpha_11"
-msgstr ""
+msgstr "ஏபிசி"
 
 msgid "addr_li_alpha_2"
-msgstr ""
+msgstr "டெஃப்"
 
 msgid "addr_li_alpha_22"
-msgstr ""
+msgstr "டெஃப்"
 
 msgid "addr_li_alpha_3"
-msgstr ""
+msgstr "கவனத்தில் கொள்ளுங்கள்"
 
 msgid "addr_li_alpha_33"
-msgstr ""
+msgstr "கவனத்தில் கொள்ளுங்கள்"
 
 msgid "addr_li_alpha_4"
-msgstr ""
+msgstr "சல்லிகள்"
 
 msgid "addr_li_alpha_44"
-msgstr ""
+msgstr "சல்லிகள்"
 
 msgid "addr_li_alpha_5"
-msgstr ""
+msgstr "Mno"
 
 msgid "addr_li_alpha_55"
-msgstr ""
+msgstr "Mno"
 
 msgid "addr_li_alpha_6"
-msgstr ""
+msgstr "PQR"
 
 msgid "addr_li_alpha_66"
-msgstr ""
+msgstr "PQR"
 
 msgid "addr_li_alpha_7"
-msgstr ""
+msgstr "ச்டு"
 
 msgid "addr_li_alpha_77"
-msgstr ""
+msgstr "ச்டு"
 
 msgid "addr_li_alpha_8"
-msgstr ""
+msgstr "வி-இசட்"
 
 msgid "addr_li_alpha_88"
-msgstr ""
+msgstr "Vwxyz"
 
 msgid "addr_li_export_wiz_st2_format_vcard"
-msgstr ""
+msgstr "Vcard 2.1"
 
 msgid "addr_li_export_wiz_st2_format_vcard_3"
-msgstr ""
+msgstr "Vcard 3.0"
 
 msgid "addr_li_sel_contact_none"
-msgstr ""
+msgstr "(தொடர்புகள் இல்லை)"
 
 msgid "addr_li_select_picture_none"
-msgstr ""
+msgstr "(படங்கள் இல்லை)"
 
 msgid "addr_li_unnamed_contact"
-msgstr ""
+msgstr "பெயர் இல்லை"
 
 msgid "addr_me_abc"
-msgstr ""
+msgstr "ஏபிசி"
 
 msgid "addr_me_accounts"
-msgstr ""
+msgstr "கணக்குகள்"
 
 msgid "addr_me_communication_history"
-msgstr ""
+msgstr "தொடர்பு வரலாறு"
 
 msgid "addr_me_copy_to_contacts"
-msgstr ""
+msgstr "தொடர்புகளுக்கு நகலெடுக்கவும்"
 
 msgid "addr_me_create_shortcut"
-msgstr ""
+msgstr "குறுக்குவழியை உருவாக்கவும்"
 
 msgid "addr_me_cs_addtocontacts"
-msgstr ""
+msgstr "தொடர்புகளில் சேர்க்கவும்"
 
 msgid "addr_me_edit_contact"
-msgstr ""
+msgstr "தொகு"
 
 msgid "addr_me_editmyinfo"
-msgstr ""
+msgstr "தொகு"
 
 msgid "addr_me_email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "addr_me_export"
-msgstr ""
+msgstr "ஏற்றுமதி"
 
 msgid "addr_me_groups"
-msgstr ""
+msgstr "குழுக்கள்"
 
 msgid "addr_me_imaccounts"
-msgstr ""
+msgstr "VoIP மற்றும் IM கணக்குகள்"
 
 msgid "addr_me_import"
-msgstr ""
+msgstr "தொடர்புகளைப் பெறுங்கள்"
 
 msgid "addr_me_importall"
-msgstr ""
+msgstr "அனைத்து தொடர்புகளையும் நகலெடுக்கவும்"
 
 msgid "addr_me_importsel"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட தொடர்புகளை நகலெடுக்கவும்"
 
 msgid "addr_me_mecard"
-msgstr ""
+msgstr "எனது செய்தி"
 
 msgid "addr_me_merge_contact"
-msgstr ""
+msgstr "தொடர்பை ஒன்றிணைக்கவும்"
 
 msgid "addr_me_new_contact"
-msgstr ""
+msgstr "புதிய தொடர்பு"
 
 msgid "addr_me_recent"
-msgstr ""
+msgstr "அண்மைக் கால"
 
 msgid "addr_me_remove_contact"
-msgstr ""
+msgstr "தொடர்பை நீக்கு"
 
 msgid "addr_me_remove_contacts"
-msgstr ""
+msgstr "தொடர்புகளை நீக்கு"
 
 msgid "addr_me_request_author"
-msgstr ""
+msgstr "அங்கீகார கோரிக்கை"
 
 msgid "addr_me_send_card"
-msgstr ""
+msgstr "தொடர்பு அட்டையை அனுப்பவும்"
 
 msgid "addr_me_send_detail"
-msgstr ""
+msgstr "தொடர்பு விவரங்களை அனுப்பவும்"
 
 msgid "addr_me_sendmycard"
-msgstr ""
+msgstr "தொடர்பு அட்டையை அனுப்பவும்"
 
 msgid "addr_me_sendmydetail"
-msgstr ""
+msgstr "தொடர்பு விவரங்களை அனுப்பவும் "
 
 msgid "addr_me_settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "addr_me_status"
-msgstr ""
+msgstr "கிடைக்கும் தன்மை"
 
 msgid "addr_nc_delete_all_locally"
 msgstr ""
+"சாதனத்திலிருந்து அனைத்து தொடர்புகளையும் நீக்கவா?\n"
+" IM தொடர்புகள் சேவையகத்திலிருந்து நீக்கப்படவில்லை."
 
 msgid "addr_nc_delete_field"
-msgstr ""
+msgstr "புலத்தை நீக்கவா?"
 
 msgid "addr_nc_delete_fields"
-msgstr ""
+msgstr "புலங்களை நீக்கவா?"
 
 msgid "addr_nc_delete_im_username_field"
 msgstr ""
+"IM பயனர்பெயரை நீக்கவா?\n"
+" %s\n"
+" இந்த IM பயனர்பெயரை நீக்குவது %s இலிருந்து அதை அகற்றும்."
 
 msgid "addr_nc_delete_im_username_fields"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட IM பயனர்பெயர்களை நீக்கவா?\n"
+" IM பயனர்பெயர்களை நீக்குவது %s இலிருந்து அவற்றை அகற்றும்."
 
 msgid "addr_nc_delete_im_username_fields_several_services"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட IM பயனர்பெயர்களை நீக்கவா?\n"
+" IM பயனர்பெயர்களை நீக்குவதும் அவற்றை IM சேவையிலிருந்து அகற்றும்."
 
 msgid "addr_nc_notification14"
 msgstr ""
+"இந்த சேவைக்கு தொடர்புகளில் எந்த தொடர்புகளையும் காண முடியாது.\n"
+" இப்போது புதிய தொடர்பை உருவாக்கவா?"
 
 msgid "addr_nc_notification15"
-msgstr ""
+msgstr "தொடர்புகளுக்கு இறக்குமதி செய்யவா?"
 
 msgid "addr_nc_notification16"
-msgstr ""
+msgstr "தொடர்புகளை நீக்கு"
 
 msgid "addr_nc_notification19"
 msgstr ""
+"சேவையக நேரம்-அவுட். தொடர்புகளை மறுதொடக்கம் செய்ய வேண்டும். இப்போது மறுதொடக்கம் செய்யவா?"
 
 msgid "addr_nc_notification7"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட தொடர்புகளை நீக்கவா?"
 
 msgid "addr_nc_notification_im_username"
 msgstr ""
+"தொடர்பை நீக்கவா?\n"
+" %s\n"
+" இந்த தொடர்பை நீக்குவது %s இலிருந்து அதை அகற்றும்."
 
 msgid "addr_nc_notification_im_username_multiple"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட தொடர்புகளை நீக்கவா?\n"
+" தொடர்புகளை நீக்குவது அவற்றை %s இலிருந்து அகற்றும்."
 
 msgid "addr_nc_notification_im_username_multiple_several_services"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட தொடர்புகளை நீக்கவா?\n"
+" தொடர்புகளை நீக்குவது அவற்றை IM சேவைகளிலிருந்து அகற்றும்."
 
 msgid "addr_nc_notification_im_username_several_services"
 msgstr ""
+"தொடர்பை நீக்கவா?\n"
+" %s\n"
+" இந்த தொடர்பை நீக்குவது IM சேவைகளிலிருந்தும் அதை அகற்றும்."
 
 msgid "addr_nc_send_avatar"
-msgstr ""
+msgstr "அவதாரத்தையும் அனுப்ப விரும்புகிறீர்களா?"
 
 msgid "addr_ni_importing_fail"
-msgstr ""
+msgstr "இறக்குமதி தோல்வியடைந்தது"
 
 msgid "addr_ni_importing_fail_format"
 msgstr ""
+"இறக்குமதி தோல்வியடைந்தது.\n"
+" வடிவம் அங்கீகரிக்கப்படவில்லை."
 
 msgid "addr_ni_importing_fail_mem"
 msgstr ""
+"இறக்குமதி தோல்வியடைந்தது.\n"
+" போதுமான நினைவகம் இல்லை."
 
 msgid "addr_ni_importing_fail_size"
 msgstr ""
+"இறக்குமதி தோல்வியடைந்தது.\n"
+" கோப்பு மிகப் பெரியது."
 
 msgid "addr_ni_internal_error"
 msgstr ""
+"உள் பிழை.\n"
+" தொடர்புகள் மறுதொடக்கம் செய்யப்பட வேண்டும்."
 
 msgid "addr_pb_exporting_contacts"
-msgstr ""
+msgstr "தொடர்புகளை ஏற்றுமதி செய்தல்"
 
 msgid "addr_pb_importing_contacts"
-msgstr ""
+msgstr "தொடர்புகளை இறக்குமதி செய்தல்"
 
 msgid "addr_pb_load_contacts"
-msgstr ""
+msgstr "தொடர்புகளை ஏற்றுகிறது"
 
 msgid "addr_pb_notification13"
-msgstr ""
+msgstr "தொடர்புகளை இறக்குமதி செய்தல்"
 
 msgid "addr_pb_searching_contacts"
-msgstr ""
+msgstr "தொடர்புகளைத் தேடுகிறது"
 
 msgid "addr_ti_add_field_title"
-msgstr ""
+msgstr "புதிய புலம்"
 
 msgid "addr_ti_choose_own_account_bind"
-msgstr ""
+msgstr "உங்கள் சொந்த கணக்கைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_choose_own_account_chat"
-msgstr ""
+msgstr "இந்த தொடர்புடன் பயன்படுத்த ஒரு கணக்கைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_choose_own_account_voip"
-msgstr ""
+msgstr "இந்த தொடர்புடன் பயன்படுத்த ஒரு கணக்கைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_crop_avatar_title"
-msgstr ""
+msgstr "பயிர் அவதார்"
 
 msgid "addr_ti_delete_field"
-msgstr ""
+msgstr "புலங்களை நீக்கு"
 
 msgid "addr_ti_dia_select_contacts"
-msgstr ""
+msgstr "தொடர்புகளைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_export_wiz_st1"
-msgstr ""
+msgstr "ஏற்றுமதி தொடர்புகள் 1/5: வரவேற்கிறோம்"
 
 msgid "addr_ti_export_wiz_st1a"
-msgstr ""
+msgstr "ஏற்றுமதி தொடர்புகள் 2/5: ஏற்றுமதிக்கான தொடர்புகள்"
 
 msgid "addr_ti_export_wiz_st2"
-msgstr ""
+msgstr "ஏற்றுமதி தொடர்புகள் 3/5: கோப்பு வடிவம்"
 
 msgid "addr_ti_export_wiz_st3_folder"
-msgstr ""
+msgstr "ஏற்றுமதி தொடர்புகள் 4/5: கோப்புறை மற்றும் இருப்பிடம்"
 
 msgid "addr_ti_export_wiz_st4"
-msgstr ""
+msgstr "ஏற்றுமதி தொடர்புகள் 5/5: முழுமையானது"
 
 msgid "addr_ti_export_wiz_st4_fail"
-msgstr ""
+msgstr "ஏற்றுமதி தொடர்புகள் படி 5/5: தோல்வியுற்றது"
 
 msgid "addr_ti_get_contacts"
-msgstr ""
+msgstr "தொடர்புகளைப் பெறுங்கள்"
 
 msgid "addr_ti_groups_title"
-msgstr ""
+msgstr "குழுக்கள்"
 
 msgid "addr_ti_import_contact_folder_title"
-msgstr ""
+msgstr "தொடர்புகள் கோப்புறையை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_ti_import_contact_title"
-msgstr ""
+msgstr "தொடர்புகள் கோப்பை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_ti_import_contacts"
-msgstr ""
+msgstr "தொடர்புகளை இறக்குமதி செய்யுங்கள்"
 
 msgid "addr_ti_main_view"
-msgstr ""
+msgstr "அனைத்து தொடர்புகளும் (%d)"
 
 msgid "addr_ti_main_view_loading"
-msgstr ""
+msgstr "அனைத்து தொடர்புகளும்"
 
 msgid "addr_ti_main_view_recent"
-msgstr ""
+msgstr "அண்மைக் கால தொடர்புகள்"
 
 msgid "addr_ti_mecard_title"
-msgstr ""
+msgstr "எனது செய்தி"
 
 msgid "addr_ti_mecard_title_add_my_information"
-msgstr ""
+msgstr "எனது தகவலைச் சேர்க்கவும்"
 
 msgid "addr_ti_merge_contacts"
-msgstr ""
+msgstr "தொடர்புடன் ஒன்றிணைக்கவும்"
 
 msgid "addr_ti_newedit_edit_my_information_title"
-msgstr ""
+msgstr "எனது தகவலைத் திருத்தவும்"
 
 msgid "addr_ti_newedit_edit_title"
-msgstr ""
+msgstr "தொடர்பைத் திருத்து"
 
 msgid "addr_ti_newedit_new_title"
-msgstr ""
+msgstr "புதிய தொடர்பு"
 
 msgid "addr_ti_request_author"
-msgstr ""
+msgstr "%s அங்கீகார கோரிக்கை"
 
 msgid "addr_ti_search_exchange_contacts"
-msgstr ""
+msgstr "தேடல் அஞ்சல் பரிமாற்றம். தொடர்புகள்"
 
 msgid "addr_ti_sel_contact"
-msgstr ""
+msgstr "தொடர்பைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_select_avatar"
-msgstr ""
+msgstr "படத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_select_contact_detail"
-msgstr ""
+msgstr "தொடர்பு விவரங்களை அனுப்பவும்"
 
 msgid "addr_ti_select_picture_title"
-msgstr ""
+msgstr "படத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_send_card"
-msgstr ""
+msgstr "தொடர்பு அட்டையை வழியாக அனுப்பவும்"
 
 msgid "addr_ti_send_card_detail"
-msgstr ""
+msgstr "தொடர்பு விவரங்களை அனுப்பவும்"
 
 msgid "addr_ti_settings2"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "addr_ti_solve_conflict"
-msgstr ""
+msgstr "ஒன்றிணைக்கும் மோதல்களைத் தீர்க்கவும்"
 
 msgid "addr_ti_view_select_contacts"
-msgstr ""
+msgstr "தொடர்புகளைத் தேர்ந்தெடுக்கவும்"
 
 msgid "addr_ti_voicemail_contact_title"
-msgstr ""
+msgstr "குரல் அஞ்சல்"
 
 msgid "addr_va_add_field_address"
-msgstr ""
+msgstr "முகவரி"
 
 msgid "addr_va_add_field_address_home"
-msgstr ""
+msgstr "முகவரி (வீடு)"
 
 msgid "addr_va_add_field_address_work"
-msgstr ""
+msgstr "முகவரி (வேலை)"
 
 msgid "addr_va_add_field_birthday"
-msgstr ""
+msgstr "பிறந்த நாள்"
 
 msgid "addr_va_add_field_chat_googletalk"
-msgstr ""
+msgstr "கூகிள் பேச்சு பயனர் பெயர்"
 
 msgid "addr_va_add_field_chat_jabber"
-msgstr ""
+msgstr "சாபர் பயனர் பெயர்"
 
 msgid "addr_va_add_field_chat_nokiachat"
-msgstr ""
+msgstr "நோக்கியா பயனர் பெயர்"
 
 msgid "addr_va_add_field_chat_sip"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "addr_va_add_field_chat_skype"
-msgstr ""
+msgstr "ச்கைப் பெயர்"
 
 msgid "addr_va_add_field_company"
-msgstr ""
+msgstr "நிறுவனம்"
 
 msgid "addr_va_add_field_email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "addr_va_add_field_email_home"
-msgstr ""
+msgstr "மின்னஞ்சல் (வீடு)"
 
 msgid "addr_va_add_field_email_work"
-msgstr ""
+msgstr "மின்னஞ்சல் (வேலை)"
 
 msgid "addr_va_add_field_gender"
-msgstr ""
+msgstr "பாலினம்"
 
 msgid "addr_va_add_field_mobile"
-msgstr ""
+msgstr "மொபைல்"
 
 msgid "addr_va_add_field_mobile_home"
-msgstr ""
+msgstr "மொபைல் (வீடு)"
 
 msgid "addr_va_add_field_mobile_work"
-msgstr ""
+msgstr "மொபைல் (வேலை)"
 
 msgid "addr_va_add_field_nickname"
-msgstr ""
+msgstr "புனைப்பெயர்"
 
 msgid "addr_va_add_field_note"
-msgstr ""
+msgstr "குறிப்பு"
 
 msgid "addr_va_add_field_phone"
-msgstr ""
+msgstr "தொலைபேசி"
 
 msgid "addr_va_add_field_phone_fax"
-msgstr ""
+msgstr "தொலைநகல்"
 
 msgid "addr_va_add_field_phone_home"
-msgstr ""
+msgstr "தொலைபேசி (வீடு)"
 
 msgid "addr_va_add_field_phone_work"
-msgstr ""
+msgstr "தொலைபேசி (வேலை)"
 
 msgid "addr_va_add_field_title"
-msgstr ""
+msgstr "வேலை தலைப்பு"
 
 msgid "addr_va_add_field_webpage"
-msgstr ""
+msgstr "வலைப்பக்கம்"
 
 msgid "addr_va_emergency_number"
-msgstr ""
+msgstr "அவசர எண்"
 
 msgid "addr_va_export_wiz_st3_name_def"
-msgstr ""
+msgstr "ஏற்றுமதி செய்யப்பட்ட தொடர்புகள்"
 
 msgid "addr_va_firstname"
-msgstr ""
+msgstr "முதல் பெயர் கடைசி பெயர்"
 
 msgid "addr_va_general_female"
-msgstr ""
+msgstr "பெண்"
 
 msgid "addr_va_general_male"
-msgstr ""
+msgstr "ஆண்"
 
 msgid "addr_va_general_undefined"
-msgstr ""
+msgstr "வரையறுக்கப்படவில்லை"
 
 msgid "addr_va_groups_imgrp"
-msgstr ""
+msgstr "%s"
 
 msgid "addr_va_groups_simcard"
-msgstr ""
+msgstr "சிம் அட்டை தொடர்புகள்"
 
 msgid "addr_va_groups_sip"
-msgstr ""
+msgstr "சிப்"
 
 msgid "addr_va_lastname"
-msgstr ""
+msgstr "கடைசி பெயர் முதல் பெயர்"
 
 msgid "addr_va_lastname_comma"
-msgstr ""
+msgstr "கடைசி பெயர், முதல் பெயர்"
 
 msgid "addr_va_newedit_address_general"
-msgstr ""
+msgstr "பொது"
 
 msgid "addr_va_newedit_address_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_va_newedit_address_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_va_newedit_email_general"
-msgstr ""
+msgstr "பொது"
 
 msgid "addr_va_newedit_email_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_va_newedit_email_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_va_newedit_mobile_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_va_newedit_mobile_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_va_newedit_phone_fax"
-msgstr ""
+msgstr "தொலைநகல்"
 
 msgid "addr_va_newedit_phone_general"
-msgstr ""
+msgstr "பொது"
 
 msgid "addr_va_newedit_phone_home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "addr_va_newedit_phone_other"
-msgstr ""
+msgstr "ஆதரிக்கப்படாதது"
 
 msgid "addr_va_newedit_phone_work"
-msgstr ""
+msgstr "வேலை"
 
 msgid "addr_va_nickname"
-msgstr ""
+msgstr "புனைப்பெயர்"
 
 msgid "addr_va_solve_conflict_birthday_set"
-msgstr ""
+msgstr "பிறந்தநாளை உள்ளிடவும்"
